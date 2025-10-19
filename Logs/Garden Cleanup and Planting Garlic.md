@@ -1,3 +1,9 @@
+---
+date: 2025-10-18
+tags:
+  - log
+---
+
 # Community Garden Cleanup
 
 Cleaned up the [[Wheelock Community Garden]] plot. Was shown the new location by Isabel. The two half plots I will have next year are adjacent to each other. With only the main wood chip path between.  Each bed is 20 feet by 30 feet.
