@@ -28,7 +28,7 @@ The company garden raised beds are 6' x 4' x ??" (I'm guessing 8").  Each bed is
 ### Layout
 
 This template lays out the approximate planting of this year's crop:
-![[2026 Co Garden Layout.svg]]
+![[2026 Co Garden Layout.svg|500]]
 An 8 inch gap was left from the siding to prevent cold/frost damage.  Garlic cloves were placed approximately 6 inches from each other.
 
 After the layer of compost has been placed, moved wood chip mulch back over, then cut up some plants to create green manure.  Finally, placed a layer of cardboard for insulation.
