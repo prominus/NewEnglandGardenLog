@@ -12,7 +12,7 @@ Cleaned up the [[Wheelock Community Garden]] plot. Was shown the new location by
 
 ### Garlic Types
 
-Planted the following garlic in company community garden:
+Planted the following [[garlic]] in company community garden:
 - [[Silver White Softneck Garlic]] 1x
 - [[German White Stiffneck Hardneck Garlic]] 1x
 - [[Montana Zemo Hardneck Garlic]] 2x
@@ -20,27 +20,27 @@ Planted the following garlic in company community garden:
 
 ### Compost
 
-Used two bags of 1 cubic feet cow manure compost.  One bag was mixed into existing soil. The other bag was layered on top of the soil once the garlic was planted. 
+Used two bags of 1 cubic feet cow manure [[compost]].  One bag was mixed into existing soil. The other bag was layered on top of the soil once the [[garlic]] was planted. 
 
 ### Garden Bed
 
-The company garden raised beds are 6' x 4' x ??" (I'm guessing 8").  Each bed is shared. So actual working space is 3' x 4'.
+The company garden [[raised beds]] are 6' x 4' x ??" (I'm guessing 8").  Each bed is shared. So actual working space is 3' x 4'.
 ### Layout
 
 This template lays out the approximate planting of this year's crop:
 ![[2026 Co Garden Layout.svg|500]]
-An 8 inch gap was left from the siding to prevent cold/frost damage.  Garlic cloves were placed approximately 6 inches from each other.
+An 8 inch gap was left from the siding to prevent cold/frost damage.  [[Garlic]] cloves were placed approximately 6 inches from each other.
 
 After the layer of compost has been placed, moved wood chip mulch back over, then cut up some plants to create green manure.  Finally, placed a layer of cardboard for insulation.
 
 # Planting
 
 ![[20251018_130952.webp|400]]
-- Working one bag of compost into the soil
+- Working one bag of [[compost]] into the soil
 ![[20251018_133530.webp|400]]
-- Covering garlic cloves
+- Covering [[garlic]] cloves
 ![[20251018_134050.webp|400]]
-- Adding last bag of compost as a layer
+- Adding last bag of [[compost]] as a layer
 ![[20251018_135408.webp|400]]
 - Adding green manure. Clippings of plants
 ![[20251018_140407.webp|400]]

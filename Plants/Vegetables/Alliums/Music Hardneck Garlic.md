@@ -6,7 +6,7 @@ Purchased at $7.95 at Botanical Interests: https://www.botanicalinterests.com/pr
 
 ### Description
 
-This cultivar was named after Canadian garlic grower Al Music, who brought it from Italy in the 1980s. High-yielding, robust plants produce very large bulbs with exceptional cold tolerance. Skins are white with a pink blush and contain 4–6 big, easy-to-peel cloves wrapped in bronze to pink-striped wrappers. Raw flavor has quite a bit of heat, but Cook's Illustrated also described it as "fragrant, floral, deep round garlic flavor, peppery, and sweet." Rich and sweet when baked. This best-selling garlic is known for its true garlic flavor and large yields, which is music to any garlic lover's ears. Stores approximately 9 months.
+This cultivar was named after Canadian [[garlic]] grower Al Music, who brought it from Italy in the 1980s. High-yielding, robust plants produce very large bulbs with exceptional cold tolerance. Skins are white with a pink blush and contain 4–6 big, easy-to-peel cloves wrapped in bronze to pink-striped wrappers. Raw flavor has quite a bit of heat, but Cook's Illustrated also described it as "fragrant, floral, deep round garlic flavor, peppery, and sweet." Rich and sweet when baked. This best-selling garlic is known for its true garlic flavor and large yields, which is music to any garlic lover's ears. Stores approximately 9 months.
 
 ### Variety Info
 
@@ -14,7 +14,7 @@ This cultivar was named after Canadian garlic grower Al Music, who brought it fr
 
 **Family:** Amaryllidaceae, subfamily Alleoideae (formerly Alliaceae) Allium or Onion family, includes onions, garlic, chives, shallots, and leeks.
 
-**Type:** Porcelain garlic
+**Type:** Porcelain [[garlic]]
 
 **Native:** Central Asia
 

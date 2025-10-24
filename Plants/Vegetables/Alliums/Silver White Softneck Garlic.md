@@ -6,7 +6,7 @@ Purchased at $6.95 at Botanical Interests: https://www.botanicalinterests.com/pr
 
 ### Description
 
-This softneck silverskin garlic was developed in California for its consistent performance and high yields. It is also proven to perform in cold, hot, and humid climates and coastal areas. It has a mild flavor and is great for eating fresh. 'Silver White' has a silvery white skin and contains 10–12 cloves. Harvest for this variety is in the late season. It is excellent for braiding and stores for up to 12 months when properly cured and kept in cool, dry conditions. Softneck varieties are very cold-hardy but do not require a cold period (winter) to produce bulbs, making them a reliable choice for mild climates.
+This softneck silverskin [[garlic]] was developed in California for its consistent performance and high yields. It is also proven to perform in cold, hot, and humid climates and coastal areas. It has a mild flavor and is great for eating fresh. 'Silver White' has a silvery white skin and contains 10–12 cloves. Harvest for this variety is in the late season. It is excellent for braiding and stores for up to 12 months when properly cured and kept in cool, dry conditions. Softneck varieties are very cold-hardy but do not require a cold period (winter) to produce bulbs, making them a reliable choice for mild climates.
 
 ### Variety Info
 
@@ -14,7 +14,7 @@ This softneck silverskin garlic was developed in California for its consistent p
 
 **Family:** Amaryllidaceae, subfamily Alleoideae (formerly Alliaceae) Allium or Onion family, includes onions, garlic, chives, shallots, and leeks.
 
-**Type:** Silverskin garlic
+**Type:** Silverskin [[garlic]]
 
 **Native:** Central Asia
 
