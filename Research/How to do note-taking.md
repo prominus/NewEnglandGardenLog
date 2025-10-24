@@ -18,7 +18,8 @@ I am wondering what the point of a [[fleeting note]] would be?  It sounds maybe 
 
 > "Fleeting notes are there for capturing ideas quickly while you are busy doing something else" (41)
 
-Okay, this makes a little more sense.  The TODO here is to carry a small notepad with you, and if you have an idea, write it down quickly.  Nightly or at least weekly, go through you jots and properly digest/categorize them in your notes.
+Okay, this makes a little more sense.  The TODO here is to carry a small notepad with you, and if you have an idea, write it down quickly.  Nightly or at least weekly, go through you jots and properly digest/categorize them in your notes. New [[Actions|Action]]:
 
-> [!Action]   [ ] Bring a small notebook with me in the garden to be able to jot ideas down.
+> [!Action]   
+> - [ ] Bring a small notebook with me in the garden to be able to jot ideas down.
 
