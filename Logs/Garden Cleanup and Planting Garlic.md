@@ -24,7 +24,7 @@ Used two bags of 1 cubic feet cow manure [[compost]].  One bag was mixed into ex
 
 ### Garden Bed
 
-The company garden [[raised beds]] are 6' x 4' x ??" (I'm guessing 8").  Each bed is shared. So actual working space is 3' x 4'.
+The [[Company Community Garden]] [[raised beds]] are 6' x 4' x ??" (I'm guessing 8").  Each bed is shared. So actual working space is 3' x 4'.
 ### Layout
 
 This template lays out the approximate planting of this year's crop:
