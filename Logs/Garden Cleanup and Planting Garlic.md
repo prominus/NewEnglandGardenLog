@@ -22,9 +22,9 @@ Planted the following [[garlic]] in company community garden:
 
 Used two bags of 1 cubic feet cow manure [[compost]].  One bag was mixed into existing soil. The other bag was layered on top of the soil once the [[garlic]] was planted. 
 
-### Garden Bed
+### Raised Bed
 
-The [[Company Community Garden]] [[raised beds]] are 6' x 4' x ??" (I'm guessing 8").  Each bed is shared. So actual working space is 3' x 4'.
+The [[Company Community Garden]] [[raised beds]] are 6' x 4' x 1'.  Each bed is shared. So actual working space is 3' x 4'. The soil fills about ~8-9" of the container.
 ### Layout
 
 This template lays out the approximate planting of this year's crop:
