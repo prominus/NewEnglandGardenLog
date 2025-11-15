@@ -2,6 +2,7 @@
 tags:
   - plant
   - vegetable
+  - garlic
 ---
 
 Purchased at $7.95 from Botanical Interests: https://www.botanicalinterests.com/products/german-white-hardneck-garlic?_pos=1&_psq=german+white+hardn&_ss=e&_v=1.0
