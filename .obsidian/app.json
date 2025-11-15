@@ -1,4 +1,7 @@
 {
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Logs",
+  "attachmentFolderPath": "Images"
 }
