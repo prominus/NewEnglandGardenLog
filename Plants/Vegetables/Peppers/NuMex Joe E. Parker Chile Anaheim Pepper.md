@@ -27,7 +27,7 @@ NuMex Joe E. Parker' is the ideal pepper for roasting, stuffing, or canning, in 
 
 **Scientific name:** Capsicum annuum
 
-**Type:** Under 5000 Scoville Units, Chile Pepper ([Learn more](https://www.botanicalinterests.com/blogs/sowing-guides/pepper-sow-and-grow-guide))
+**Type:** Under 5000 Scoville Units, Chile Pepper
 
 **Native:** Americas
 
