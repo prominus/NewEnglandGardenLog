@@ -38,7 +38,7 @@ Add some exotic charm to your garden and elevate your culinary creations with th
 
 **Exposure:** Full sun
 
-**Plant Dimensions** 4'-5' tall
+**Plant Dimensions** 1'-3' tall
 
 **Variety Info:** Looks to be dime size. ~0.25 inches. Site claims to be fruity and citrusy
 
@@ -59,3 +59,9 @@ Add some exotic charm to your garden and elevate your culinary creations with th
 **Row Spacing:** 24"–36"
 
 **Thinning:** Start indoors, plant seedlings 18"–24" apart outside
+
+### Growing Info
+
+**Harvesting:**  
+
+### Notes
