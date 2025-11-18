@@ -6,7 +6,7 @@ tags:
 ---
 **Website:** https://bohicapepperhut.com/products/black-pearl-seeds?_pos=1&_psq=black+pear&_ss=e&_v=1.0
 
-***10 seeds***
+***~10 seeds***
 
 ![[12h_-_Black_Pearl_600x.webp]]
 
@@ -40,7 +40,7 @@ The Black Pearl is a gorgeous pepper plant worth showing off.  This ornamental 
 
 **Days to Emerge:** 10–25 days
 
-**Seed Depth:** ¼"
+**Seed Depth:** 1/2"
 
 **Seed Spacing:** Start indoors
 
@@ -51,6 +51,8 @@ The Black Pearl is a gorgeous pepper plant worth showing off.  This ornamental 
 ### Growing Info
 
 **Harvesting:**  As they are more of a decorative plant there is no recommended harvest.  
+
+![[Bohica Pepper Hut - Pepper Growing Tips]]
 
 ### Notes
 

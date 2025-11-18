@@ -10,7 +10,7 @@ tags:
 - Link to useful blog: https://scorchsquad.com/blogs/articles/aji-charapita-cultivating-the-worlds-smallest-hot-pepper
 - https://peppergeek.com/aji-charapita-peppers/
 
-***10 seeds***
+***~10 seeds***
 
 ![[82a_-_Aji_Charapita_600x.webp]]
 
@@ -52,7 +52,7 @@ Add some exotic charm to your garden and elevate your culinary creations with th
 
 **Days to Emerge:** 7-40 days
 
-**Seed Depth:** ¼"
+**Seed Depth:** 1/2"
 
 **Seed Spacing:** Start indoors
 
@@ -62,6 +62,6 @@ Add some exotic charm to your garden and elevate your culinary creations with th
 
 ### Growing Info
 
-**Harvesting:**  
+![[Bohica Pepper Hut - Pepper Growing Tips]]
 
 ### Notes

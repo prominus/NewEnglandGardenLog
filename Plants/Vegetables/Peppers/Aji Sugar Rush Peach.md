@@ -6,7 +6,7 @@ tags:
 ---
 **Website:** https://bohicapepperhut.com/products/aji-sugar-rush-peach-seeds?_pos=1&_sid=93cec1738&_ss=r
 
-***10 seeds***
+***~10 seeds***
 
 ![[Pasted image 20251115160859.png]]
 
@@ -40,7 +40,7 @@ Variety info
 
 **Days to Emerge:** 7-40 days
 
-**Seed Depth:** ¼"
+**Seed Depth:** 1/2"
 
 **Seed Spacing:** Start indoors
 
@@ -51,6 +51,8 @@ Variety info
 ### Growing Info
 
 **Harvesting:**  Harvest once the signature stripe pattern is prevalent. 
+
+![[Bohica Pepper Hut - Pepper Growing Tips]]
 
 ### Notes
 
