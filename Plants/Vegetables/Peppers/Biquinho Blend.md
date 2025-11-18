@@ -11,7 +11,7 @@ tags:
 ![[0074i_Pepper-Chile-Biquinho-RY-Blend_zximsf.webp]]
 ### Description
 
-These Brazilian peppers are tangy, sweet, and smokey with a touch of heat. Biquinho (bee-KEE-nyo) means "little beak" in Portuguese; it is also known as button, piquillo, or chupetinha pepper. Green peppers ripen to red (red -colored seeds) or yellow (natural-colored seeds) and are traditionally pickled and served as appetizers or a drink garnish. A unique pepper that all can enjoy. 1,000–2,000 Scoville heat units (mild).
+These Brazilian [[peppers]] are tangy, sweet, and smokey with a touch of heat. Biquinho (bee-KEE-nyo) means "little beak" in Portuguese; it is also known as button, piquillo, or chupetinha [[peppers|pepper]]. Green [[peppers]] ripen to red (red -colored seeds) or yellow (natural-colored seeds) and are traditionally pickled and served as appetizers or a drink garnish. A unique [[peppers|pepper]] that all can enjoy. 1,000–2,000 Scoville heat units (mild).
 
 ### Variety Info
 
@@ -21,7 +21,7 @@ These Brazilian peppers are tangy, sweet, and smokey with a touch of heat. Biqui
 
 **Scientific name:** Capsicum chinense
 
-**Type:** Under 5000 Scoville Units, Chile Pepper
+**Type:** Under 5000 Scoville Units, Chile [[peppers|Pepper]]
 
 **Native:** Brazil
 
@@ -31,7 +31,7 @@ These Brazilian peppers are tangy, sweet, and smokey with a touch of heat. Biqui
 
 **Plant Dimensions:** 15"–24" tall and wide
 
-**Variety Info:** ¾"–1¼" fruit start out green and ripen to either red or golden yellow, rounded but tapering off to a point. Biquinho is a mild pepper at only 1,000 to 2,000 Scoville heat units; the heat can fluctuate in intensity depending on the climate, soil, and environment in which the peppers are grown.
+**Variety Info:** ¾"–1¼" fruit start out green and ripen to either red or golden yellow, rounded but tapering off to a point. Biquinho is a mild [[peppers|pepper]] at only 1,000 to 2,000 Scoville heat units; the heat can fluctuate in intensity depending on the climate, soil, and environment in which the [[peppers]] are grown.
 
 **Attributes:** Frost Sensitive, Good for Containers
 
@@ -53,6 +53,6 @@ These Brazilian peppers are tangy, sweet, and smokey with a touch of heat. Biqui
 
 ### Growing Info
 
-**Harvesting:** Harvest when peppers have turned to either red or golden yellow. When harvesting, take care to avoid touching the interior of any broken peppers, as the capsaicin is an extreme irritant, especially to the eyes. Wash hands thoroughly after harvesting or wear gloves to harvest peppers.
+**Harvesting:** Harvest when [[peppers]] have turned to either red or golden yellow. When harvesting, take care to avoid touching the interior of any broken [[peppers]], as the capsaicin is an extreme irritant, especially to the eyes. Wash hands thoroughly after harvesting or wear gloves to harvest [[peppers]].
 
 ### Notes

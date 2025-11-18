@@ -1,0 +1,6 @@
+---
+aliases:
+  - pepper
+  - Pepper
+  - Peppers
+---

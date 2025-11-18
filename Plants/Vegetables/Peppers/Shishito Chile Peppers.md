@@ -12,7 +12,7 @@ website: https://www.botanicalinterests.com/products/shishito-chili-pepper-organ
 
 ### Description
 
-The 'Shishito' is finding its way into many restaurants as a popular appetizer. The 2"–4" slender peppers have a citrusy, slightly smoky flavor enhanced by grilling or sautéing, and can be the life of the party when an occasional hot one passes the mouth of the unsuspecting. Highly productive plants. 50–200 Scoville heat units (mild).
+The 'Shishito' is finding its way into many restaurants as a popular appetizer. The 2"–4" slender [[peppers]] have a citrusy, slightly smoky flavor enhanced by grilling or sautéing, and can be the life of the party when an occasional hot one passes the mouth of the unsuspecting. Highly productive plants. 50–200 Scoville heat units (mild).
 
 ### Variety Info
 
@@ -22,7 +22,7 @@ The 'Shishito' is finding its way into many restaurants as a popular appetizer. 
 
 **Scientific name:** Capsicum annuum
 
-**Type:** Under 1000 Scoville Units, Chile Pepper ([Learn more](https://www.botanicalinterests.com/blogs/sowing-guides/pepper-sow-and-grow-guide))
+**Type:** Under 1000 Scoville Units, Chile [[peppers|Pepper]]
 
 **Native:** Americas
 
@@ -32,7 +32,7 @@ The 'Shishito' is finding its way into many restaurants as a popular appetizer. 
 
 **Plant Dimensions:** 24"–36" tall
 
-**Variety Info:** 2"–4" long, thin, medium green, slightly wrinkled, some curved. Flavor is citrusy and slightly smoky. About 90 percent of shishitos will be mild, but the others will be slightly hot. Scoville heat units for 'Shishito' are 50–200, making the occasional hot pepper quite mild.
+**Variety Info:** 2"–4" long, thin, medium green, slightly wrinkled, some curved. Flavor is citrusy and slightly smoky. About 90 percent of shishitos will be mild, but the others will be slightly hot. Scoville heat units for 'Shishito' are 50–200, making the occasional hot [[peppers|pepper]] quite mild.
 
 **Attributes:** Frost Sensitive, Good for Containers
 
@@ -54,7 +54,7 @@ The 'Shishito' is finding its way into many restaurants as a popular appetizer. 
 
 ### Growing Info
 
-**Harvesting:** Generally harvested when green, at 2"–4" long, but can also be left on the plant to mature to red. When harvesting, take care to avoid touching the interior of any broken peppers, as the capsaicin is an extreme irritant, especially to the eyes. Wash hands thoroughly after harvesting or wear gloves to harvest peppers.
+**Harvesting:** Generally harvested when green, at 2"–4" long, but can also be left on the plant to mature to red. When harvesting, take care to avoid touching the interior of any broken [[peppers]], as the capsaicin is an extreme irritant, especially to the eyes. Wash hands thoroughly after harvesting or wear gloves to harvest [[peppers]].
 
 ### Notes
 

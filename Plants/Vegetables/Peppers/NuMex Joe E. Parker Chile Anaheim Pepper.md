@@ -17,7 +17,7 @@ aliases:
 
 ### Description
 
-NuMex Joe E. Parker' is the ideal pepper for roasting, stuffing, or canning, in addition to using fresh. This pepper has thick walls, uniform, 6"-8"-long fruit, with few seeds and big yields! Very productive plants. Peppers turn red when mature. 500-2,500 Scoville heat units (mild).
+NuMex Joe E. Parker' is the ideal [[peppers|pepper]] for roasting, stuffing, or canning, in addition to using fresh. This [[peppers|pepper]] has thick walls, uniform, 6"-8"-long fruit, with few seeds and big yields! Very productive plants. [[peppers|Peppers]] turn red when mature. 500-2,500 Scoville heat units (mild).
 
 ### Variety Info
 
@@ -27,7 +27,7 @@ NuMex Joe E. Parker' is the ideal pepper for roasting, stuffing, or canning, in 
 
 **Scientific name:** Capsicum annuum
 
-**Type:** Under 5000 Scoville Units, Chile Pepper
+**Type:** Under 5000 Scoville Units, Chile [[peppers|Pepper]]
 
 **Native:** Americas
 
@@ -37,7 +37,7 @@ NuMex Joe E. Parker' is the ideal pepper for roasting, stuffing, or canning, in 
 
 **Plant Dimensions:** 24" to 30" tall
 
-**Variety Info:** 6"–8" long, 1½"–2" wide, thick-walled green peppers, turning to red when mature. Introduced in 1990, 'NuMex Joe E. Parker' is a fairly mild, Anaheim pepper at 500–2500 Scoville heat units. Developed at New Mexico State University, and named for one of the evaluators who helped with its selection.
+**Variety Info:** 6"–8" long, 1½"–2" wide, thick-walled green [[peppers]], turning to red when mature. Introduced in 1990, 'NuMex Joe E. Parker' is a fairly mild, Anaheim [[peppers|pepper]] at 500–2500 Scoville heat units. Developed at New Mexico State University, and named for one of the evaluators who helped with its selection.
 
 **Attributes:** Frost Sensitive, Good for Containers
 
@@ -59,7 +59,7 @@ NuMex Joe E. Parker' is the ideal pepper for roasting, stuffing, or canning, in 
 
 ### Growing Info
 
-**Harvesting:** Harvest at 6"–8" long when green or red. Red peppers are sweeter. When harvesting, take care to avoid touching the interior of any broken peppers, as the capsaicin is an extreme irritant, especially to the eyes. Wash hands thoroughly after harvesting or wear gloves to harvest peppers.
+**Harvesting:** Harvest at 6"–8" long when green or red. Red [[peppers]] are sweeter. When harvesting, take care to avoid touching the interior of any broken [[peppers]], as the capsaicin is an extreme irritant, especially to the eyes. Wash hands thoroughly after harvesting or wear gloves to harvest [[peppers]].
 
 ### Notes
 

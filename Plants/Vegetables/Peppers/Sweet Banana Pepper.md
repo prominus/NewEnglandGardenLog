@@ -11,7 +11,7 @@ tags:
 ![[sweet banana 20251114191853.png]]
 ### Description
 
-This Hungarian heirloom from 1941 is the traditional pickling type. It is very long, bright yellow, and thick walled. Not a pickler? Enjoy it fresh as a snack or in salads, throw it on the grill, or use in any recipe calling for sweet pepper. Peppers will turn to a orange-red if left on the plant. A good short-season choice and successful in containers. A 1941 All-America Selections award winner.
+This Hungarian heirloom from 1941 is the traditional pickling type. It is very long, bright yellow, and thick walled. Not a pickler? Enjoy it fresh as a snack or in salads, throw it on the grill, or use in any recipe calling for sweet [[peppers|pepper]]. [[Peppers]] will turn to a orange-red if left on the plant. A good short-season choice and successful in containers. A 1941 All-America Selections award winner.
 
 ### Variety Info
 
@@ -21,7 +21,7 @@ This Hungarian heirloom from 1941 is the traditional pickling type. It is very l
 
 **Scientific name:** Capsicum annuum
 
-**Type:** Sweet Pepper
+**Type:** Sweet [[peppers|Pepper]]
 
 **Native:** Americas
 
@@ -31,7 +31,7 @@ This Hungarian heirloom from 1941 is the traditional pickling type. It is very l
 
 **Plant Dimensions:** 16"–24" upright plants
 
-**Variety Info:** 5"–7" long and 1 ½" wide, mild, yellow peppers.
+**Variety Info:** 5"–7" long and 1 ½" wide, mild, yellow [[peppers]].
 
 **Attributes:** Frost Sensitive, Good for Containers
 
@@ -53,8 +53,8 @@ This Hungarian heirloom from 1941 is the traditional pickling type. It is very l
 
 ### Growing Info
 
-**Harvesting:** Harvest when 3"–5" long or longer and when peppers are yellow or orange-red. Even though banana peppers are usually harvested yellow, they will ripen to orange-red if left on the vine.
+**Harvesting:** Harvest when 3"–5" long or longer and when [[peppers]] are yellow or orange-red. Even though banana [[peppers]] are usually harvested yellow, they will ripen to orange-red if left on the vine.
 
 ### Notes
 
-Flavor of the pepper at the yellow stage was fine, but not remarkable.  Lacto-fermented peppers tasted well, but not noticeably different from a jar of pepperoncini. As such, I decided to not overwinter any of the potted plants nor do I think I will grow them in the 2026 season.  
+Flavor of the [[peppers|pepper]] at the yellow stage was fine, but not remarkable.  Lacto-fermented [[peppers]] tasted well, but not noticeably different from a jar of pepperoncini. As such, I decided to not overwinter any of the potted plants nor do I think I will grow them in the 2026 season.  

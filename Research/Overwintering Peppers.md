@@ -4,11 +4,11 @@
 
 - Peppers are perennials in zone 9 and up
 - Canadian zone 3 roughly is equivalent to US zone 4
-- To trigger dormancy in any [[pepper]] is reduction in light and peppers.  You will notice peppers ripen, leaves begin to yellow, and no new flowers.
+- To trigger dormancy in any [[peppers]] is reduction in light and peppers.  You will notice peppers ripen, leaves begin to yellow, and no new flowers.
 - **Do NOT force dormancy!** Wait for the pepper to begin transitioning to dormancy. Let the climate do the work!
 - If there is a frost then either pull the plant indoors or cover.
 - Lifespan of a pepper plant is around **5 years**
-- Can keep a pruned [[pepper]] plant around 10 to 15 degrees Celsius (**50 to 60 degrees Fahrenheit**)
+- Can keep a pruned [[peppers]] plant around 10 to 15 degrees Celsius (**50 to 60 degrees Fahrenheit**)
 - Kept at the temperature above you can maybe keep them dormant for **2 to 3 months**
 - Keep them **watered every other week** with a tiny amount of water.
 - Look into [[turgor pressure]]

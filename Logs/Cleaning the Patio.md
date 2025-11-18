@@ -5,11 +5,11 @@ tags:
 ---
 ## Status on Peppers
 
-Someone should tell the [[pepper]] plants on my [[Patio Garden]] that it's the first day of November and well into the fall. Maybe not the best time to flower.
+Someone should tell the [[peppers|pepper]] plants on my [[Patio Garden]] that it's the first day of November and well into the fall. Maybe not the best time to flower.
 
 ![[20251101_102034.webp|400]]
 
-Still, the [[pepper]] leaves on most look fine, and the jalapeños that are growing fell sturdy. The only plants showing any strain from the season are the peppers that came out of the [[Company Community Garden]]. The one [[Stripey Sugar Rush]] that I'm really hoping will survive over wintering has no live leaves on it. For that one I began the pruning phase for over wintering.
+Still, the [[peppers|pepper]] leaves on most look fine, and the jalapeños that are growing fell sturdy. The only plants showing any strain from the season are the peppers that came out of the [[Company Community Garden]]. The one [[Stripey Sugar Rush]] that I'm really hoping will survive over wintering has no live leaves on it. For that one I began the pruning phase for over wintering.
 ![[20251101_130829.webp|300]]
 ![[20251101_130931.webp|400]]
 
