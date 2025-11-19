@@ -4,6 +4,7 @@ tags:
   - vegetable
   - pepper
 ---
+**Website:** https://www.botanicalinterests.com/products/jimmy-nardello-sweet-pepper-seeds?_pos=1&_sid=cb5d3ac6c&_ss=r
 
 ***~18 seeds***
 

@@ -1,4 +1,12 @@
+# Obsidian workspace file that stores last location
 .obsidian/workspace.json
 
+# Large image files
 *.jpg
+
+# Krita workspace files
 *.webp~
+
+# Compressed files
+*.zip
+*.7z

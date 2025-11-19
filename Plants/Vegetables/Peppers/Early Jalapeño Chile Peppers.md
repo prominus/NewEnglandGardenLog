@@ -5,7 +5,7 @@ tags:
   - pepper
 ---
 
-website page: https://www.botanicalinterests.com/products/early-jalapeno-chile-pepper-seeds?_pos=2&_sid=83dee809b&_ss=r
+**Website:** https://www.botanicalinterests.com/products/early-jalapeno-chile-pepper-seeds?_pos=2&_sid=83dee809b&_ss=r
 
 ***~30 Seeds***
 
