@@ -21,7 +21,7 @@ I am wondering what the point of a [[fleeting note]] would be?  It sounds maybe 
 Okay, this makes a little more sense.  The TODO here is to carry a small notepad with you, and if you have an idea, write it down quickly.  Nightly or at least weekly, go through you jots and properly digest/categorize them in your notes. New [[Actions|Action]]:
 
 > [!Action]   
-> - [ ] Bring a small notebook with me in the garden to be able to jot ideas down.
+> - [ ] #task Bring a small notebook with me in the garden to be able to jot ideas down.
 
 > "Zeigarnik successfully reproduced what is now known as the Zeigarnik effect: Open tasks tend to occupy our short-term memory – until they are done. That is why we get so easily distracted by thoughts of unfinished tasks, regardless of their importance. But thanks to Zeigarnik’s follow-up research, we also know that we don’t actually have to finish tasks to convince our brains to stop thinking about them. All we have to do is to write them down in a way that convinces us that it will be taken care of.
 > That’s right: The brain doesn’t distinguish between an actual finished task and one that is postponed by taking a note. By writing something down, we literally get it out of our heads." (67)
@@ -29,5 +29,5 @@ Okay, this makes a little more sense.  The TODO here is to carry a small notepad
 I find this idea interesting and would like to learn more about studies done for Zeingarnik effect:
 
 > [!Action]   
-> - [ ] Read up on [Zeingarnik Effect](https://en.wikipedia.org/wiki/Zeigarnik_effect)
+> - [ ] #task Read up on [Zeingarnik Effect](https://en.wikipedia.org/wiki/Zeigarnik_effect)
 
