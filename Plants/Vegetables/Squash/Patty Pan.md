@@ -20,6 +20,8 @@ If you love summer squash, you won't be able to get enough of this colorful blen
 
 **Family:** Cucurbitaceae
 
+**Scientific name:** Cucurbita pepo
+
 **Type:** Patty Pan Squash, Bush Squash, Summer Squash 
 
 **Native:** North America

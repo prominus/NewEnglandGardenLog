@@ -22,6 +22,8 @@ Is it art or food? Both! 'Romanesco' is not actually a cauliflower, but somewher
 
 **Family:** Brassicaceae
 
+**Scientific Name:** Brassica oleracea var. botrytis
+
 **Native:** Europe
 
 **Hardiness:** Frost-tolerant biennial grown as an annual

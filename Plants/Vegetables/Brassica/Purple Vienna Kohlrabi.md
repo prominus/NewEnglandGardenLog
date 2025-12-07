@@ -21,6 +21,8 @@ Because of its turnip-like appearance, kohlrabi is sometimes misclassified as a 
 
 **Family:** Brassicaceae
 
+**Scientific Name:** Brassica oleracea var. gongylodes
+
 **Native:** Europe
 
 **Hardiness:** Biennial, grown as an annual

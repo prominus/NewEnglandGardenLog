@@ -20,6 +20,8 @@ A renowned farm-to-table chef and a Cornell breeder worked for 6 years, crossing
 
 **Family:** Cucurbitaceae
 
+**Scientific name:** Cucurbita moschata
+
 **Type:** Butternut Squash, Winter Squash ([Learn more](https://www.botanicalinterests.com/blogs/sowing-guides/squash-winter-sow-and-grow-guide))
 
 **Native:** Northern Columbia

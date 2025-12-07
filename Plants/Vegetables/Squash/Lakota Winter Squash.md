@@ -19,6 +19,8 @@ This gorgeous squash is much more than a decoration. A superior baking variety, 
 
 **Family:** Cucurbitaceae
 
+**Scientific Name:** Cucurbita maxima
+
 **Type:** Lakota Squash, Winter Squash 
 
 **Native:** Argentina and Uruguay

@@ -20,6 +20,8 @@ Rutabaga, or swede, as the British call it, is a 4"-6" long root vegetable with 
 
 **Family:** Brassicaceae
 
+**Scientific name:** Brassica napus subsp. rapifera
+
 **Native:** Unknown
 
 **Hardiness:** Frost-tolerant biennial

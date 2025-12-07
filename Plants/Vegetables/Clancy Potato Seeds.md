@@ -19,6 +19,8 @@ We're excited about a potato grown from seed! 'Clancy' grows in a diversity of c
 
 **Family:** Solanaceae
 
+**Scientific Name:** Solanum tuberosum (hybrid)
+
 **Native:** Unknown; only in cultivation
 
 **Hardiness:** Annual

@@ -4,25 +4,22 @@ tags:
   - vegetable
   - lettuce
 ---
-**Website:** https://www.botanicalinterests.com/products/red-sails-leaf-lettuce-seeds?_pos=1&_psq=Red+Sails+Leaf+Lettuce+Seeds&_ss=e&_v=1.0
+**Website:** https://www.botanicalinterests.com/products/little-gem-mini-romaine-lettuce-seeds?_pos=1&_sid=d037bba73&_ss=r
 
-***~270 seeds***
-
-![[3103i_Lettuce-L-Red-Sails-ORG_6dqxwc.webp]]
+![[3102i_Lettuce-Rom-Little-Gem-ORG_9ms19z_0040a628-759f-4334-b1cb-4f3d42fd31d6.webp]]
 
 ### Description
 
-A favorite to use as baby greens, 'Red Sails' is ready to harvest after just 2 or 3 weeks and grows to a full head in just over 6 weeks. Very heat tolerant, the soft buttery leaves will grow well into warm weather without getting bitter. Contains more vitamins A and C than grocery-store lettuce! Attractive container variety, too. An All-America selections winner.
-
+Also called 'Sucrine' or 'Sugar Cos', 'Little Gem' is an English heirloom that is a small variety of romaine, but has the succulent sweetness of a butterhead. The glossy-leafed heads are a petite, 6" tall and 4" wide—the perfect size for an individual dinner salad. The tender, blanched heart is ideal for any recipe that calls for "hearts of romaine."
 ### Variety Info
 
-**Days to Maturity:** 20 –45 days
+**Days to Maturity:** 20 – 68 days
 
 **Family:** Asteraceae
 
 **Scientific name:** Lactuca sativa
 
-**Type:** Leaf Lettuce 
+**Type:** Romaine Lettuce
 
 **Native:** Unknown; lettuce has been in cultivation for a long time.
 
@@ -30,11 +27,11 @@ A favorite to use as baby greens, 'Red Sails' is ready to harvest after just 2 o
 
 **Exposure:** Full sun to part shade
 
-**Plant Dimensions:** 10"–12" tall and wide
+**Plant Dimensions:** 6" tall, 4" wide
 
-**Variety Info:** Light green, crinkled leaves turn to deep red-bronze on the frilly edges.
+**Variety Info:** Glossy, tightly-wrapped, upright, green leaves with a pale, creamy-yellow heart. Crisp texture with sweet, nutty flavor.
 
-**Attributes:** Frost Tolerant, Good for Containers
+**Attributes:** Frost Tolerant
 
 ### Sowing Info
 
@@ -46,13 +43,14 @@ A favorite to use as baby greens, 'Red Sails' is ready to harvest after just 2 o
 
 **Seed Depth:** Surface to ⅛"
 
-**Seed Spacing:** A group of 3 seeds every 10"
+**Seed Spacing:** A group of 3 seeds every 6"
 
-**Row Spacing:** 18"
+**Row Spacing:** 6"
 
-**Thinning:** When ½" tall, thin to 1 every 10"
+**Thinning:** When ½" tall, thin to 1 every 6"
 
 ### Growing Info
 
 **Harvesting:** Harvest in the morning, by cutting off at ground level. If regrowth is desired, cut the leaves higher, at 2". For a continual supply, outer, individual leaves can be harvested at any stage of maturity, but leave at least half of the plant for regrowth.
+
 ### Notes
