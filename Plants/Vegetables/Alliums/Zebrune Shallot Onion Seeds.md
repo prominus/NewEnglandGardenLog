@@ -64,7 +64,7 @@ This is a long day shallot based on this article: https://www.twopondsfarm.net/b
 
 
 > [!Action] 
->  - [ ] #task Purchase for the 2026 year
+>  - [x] #task Purchase for the 2026 year ✅ 2025-12-21
 
 When starting these seeds. omit using cells. and just scatter plant in a tray. The roots are relatively easy to split up, and the plant is very forgiving when transplanting.
 

@@ -57,5 +57,5 @@ Link for growing: https://www.botanicalinterests.com/community/blog/squash-summe
 Grow in paper pots
 
 > [!Action]
->  - [ ] #task Purchase Triumph Zucchini seeds for 2026
+>  - [x] #task Purchase Triumph Zucchini seeds for 2026 ✅ 2025-12-21
 

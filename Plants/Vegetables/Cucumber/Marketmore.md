@@ -4,24 +4,23 @@ tags:
   - vegetable
   - cucumber
 ---
-**Website:** https://www.botanicalinterests.com/products/hokus-gherkin-cucumber-seeds?_pos=1&_sid=5ffc5b678&_ss=r
+**Website:** https://www.botanicalinterests.com/products/marketmore-cucumber-seeds?_pos=1&_psq=marketmore&_ss=e&_v=1.0
 
-***~20 seeds***
+***~40 seeds***
 
-![[3127i_Cucumber-Gherkin-Hokus-ORG_yickfe_e4fe91db-d304-468f-bbb0-4b2b2169cc29.webp]]
+![[3123i_Cucumber-MarketMore-ORG_tcu70g_1ebeb970-5a34-4a56-9ddd-4aaf01f15c07.webp]]
 
 ### Description
 
-Gherkins are tiny cucumbers used for pickles, and these are the best; seedless, bitter-free, and uniform in shape. Use as small as 1½" long, or up to 4" for making excellent sweet pickles, French cornichons ("little horns"), or for fresh use. Plants are vining at up to 72"; grow against a trellis or fence for support.
+Introduced in 1968 by Cornell University, 'Marketmore' is a beautiful, dark green cucumber that's ready to pick when 6"–8" long. Fruits keep their size and shape even under poor weather conditions unlike other varieties that may curl and become misshapen. The 4'–6' long vines continue to produce with regular picking. Disease resistant.
+
 ### Variety Info
 
-**Days to Maturity:** 60 Days
+**Days to Maturity:** 60 days
 
 **Family:** Cucurbitaceae
 
-**Scientific name:** Cucumis sativus
-
-**Type:** [[Parthenocarpic]], Pickling Cucumber
+**Type:** Monoecious, Slicing Cucumber 
 
 **Native:** Southern Asia
 
@@ -29,9 +28,9 @@ Gherkins are tiny cucumbers used for pickles, and these are the best; seedless, 
 
 **Exposure:** Full sun
 
-**Plant Dimensions:** 72" vines
+**Plant Dimensions:** 4'–6' vines
 
-**Variety Info:** Hokus' is quick to produce small-spined, crunchy cucumbers. 'Hokus' is a parthenocarpic type cucumber that is best when harvested at under 4".
+**Variety Info:** 6"–8" long, 1 ½"–2" thick fruits with dark green, smooth, medium weight skin. 'Marketmore' was developed at Cornell University and introduced in 1968. Plants are resistant to cucumber mosaic virus.
 
 **Attributes:** Frost Sensitive
 
@@ -41,7 +40,7 @@ Gherkins are tiny cucumbers used for pickles, and these are the best; seedless, 
 
 **When to Start Inside:** 2 to 4 weeks before your average last frost date. Cucumbers are sensitive to root disturbance; sow in biodegradable pots.
 
-**Days to Emerge:** 5 – 10 Days
+**Days to Emerge:** 5–10 days
 
 **Seed Depth:** ½"
 
@@ -56,4 +55,6 @@ Gherkins are tiny cucumbers used for pickles, and these are the best; seedless, 
 **Harvesting:** Pick, and pick some more! Overly mature cucumbers on the vine will slow production of new cucumbers. Cut the stem rather than pulling at the fruit, as stems are fragile. To increase the quality and storage time, once picked, immediately immerse in cold water to disperse "field heat".
 
 ### Notes
+
+
 

@@ -61,4 +61,4 @@ A renowned farm-to-table chef and a Cornell breeder worked for 6 years, crossing
 Start in 5" cell
 
 > [!Action] 
-> - [ ] #task Purchase seeds for 2026
+> - [x] #task Purchase seeds for 2026 ✅ 2025-12-21
