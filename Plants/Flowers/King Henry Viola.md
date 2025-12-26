@@ -2,6 +2,7 @@
 tags:
   - plant
   - flower
+  - edible-flower
 ---
 **Website:** https://www.botanicalinterests.com/products/king-henry-viola-seeds?_pos=2&_psq=king&_ss=e&_v=1.0
 

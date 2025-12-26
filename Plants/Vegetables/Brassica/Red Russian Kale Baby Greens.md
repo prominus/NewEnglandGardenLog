@@ -16,7 +16,7 @@ How do you make a nutritional powerhouse even more nutritious? Grow it as a baby
 
 **Family:** Brassicaceae
 
-**Type:** Baby Greens ([Learn more](https://www.botanicalinterests.com/blogs/sowing-guides/microgreens-and-baby-greens-sow-and-grow-guide))
+**Type:** Baby Greens
 
 **Native:** Unknown
 
@@ -29,3 +29,24 @@ How do you make a nutritional powerhouse even more nutritious? Grow it as a baby
 **Variety Info:** Small, frilly, dark green leaves with reddish purple veins and stems.
 
 **Attributes:** Frost Tolerant, Cold Tolerant, Good for Containers
+
+### Sowing Info
+
+**When to Sow Outside:** 2 to 4 weeks before your average last frost date, when soil temperature is at least 40°F; ideally 50°-70°F. _Successive Sowings_: Every 2 weeks until 2 weeks before the first fall frost.
+
+**When to Start Inside:** RECOMMENDED. Sow indoors any time of year, with indoor temperatures 60°-75°F. _Successive Sowings_: Every 2 weeks for a continual supply. Transplanting baby greens is not recommended because they are so quick to harvest. Transplanting will slow growth and may cause plants to bolt (prematurely flower).
+
+**Days to Emerge:** 5–10 days
+
+**Seed Depth:** ⅛"–¼"
+
+**Seed Spacing:** ¾"
+
+**Thinning:** Not required
+
+### Growing Info
+
+**Harvesting:** When seedlings emerge, the first pair of leaves to show are the cotyledons, which can look very different from the leaves that follow, called "true" leaves. 'Red Russian' kale baby greens are ready to harvest 25 to 30 days after sowing, when they have true leaves at 2"-4". Cool growing temperatures may slow germination and growth. For the freshest and most healthful baby greens, harvest them directly from their growing container as needed by cutting just above the soil line. For more than one harvest (up to 3 before flavor declines) leave about 1/2" of leafy growth on the small plants so they can regenerate.
+
+### Notes
+

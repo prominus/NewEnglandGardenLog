@@ -2,6 +2,7 @@
 tags:
   - plant
   - flower
+  - grain
 ---
 **Website:** https://www.botanicalinterests.com/products/coral-fountain-amaranth-seeds?_pos=1&_psq=coral+am&_ss=e&_v=1.0
 

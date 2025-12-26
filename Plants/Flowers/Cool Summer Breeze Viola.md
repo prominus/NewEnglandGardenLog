@@ -2,6 +2,7 @@
 tags:
   - plant
   - flower
+  - edible-flower
 ---
 **Website:** https://www.botanicalinterests.com/products/cool-summer-breeze-viola-seeds?omnisendContactID=68346ffece4e6693fe878507
 
