@@ -20,6 +20,8 @@ Rare in grocery stores, 'Sun Gold's' plump, tangerine-colored fruits are a speci
 
 **Family:** Solanaceae
 
+**Scientific Name:** Solanum lycopersicum (hybrid)
+
 **Type:** Indeterminate, Low Acid, Cherry Tomato 
 
 **Native:** Andes

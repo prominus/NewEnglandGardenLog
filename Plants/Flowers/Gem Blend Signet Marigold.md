@@ -18,6 +18,8 @@ At just 12" tall, these rich-colored gems are great for borders, rock gardens, o
 
 **Family:** Asteraceae
 
+**Scientific Name:** Tagetes tenuifolia
+
 **Type:** Signet Marigold
 
 **Native:** Mexico and Central America

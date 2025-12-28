@@ -18,6 +18,8 @@ Impressive 'Black Velvet' will have the other garden flowers whispering in amaze
 
 **Family:** Tropaeolaceae
 
+**Scientific Name:** Tropaeolum minus
+
 **Native:** South America
 
 **Hardiness:** Frost-sensitive, tender perennial usually grown as an annual; perennial in USDA zones 10 and warmer.

@@ -17,6 +17,8 @@ The delightful color combination in this blend is sure to pretty-up your garden.
 
 **Family:** Violaceae
 
+**Scientific Name:** Viola cornuta
+
 **Native:** Southwestern Europe
 
 **Hardiness:** Frost-tolerant perennial in USDA zones 6–9

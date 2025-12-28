@@ -20,6 +20,8 @@ Easter Egg Blend is a mix of red, white, rose pink, purple, and bi-color (red to
 
 **Family:** Brassicaceae
 
+**Scientific Name:** Raphanus sativus
+
 **Type:** Spring/Summer radish
 
 **Native:** Unknown

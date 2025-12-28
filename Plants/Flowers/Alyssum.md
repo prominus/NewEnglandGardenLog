@@ -23,6 +23,8 @@ Nothing adds more delight to summer days than the gentle fragrance of sweet alys
 
 **Family:** Brassicaceae
 
+**Scientific Name:** Lobularia maritima
+
 **Native:** Mediterranean region
 
 **Hardiness:** Perennial in USDA zones 5 and warmer; often grown as an annual as it gets leggy in its second year.

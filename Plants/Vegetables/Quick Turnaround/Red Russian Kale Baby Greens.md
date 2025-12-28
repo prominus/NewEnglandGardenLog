@@ -1,3 +1,11 @@
+---
+tags:
+  - plant
+  - vegetable
+  - brassica
+  - baby-greens
+---
+
 **Website:** https://www.botanicalinterests.com/products/red-russian-kale-baby-greens-seeds?omnisendContactID=68346ffece4e6693fe878507
 
 ***~1150 seeds***
@@ -15,6 +23,8 @@ How do you make a nutritional powerhouse even more nutritious? Grow it as a baby
 **Days to Maturity:** 25–30 days
 
 **Family:** Brassicaceae
+
+**Scientific Name:** Brassica napus
 
 **Type:** Baby Greens
 

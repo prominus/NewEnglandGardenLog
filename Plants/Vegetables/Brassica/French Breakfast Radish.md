@@ -14,6 +14,8 @@ French Breakfast' has endured in gardens for over 100 years because of its wonde
 
 **Family:** Brassicaceae
 
+**Scientific Name:** Raphanus sativus
+
 **Type:** Spring/Summer radish
 
 **Native:** Unknown

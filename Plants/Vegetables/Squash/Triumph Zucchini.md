@@ -20,6 +20,8 @@ tags:
 
 **Family:** Cucurbitaceae
 
+**Scientific Name:** Cucurbita pepo (hybrid)
+
 **Type:** Bush Squash, Summer Squash
 
 **Native:** North America
