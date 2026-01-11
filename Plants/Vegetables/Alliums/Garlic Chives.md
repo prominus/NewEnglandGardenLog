@@ -3,6 +3,7 @@ tags:
   - plant
   - vegetable
   - allium
+  - herb
 ---
 **Website:** https://www.botanicalinterests.com/products/garlic-chives-heirloom-seeds?_pos=1&_psq=chives+garlic&_ss=e&_v=1.0
 
