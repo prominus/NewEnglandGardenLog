@@ -5,7 +5,9 @@ tags:
   - plant
   - vegetable
 ---
-**Website:** https://www.gurneys.com/products/jerusalem_artichoke
+###Websites:
+https://www.gurneys.com/products/jerusalem_artichoke
+https://hudsonvalleyseed.com/products/beaver-valley-sunchoke
 
 ***2 pound bag***
 
@@ -43,3 +45,5 @@ The Jerusalem Artichokes are tall plants and need room to spread out and develop
 #### Estimated ship date
 
 3A-6A | 4/27/26-6/5/26
+
+Ordered 1/2 pound bag from Hudson Valley of Beaver Valley Sunchoke
