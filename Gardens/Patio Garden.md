@@ -11,3 +11,5 @@ The micro climate dome caused by the bricks absorbing the sun causes plants cont
 The biggest issue of this space are the two pine trees just south of it that block high noon sun. As such, sun loving plants only do well in two small locations of the space, and in the coming 2026 season I will focus on only adding containers in those spots.
 
 If the berry bushes survive the winter, they will remain to the left of the south column. 
+
+![[2026 Patio Garden.svg]]
