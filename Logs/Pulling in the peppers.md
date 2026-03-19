@@ -7,7 +7,7 @@ tags:
 
 Tonight's low is supposed to be around 31 degrees Fahrenheit. I decided that this was good enough time as any to begin the winterization process in earnest.  
 
-The bootstrap farm's 5" containers did not arrive until 6 PM so I decided tonight that I would focus on just the pruning of the plants and the washing of the containers. 
+The bootstrap farm's [[5 Inch Nursery Pot]] did not arrive until 6 PM so I decided tonight that I would focus on just the pruning of the plants and the washing of the containers. 
 
 ![[Pasted image 20251106200229.png]]
 

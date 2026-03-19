@@ -16,7 +16,7 @@ I was initially going to rinse of the oil in another bucket of water, but that s
 The following products were used:
 - [[Neem Max]]
 - [[Miracle-Gro Potting Mix]]
-- [[Bootstrap Farm 5 Inch Containers]]
+- [[5 Inch Nursery Pot]]
 
 # Observations
 While brushing away the dirt I saw no presence of bugs or pests. The roots didn't look terribly warped. Nor were they malformed, wrapping over each other, or possessing weird tumors. There was no mush or rot on any of the plants.
