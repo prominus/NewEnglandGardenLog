@@ -1,10 +1,10 @@
 {
   "git": {
-    "remoteUrl": "",
-    "branch": "v4",
+    "remoteUrl": "https://github.com/prominus/NewEnglandGardenLog.git",
+    "branch": "main",
     "corsProxyUrl": "",
     "auth": {
-      "type": "basic",
+      "type": "bearer",
       "username": "",
       "secret": ""
     },
