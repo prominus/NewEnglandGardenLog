@@ -1,7 +1,10 @@
 ---
+title: 
+draft: false
 tags:
   - plant
   - vegetable
+  - eggplant
 ---
 **Website:** https://www.botanicalinterests.com/products/jewel-amethyst-eggplant-seeds?omnisendContactID=68346ffece4e6693fe878507
 

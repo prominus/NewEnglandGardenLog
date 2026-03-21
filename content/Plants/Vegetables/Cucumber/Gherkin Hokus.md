@@ -1,8 +1,10 @@
 ---
+title: 
+draft: false
 tags:
   - plant
   - vegetable
-  - cucumber
+   - cucumber
 ---
 **Website:** https://www.botanicalinterests.com/products/hokus-gherkin-cucumber-seeds?_pos=1&_sid=5ffc5b678&_ss=r
 

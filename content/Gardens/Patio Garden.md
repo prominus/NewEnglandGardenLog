@@ -1,8 +1,9 @@
 ---
-tags:
-  - garden
 title: Patio Garden
 draft: false
+tags:
+  - garden
+
 ---
 ![[20251101_144906.webp]]
 

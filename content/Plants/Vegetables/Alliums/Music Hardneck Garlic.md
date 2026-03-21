@@ -1,7 +1,10 @@
 ---
+title: 
+draft: false
 tags:
   - plant
   - vegetable
+  - garlic
 ---
 
 Purchased at $7.95 at Botanical Interests: https://www.botanicalinterests.com/products/music-hardneck-garlic?_pos=1&_psq=music+hardneck+gar&_ss=e&_v=1.0

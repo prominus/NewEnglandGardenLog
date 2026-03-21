@@ -1,4 +1,6 @@
 ---
+title: California Bluebells
+draft: false
 tags:
   - plant
   - flower

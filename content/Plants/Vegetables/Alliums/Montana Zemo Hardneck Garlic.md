@@ -1,7 +1,10 @@
 ---
+title: 
+draft: false
 tags:
   - plant
   - vegetable
+  - garlic
 ---
 
 Purchased at $8.95 from Botanical Interests: https://www.botanicalinterests.com/products/montana-zemo-hardneck-garlic?_pos=1&_psq=montana+zemo+hardneck+garlic&_ss=e&_v=1.0

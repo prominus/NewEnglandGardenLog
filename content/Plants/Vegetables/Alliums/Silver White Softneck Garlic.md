@@ -1,7 +1,10 @@
 ---
+title:
+draft: false
 tags:
   - plant
   - vegetable
+  - garlic
 ---
 
 Purchased at $6.95 at Botanical Interests: https://www.botanicalinterests.com/products/silver-white-softneck-garlic?_pos=2&_psq=silver+white&_ss=e&_v=1.0
