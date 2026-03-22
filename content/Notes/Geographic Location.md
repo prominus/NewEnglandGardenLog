@@ -1,5 +1,5 @@
 ---
-title:
+title: Geographic Location
 draft: false
 tags:
   -

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Mesclun Mix
 draft: false
 tags:
   - plant

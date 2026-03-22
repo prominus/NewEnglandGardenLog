@@ -1,5 +1,5 @@
 ---
-title:
+title: True Greek Oregano
 draft: false
 tags:
   - plant

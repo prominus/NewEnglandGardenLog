@@ -1,5 +1,5 @@
 ---
-title: 
+title: Sweet Banana Pepper
 draft: false
 tags:
   - plant
@@ -13,7 +13,7 @@ tags:
 ![[sweet banana 20251114191853.png]]
 ### Description
 
-This Hungarian heirloom from 1941 is the traditional pickling type. It is very long, bright yellow, and thick walled. Not a pickler? Enjoy it fresh as a snack or in salads, throw it on the grill, or use in any recipe calling for sweet [[peppers|pepper]]. [[Peppers]] will turn to a orange-red if left on the plant. A good short-season choice and successful in containers. A 1941 All-America Selections award winner.
+This Hungarian heirloom from 1941 is the traditional pickling type. It is very long, bright yellow, and thick walled. Not a pickler? Enjoy it fresh as a snack or in salads, throw it on the grill, or use in any recipe calling for sweet [[peppers|pepper]]. [[peppers]] will turn to a orange-red if left on the plant. A good short-season choice and successful in containers. A 1941 All-America Selections award winner.
 
 ### Variety Info
 

@@ -1,9 +1,11 @@
 ---
-aliases:
-  - Sunchokes
+title: Jerusalem Artichokes
+draft: false
 tags:
   - plant
   - vegetable
+aliases:
+  - Sunchokes
 ---
 ###Websites:
 https://www.gurneys.com/products/jerusalem_artichoke

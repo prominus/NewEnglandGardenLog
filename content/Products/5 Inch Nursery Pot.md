@@ -1,5 +1,5 @@
 ---
-title:
+title: 5 Inch Nursery Pot
 draft: false
 tags:
   - product

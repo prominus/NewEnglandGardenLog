@@ -1,5 +1,5 @@
 ---
-title: 
+title: Contender Bush Beans
 draft: false
 tags:
   - plant

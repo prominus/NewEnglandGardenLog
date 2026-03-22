@@ -1,5 +1,5 @@
 ---
-title: 
+title: Wildcat Cayenne
 draft: false
 tags:
   - plant
@@ -16,7 +16,7 @@ tags:
 
 Something cayenne pepper
 
-Variety info
+### Variety info
 
 **Days to Maturity:** 70-85 days from transplanting
 

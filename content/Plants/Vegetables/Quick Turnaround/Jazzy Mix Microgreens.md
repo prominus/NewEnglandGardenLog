@@ -1,5 +1,5 @@
 ---
-title: 
+title: Jazzy Mix Microgreens
 draft: false
 tags:
   - plant

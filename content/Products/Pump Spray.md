@@ -1,5 +1,5 @@
 ---
-title:
+title: Pump Spray
 draft: false
 tags:
   - product

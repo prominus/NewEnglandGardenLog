@@ -1,5 +1,5 @@
 ---
-title: 
+title: Montana Zemo Hardneck Garlic
 draft: false
 tags:
   - plant

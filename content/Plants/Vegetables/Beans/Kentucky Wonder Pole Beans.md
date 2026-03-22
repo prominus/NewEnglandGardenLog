@@ -1,5 +1,5 @@
 ---
-title: 
+title: Kentucky Wonder Pole Beans
 draft: false
 tags:
   - plant

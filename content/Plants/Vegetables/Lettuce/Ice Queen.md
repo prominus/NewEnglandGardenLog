@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ice Queen
 draft: false
 tags:
   - plant

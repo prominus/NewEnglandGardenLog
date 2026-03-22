@@ -1,5 +1,5 @@
 ---
-title:
+title: Italian Genovese Basil
 draft: false
 tags:
   - plant

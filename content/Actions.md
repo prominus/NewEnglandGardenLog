@@ -1,5 +1,5 @@
 ---
-title:
+title: Actions
 draft: false
 tags:
   -

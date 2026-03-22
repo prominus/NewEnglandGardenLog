@@ -1,5 +1,5 @@
 ---
-title: 
+title: Jewel Amethyst Eggplant
 draft: false
 tags:
   - plant

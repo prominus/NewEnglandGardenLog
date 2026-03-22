@@ -1,5 +1,5 @@
 ---
-title: 
+title: American Purple Top Rutabaga
 draft: false
 tags:
   - plant

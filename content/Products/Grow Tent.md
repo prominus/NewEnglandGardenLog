@@ -1,5 +1,5 @@
 ---
-title:
+title: Grow Tent
 draft: false
 tags:
   - product

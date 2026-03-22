@@ -1,5 +1,5 @@
 ---
-title:
+title: 5x5 Inch Grow Trays
 draft: false
 tags:
   - product

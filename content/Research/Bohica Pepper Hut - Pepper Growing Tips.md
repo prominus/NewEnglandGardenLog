@@ -1,5 +1,5 @@
 ---
-title:
+title: Bohica Pepper Hut - Pepper Growing Tips
 draft: false
 tags:
   -

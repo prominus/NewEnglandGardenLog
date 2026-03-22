@@ -1,5 +1,5 @@
 ---
-title: 
+title: Red Russian Kale Baby Greens
 draft: false
 tags:
   - plant

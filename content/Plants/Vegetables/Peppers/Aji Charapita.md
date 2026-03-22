@@ -1,5 +1,5 @@
 ---
-title: 
+title: Aji Charapita
 draft: false
 tags:
   - plant

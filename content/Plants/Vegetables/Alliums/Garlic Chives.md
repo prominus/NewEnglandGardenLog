@@ -1,5 +1,5 @@
 ---
-title:
+title: Garlic Chives
 draft: false
 tags:
   - plant

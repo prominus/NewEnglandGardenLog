@@ -1,5 +1,5 @@
 ---
-title: 
+title: Broccoli Sprouts Seeds
 draft: false
 tags:
   - plant

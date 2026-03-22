@@ -1,5 +1,5 @@
 ---
-title:
+title: Miracle-Gro Potting Mix
 draft: false
 tags:
   - product

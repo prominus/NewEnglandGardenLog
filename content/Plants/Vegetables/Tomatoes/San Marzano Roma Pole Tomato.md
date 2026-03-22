@@ -1,3 +1,11 @@
+---
+title: San Marzano Roma Pole Tomato
+draft: false
+tags:
+  - plant
+  - vegetable
+  - tomato
+---
 **Website:** https://www.botanicalinterests.com/products/san-marzano-pole-tomato-seeds?pr_prod_strat=jac&pr_rec_id=b4f43960b&pr_rec_pid=8083617153277&pr_ref_pid=8083617448189&pr_seq=uniform
 
 ***~25 seeds***

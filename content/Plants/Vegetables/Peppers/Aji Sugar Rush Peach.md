@@ -1,5 +1,5 @@
 ---
-title: 
+title: Aji Sugar Rush Peach
 draft: false
 tags:
   - plant

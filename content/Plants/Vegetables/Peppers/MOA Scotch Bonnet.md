@@ -1,5 +1,5 @@
 ---
-title: 
+title: MOA Scotch Bonnet
 draft: false
 tags:
   - plant
@@ -57,3 +57,5 @@ The Ministry of Agriculture (MOA) Jamaican Scotch Bonnet is a true, authentic va
 ![[Bohica Pepper Hut - Pepper Growing Tips]]
 
 ### Notes
+
+So far (2026-03-21) none of the seeds have germinated. That includes the [[2026-02-22 Begin the seedlings!]] and [[2026-03-08 MOA Scotch Bonnet 2.0]] dates.  It may be that this seed takes closer to the 4+ week mark to appear. If so, then this plant should be started a full **2 to 3 weeks earlier**.

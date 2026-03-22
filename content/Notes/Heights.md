@@ -1,3 +1,8 @@
+---
+title: Heights
+draft: false
+tags:
+---
 - [x] [[Aji Charapita]] gets to be 3 feet ✅ 2026-02-07
 - [x] [[Aji Sugar Rush Peach]] gets to be 5 feet ✅ 2026-02-07
 - [x] [[Biquinho Blend]] gets to be 2 feet tall ✅ 2026-02-07

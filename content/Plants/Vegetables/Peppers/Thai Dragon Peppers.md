@@ -1,5 +1,5 @@
 ---
-title: 
+title: Thai Dragon Peppers
 draft: false
 tags:
   - plant

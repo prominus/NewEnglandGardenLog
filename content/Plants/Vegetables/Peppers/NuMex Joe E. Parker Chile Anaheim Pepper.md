@@ -1,5 +1,5 @@
 ---
-title:
+title: NuMex Joe E. Parker Chile Anaheim Pepper
 draft: false
 tags:
   - plant

@@ -1,5 +1,5 @@
 ---
-title:
+title: Romanesco Cauliflower
 draft: false
 tags:
   - vegetable

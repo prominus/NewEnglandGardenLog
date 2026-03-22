@@ -1,5 +1,5 @@
 ---
-title: 
+title: Red Sails Leaf
 draft: false
 tags:
   - plant

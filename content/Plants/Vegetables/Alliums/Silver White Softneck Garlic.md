@@ -1,5 +1,5 @@
 ---
-title:
+title: Silver White Softneck Garlic
 draft: false
 tags:
   - plant

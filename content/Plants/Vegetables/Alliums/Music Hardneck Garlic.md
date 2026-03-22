@@ -1,5 +1,5 @@
 ---
-title: 
+title: Music Hardneck Garlic
 draft: false
 tags:
   - plant

@@ -1,5 +1,5 @@
 ---
-title: 
+title: How to do note-taking
 draft: false
 tags:
   - research

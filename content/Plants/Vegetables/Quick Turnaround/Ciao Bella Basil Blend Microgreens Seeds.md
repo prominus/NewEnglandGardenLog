@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ciao Bella Basil Blend Microgreens Seeds
 draft: false
 tags:
   - plant

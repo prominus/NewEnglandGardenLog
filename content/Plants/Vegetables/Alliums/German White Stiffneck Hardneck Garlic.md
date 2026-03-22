@@ -1,5 +1,5 @@
 ---
-title:
+title: German White Stiffneck Hardneck Garlic
 draft: false
 tags:
   - plant

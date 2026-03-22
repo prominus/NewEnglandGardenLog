@@ -1,5 +1,5 @@
 ---
-title: 
+title: Glass Gem Flint
 draft: false
 tags:
   - plant

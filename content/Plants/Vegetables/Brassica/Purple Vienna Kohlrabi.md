@@ -1,5 +1,5 @@
 ---
-title: 
+title: Purple Vienna Kohlrabi
 draft: false
 tags:
   - plant

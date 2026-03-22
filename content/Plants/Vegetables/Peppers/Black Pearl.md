@@ -1,5 +1,5 @@
 ---
-title: 
+title: Black Pearl
 draft: false
 tags:
   - plant

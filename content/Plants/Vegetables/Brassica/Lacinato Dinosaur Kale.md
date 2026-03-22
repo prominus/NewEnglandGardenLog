@@ -1,5 +1,5 @@
 ---
-title: 
+title: Lacinato Dinosaur Kale
 draft: false
 tags:
   - plant

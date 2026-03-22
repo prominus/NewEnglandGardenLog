@@ -1,5 +1,5 @@
 ---
-title: 
+title: Bean Mix Sprouts
 draft: false
 tags:
   - vegetable

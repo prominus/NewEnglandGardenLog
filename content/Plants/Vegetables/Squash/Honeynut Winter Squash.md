@@ -1,5 +1,5 @@
 ---
-title: 
+title: Honeynut Winter Squash
 draft: false
 tags:
   - vegetable

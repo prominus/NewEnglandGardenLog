@@ -1,5 +1,5 @@
 ---
-title: 
+title: Pasilla Bajio Chilaca Pepper
 draft: false
 tags:
   - plant

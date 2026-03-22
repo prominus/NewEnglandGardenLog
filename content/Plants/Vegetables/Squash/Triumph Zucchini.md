@@ -1,5 +1,5 @@
 ---
-title: 
+title: Triumph Zucchini
 draft: false
 tags:
   - plant

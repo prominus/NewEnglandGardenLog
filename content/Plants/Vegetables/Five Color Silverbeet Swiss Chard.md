@@ -1,5 +1,5 @@
 ---
-title:
+title: Five Color Silverbeet Swiss Chard
 draft: false
 tags:
   - plant

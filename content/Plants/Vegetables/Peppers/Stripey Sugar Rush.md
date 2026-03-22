@@ -1,5 +1,5 @@
 ---
-title: 
+title: Stripey Sugar Rush
 draft: false
 tags:
   - plant

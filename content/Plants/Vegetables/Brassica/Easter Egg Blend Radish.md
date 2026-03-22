@@ -1,5 +1,5 @@
 ---
-title: 
+title: Easter Egg Blend Radish
 draft: false
 tags:
   - plant

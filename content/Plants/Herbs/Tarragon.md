@@ -1,5 +1,5 @@
 ---
-title:
+title: Tarragon
 draft: false
 tags:
   - plant

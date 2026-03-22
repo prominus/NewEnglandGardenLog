@@ -1,5 +1,5 @@
 ---
-title: 
+title: Shishito Chile Peppers
 draft: false
 tags:
   - plant

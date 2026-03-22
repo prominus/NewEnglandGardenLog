@@ -1,5 +1,5 @@
 ---
-title: 
+title: Lakota Winter Squash
 draft: false
 tags:
   - plant

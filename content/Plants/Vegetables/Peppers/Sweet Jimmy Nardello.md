@@ -1,5 +1,5 @@
 ---
-title: 
+title: Sweet Jimmy Nardello
 draft: false
 tags:
   - plant
