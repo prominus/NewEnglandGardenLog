@@ -1,5 +1,5 @@
 ---
-title: 
+title: Seascape Everbearing Strawberry
 draft: false
 tags:
   - plant

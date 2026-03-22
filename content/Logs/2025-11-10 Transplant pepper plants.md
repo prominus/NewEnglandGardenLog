@@ -1,7 +1,9 @@
 ---
-date: 2025-11-10
+title: Transplant pepper plants
+draft: false
 tags:
   - log
+date: 2025-11-10
 ---
 # Finally moving the peppers
 

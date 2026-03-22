@@ -2,6 +2,7 @@
 title: Began seeds in jugs
 draft: false
 tags:
+  - log
 date: 2026-02-14
 ---
 

@@ -1,5 +1,5 @@
 ---
-title:
+title: Broadleaf Sage
 draft: false
 tags:
   - plant

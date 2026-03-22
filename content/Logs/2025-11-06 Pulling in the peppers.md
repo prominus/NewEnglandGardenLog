@@ -1,7 +1,9 @@
 ---
-date: 2025-11-06
+title: Pulling in the peppers
+draft: false
 tags:
   - log
+date: 2025-11-06
 ---
 # Heavily pruned the peppers
 

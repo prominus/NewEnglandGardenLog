@@ -1,5 +1,5 @@
 ---
-title:
+title: Gem Blend Signet Marigold
 draft: false
 tags:
   - plant

@@ -1,5 +1,5 @@
 ---
-title:
+title: Common Mint
 draft: false
 tags:
   - plant

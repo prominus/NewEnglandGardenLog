@@ -1,7 +1,9 @@
 ---
-date: 2025-11-07
+title: Transplant strawberry batch
+draft: false
 tags:
   - log
+date: 2025-11-07
 ---
 Given the cold weather of the previous night, the [[Seascape Everbearing Strawberry]] plants were moved to 15 fabric containers pots.
 ![[20251107_094227.webp]]

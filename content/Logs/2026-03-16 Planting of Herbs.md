@@ -1,4 +1,10 @@
-# Planting of Herbs
+---
+title: Planting of Herbs
+draft: false
+tags:
+  - log
+date: 2026-03-16
+---
 
 Started the following seeds:
 - [[Chives]] 1 six cell tray

@@ -60,4 +60,4 @@ These plants were astonishingly productive in the [[Company Community Garden]]. 
 
 These fruits have a lot of seeds in them. I recommend the next hot sauce made with them should have most of the seeds removed.
 
-I am [[Transplant pepper plants|overwintering 2]] of these plants for the 2026 season.
+I am [[2025-11-10 Transplant pepper plants|overwintering 2]] of these plants for the 2026 season.

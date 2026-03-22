@@ -1,3 +1,8 @@
+---
+title: Seedling Mix Recipe
+draft: false
+tags:
+---
 - 1 block of coconut coir (makes 2 gallons)
 - 12 cups of water
 - 2 cups perlite

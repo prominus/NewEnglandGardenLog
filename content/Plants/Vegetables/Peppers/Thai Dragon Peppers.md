@@ -62,4 +62,4 @@ A couple did fall over and die on me.  If planting make sure to plant more than 
 
 These were an amazing add to Asian dishes!  They dehydrated very well too. 
 
-I am [[Transplant pepper plants|overwintering 3]] of these plants for the 2026 season.
+I am [[2025-11-10 Transplant pepper plants|overwintering 3]] of these plants for the 2026 season.

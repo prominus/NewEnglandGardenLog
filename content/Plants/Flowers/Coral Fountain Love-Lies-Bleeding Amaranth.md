@@ -1,5 +1,5 @@
 ---
-title:
+title: Coral Fountain Love-Lies-Bleeding Amaranth
 draft: false
 tags:
   - plant

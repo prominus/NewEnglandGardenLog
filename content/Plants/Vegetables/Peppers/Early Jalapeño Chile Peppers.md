@@ -66,4 +66,4 @@ These [[peppers]] seemed to do extremely well on the [[Patio Garden]] despite be
 
 It's not noted anywhere on the website, but these [[peppers]] had a tendency to turn purple.
 
-Currently [[Transplant pepper plants|overwintering 2]] of these plants for the 2026 season
+Currently [[2025-11-10 Transplant pepper plants|overwintering 2]] of these plants for the 2026 season

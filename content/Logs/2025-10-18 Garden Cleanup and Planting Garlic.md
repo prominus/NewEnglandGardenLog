@@ -1,7 +1,9 @@
 ---
-date: 2025-10-18
+title: Garden Cleanup and Planting Garlic
+draft: false
 tags:
   - log
+date: 2025-10-18
 ---
 
 # Community Garden Cleanup

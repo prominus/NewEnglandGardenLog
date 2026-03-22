@@ -2,6 +2,7 @@
 title: And the peppers are reborn
 draft: false
 tags:
+  - log
 date: 2025-12-03
 ---
 ## Leaves have begun to appear on the peppers

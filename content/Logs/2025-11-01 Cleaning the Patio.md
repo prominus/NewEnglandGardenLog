@@ -1,7 +1,9 @@
 ---
-date: 2025-11-01
+title: Cleaning the Patio
+draft: false
 tags:
   - log
+date: 2025-11-01
 ---
 ## Status on Peppers
 
@@ -17,7 +19,7 @@ I have purchased neem oil from Gardner's Supply to treat the roots. For the one 
 
 ## Overview of the Community Garden
 
-It has been a few weeks since the [[Garden Cleanup and Planting Garlic|garden cleanup event]], so I stopped in to look at the state of the gardens. Sadly, no [[wine cap mushrooms]] were found.  It does look like the turned up foliage is breaking down nicely for next year. I will have to keep an eye on the pooling that occurs to the South of the tilled bed.
+It has been a few weeks since the [[2025-10-18 Garden Cleanup and Planting Garlic|garden cleanup event]], so I stopped in to look at the state of the gardens. Sadly, no [[wine cap mushrooms]] were found.  It does look like the turned up foliage is breaking down nicely for next year. I will have to keep an eye on the pooling that occurs to the South of the tilled bed.
 ![[20251101_095707.webp|400]]![[20251101_095800.webp|400]]
 The no till bed looks more or less as I last saw it.  There is still a mass of radish plants in the front. The pepper plants look quite dead, so they will definitely not last as long as the patio plants.  The fencing by wood chip path was pulled so I can get through to my no till plot next year.
 ![[20251101_100529.webp|400]]

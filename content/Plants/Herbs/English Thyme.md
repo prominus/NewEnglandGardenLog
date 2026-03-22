@@ -1,5 +1,5 @@
 ---
-title:
+title: English Thyme
 draft: false
 tags:
   - plant

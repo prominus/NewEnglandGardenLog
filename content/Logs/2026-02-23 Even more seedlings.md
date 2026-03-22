@@ -1,4 +1,10 @@
-# Even more seedlings
+---
+title: Even more seedlings
+draft: false
+tags:
+  - log
+date: 2026-02-23
+---
 
 Planted the following seedlings:
 

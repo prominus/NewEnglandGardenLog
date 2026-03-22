@@ -1,4 +1,10 @@
-# Begin the seedlings!
+---
+title: Begin the seedlings!
+draft: false
+tags:
+  - log
+date: 2026-02-22
+---
 
 Planted the following seedlings:
 - 6 [[Rosemary]]

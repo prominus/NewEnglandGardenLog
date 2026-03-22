@@ -62,4 +62,4 @@ The 'Shishito' is finding its way into many restaurants as a popular appetizer. 
 
 These plants did very well on the [[Patio Garden]]
 
-Currently [[Transplant pepper plants|overwintering 4]] for the season of 2026
+Currently [[2025-11-10 Transplant pepper plants|overwintering 4]] for the season of 2026

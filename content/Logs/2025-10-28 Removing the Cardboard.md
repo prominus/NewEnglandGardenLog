@@ -1,7 +1,9 @@
 ---
-date: 2025-10-28
+title: Removing the cardboard
+draft: false
 tags:
   - log
+date: 2025-10-28
 ---
 # Clearing up the mold
 
