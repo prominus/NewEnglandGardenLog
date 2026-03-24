@@ -14,7 +14,7 @@ tags:
 
 ***~10 seeds***
 
-![[82a_-_Aji_Charapita_600x.webp]]
+![[82a_-_Aji_Charapita_600x.webp|400]]
 
 ### Description
 

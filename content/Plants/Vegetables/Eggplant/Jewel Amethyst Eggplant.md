@@ -10,7 +10,7 @@ tags:
 
 ***~12 seeds***
 
-![[0400i_Eggplant-Jewel-Amethyst_63a3jx_68fda272-e8cf-4ae2-a11c-fb97a8b39ed5.webp]]
+![[0400i_Eggplant-Jewel-Amethyst_63a3jx_68fda272-e8cf-4ae2-a11c-fb97a8b39ed5.webp|400]]
 
 ### Description
 

@@ -10,7 +10,7 @@ tags:
 
 ***~12 seeds***
 
-![[0536i_Squash-Summer-Triumph.webp]]
+![[0536i_Squash-Summer-Triumph.webp|400]]
 
 ### Description
 

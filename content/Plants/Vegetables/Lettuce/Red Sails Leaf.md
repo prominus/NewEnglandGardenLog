@@ -10,7 +10,7 @@ tags:
 
 ***~270 seeds***
 
-![[3103i_Lettuce-L-Red-Sails-ORG_6dqxwc.webp]]
+![[3103i_Lettuce-L-Red-Sails-ORG_6dqxwc.webp|400]]
 
 ### Description
 

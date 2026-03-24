@@ -9,7 +9,7 @@ tags:
 
 ***~2770 seeds***
 
-![[6027i_Basil-Italian-Genovese-ORG_ou13d0_62e22e5d-d8f7-4c7c-8879-fcafb34e68e8.webp]]
+![[6027i_Basil-Italian-Genovese-ORG_ou13d0_62e22e5d-d8f7-4c7c-8879-fcafb34e68e8.webp|400]]
 
 ### Description
 

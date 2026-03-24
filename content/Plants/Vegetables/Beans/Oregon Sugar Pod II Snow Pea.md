@@ -10,7 +10,7 @@ tags:
 
 ***~60 seeds***
 
-![[0035i_Pea-Snow-Oregon-Sugar-Pod-II_2zx66r.webp]]
+![[0035i_Pea-Snow-Oregon-Sugar-Pod-II_2zx66r.webp|400]]
 
 ### Description
 

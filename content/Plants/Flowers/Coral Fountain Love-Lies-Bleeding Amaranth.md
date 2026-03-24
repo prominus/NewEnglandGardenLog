@@ -10,7 +10,7 @@ tags:
 
 ***~320 seeds***
 
-![[1339i_Amaranth-Coral-Fountain_jffyjg.webp]]
+![[1339i_Amaranth-Coral-Fountain_jffyjg.webp|400]]
 
 ### Description
 

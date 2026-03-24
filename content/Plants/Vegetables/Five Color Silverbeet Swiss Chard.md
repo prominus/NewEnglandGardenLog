@@ -9,7 +9,7 @@ tags:
 
 ***~80 seeds***
 
-![[3114i_Swiss-Chard-5-Color-Silverbeet-ORG_5f287v_74c5a5cd-0825-458c-9887-c0d87ef6580e.webp]]
+![[3114i_Swiss-Chard-5-Color-Silverbeet-ORG_5f287v_74c5a5cd-0825-458c-9887-c0d87ef6580e.webp|400]]
 
 ### Description
 

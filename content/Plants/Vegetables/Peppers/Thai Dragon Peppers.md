@@ -10,7 +10,7 @@ tags:
 
 ***10 seeds***
 
-![[1012-ThaiDragona_600x.webp]]
+![[1012-ThaiDragona_600x.webp|400]]
 
 ### Description
 

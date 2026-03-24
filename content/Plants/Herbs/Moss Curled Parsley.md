@@ -9,7 +9,7 @@ tags:
 
 ***~460 seeds***
 
-![[6011i_Parsley-Moss-Curled-ORG_ac838e52-f695-4490-8425-b67acea02927.webp]]
+![[6011i_Parsley-Moss-Curled-ORG_ac838e52-f695-4490-8425-b67acea02927.webp|400]]
 
 ### Description
 

@@ -11,7 +11,7 @@ tags:
 
 ***~120 seeds***
 
-![[5030i_Chives-Chinese-Garlic.webp]]
+![[5030i_Chives-Chinese-Garlic.webp|400]]
 
 ### Description
 

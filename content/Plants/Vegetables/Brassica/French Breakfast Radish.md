@@ -10,7 +10,7 @@ tags:
 
 ***~210 seeds***
 
-![[3008i_Radish-French-Breakfast-ORG_qe6jxf_069b10ef-037e-4d36-9965-9771d1161a34.webp]]
+![[3008i_Radish-French-Breakfast-ORG_qe6jxf_069b10ef-037e-4d36-9965-9771d1161a34.webp|400]]
 
 ### Description
 

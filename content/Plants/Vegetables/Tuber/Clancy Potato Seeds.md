@@ -9,7 +9,7 @@ tags:
 
 ***~12 seeds***
 
-![[0002i_Potato-Clancy_nxhlke.webp]]
+![[0002i_Potato-Clancy_nxhlke.webp|400]]
 
 ### Description
 

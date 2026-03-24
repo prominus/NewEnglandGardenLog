@@ -9,7 +9,7 @@ tags:
 
 ***~1560 seeds***
 
-![[6030i_Dill-Bouquet-ORG_vmfjpf_cb9c74c5-5504-4525-b292-357231d5d20d.webp]]
+![[6030i_Dill-Bouquet-ORG_vmfjpf_cb9c74c5-5504-4525-b292-357231d5d20d.webp|400]]
 
 ### Description
 

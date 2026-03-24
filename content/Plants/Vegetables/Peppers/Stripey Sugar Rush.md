@@ -10,7 +10,7 @@ tags:
 
 ***10 seeds***
 
-![[806a-SugarRushStripey_600x.webp]]
+![[806a-SugarRushStripey_600x.webp|400]]
 
 ### Description
 

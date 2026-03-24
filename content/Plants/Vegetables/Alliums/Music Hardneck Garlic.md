@@ -11,7 +11,7 @@ Purchased at $7.95 at Botanical Interests: https://www.botanicalinterests.com/pr
 
 **_Cloves per bulb: 4-6_**
 
-![[4946_garlic_music_800.webp]]
+![[4946_garlic_music_800.webp|400]]
 
 ### Description
 

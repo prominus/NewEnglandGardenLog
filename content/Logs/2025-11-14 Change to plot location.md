@@ -12,7 +12,7 @@ I was contacted by the overseer of the garden, and proposed moving to a full no-
 I went over to the garden to inspect the new plot more closely. Isabel noted that there were some flower bulbs that she'd like to collect in the spring. Where they are located I can only begin to guess. I'm assuming they are on the sides.
 
 I noticed there is some kale ready to be picked at any time.  The trellis material was moved from the original no till plot to this plot.
-![[20251117_125028.webp]]
-![[20251117_124946.webp]]
-![[20251117_124217.webp]]
-![[20251117_124207.webp]]
+![[20251117_125028.webp|400]]
+![[20251117_124946.webp|400]]
+![[20251117_124217.webp|400]]
+![[20251117_124207.webp|400]]

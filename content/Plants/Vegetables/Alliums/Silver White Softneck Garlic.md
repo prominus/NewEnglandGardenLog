@@ -11,7 +11,7 @@ Purchased at $6.95 at Botanical Interests: https://www.botanicalinterests.com/pr
 
 **_Cloves per bulb: 10-12_**
 
-![[4951_garlic_Silver_800.webp]]
+![[4951_garlic_Silver_800.webp|400]]
 
 ### Description
 

@@ -8,7 +8,7 @@ tags:
 ---
 **Website:** https://www.highmowingseeds.com/organic-non-gmo-kweik-lettuce.html
 
-![[kweik_lettuce.webp]]
+![[kweik_lettuce.webp|400]]
 
 ### Description
 

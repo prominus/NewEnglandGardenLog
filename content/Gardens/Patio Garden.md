@@ -5,7 +5,7 @@ tags:
   - garden
 
 ---
-![[20251101_144906.webp]]
+![[20251101_144906.webp|500]]
 
 The condo patio is is a southern facing, ~8' x 20' workable space. This space is roofed and does not have running water available outside. There is also some space used up by the southern column running up near the center of the southern border (can be seen just to the right in the image above).
 
@@ -15,4 +15,4 @@ The biggest issue of this space are the two pine trees just south of it that blo
 
 If the berry bushes survive the winter, they will remain to the left of the south column. 
 
-![[2026 Patio Garden.svg]]
+![[2026 Patio Garden.svg|500]]

@@ -8,7 +8,7 @@ tags:
 ---
 **Website:** https://www.botanicalinterests.com/products/little-gem-mini-romaine-lettuce-seeds?_pos=1&_sid=d037bba73&_ss=r
 
-![[3102i_Lettuce-Rom-Little-Gem-ORG_9ms19z_0040a628-759f-4334-b1cb-4f3d42fd31d6.webp]]
+![[3102i_Lettuce-Rom-Little-Gem-ORG_9ms19z_0040a628-759f-4334-b1cb-4f3d42fd31d6.webp|400]]
 
 ### Description
 

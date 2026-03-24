@@ -12,7 +12,7 @@ tags:
 
 ***~240 seeds***
 
-![[0235i_Cauliflower-Romanesco_mz85ee.webp]]
+![[0235i_Cauliflower-Romanesco_mz85ee.webp|400]]
 
 ### Description
 

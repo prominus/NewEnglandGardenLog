@@ -8,4 +8,4 @@ tags:
 
 Per the [[2025-11-14 Change to plot location]], this will be a ~30' x 20' bed in the western most section of the community garden.
 
-![[2026 Community Garden.svg]]
+![[2026 Community Garden.svg|500]]

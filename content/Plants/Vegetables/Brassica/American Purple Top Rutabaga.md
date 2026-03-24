@@ -10,7 +10,7 @@ tags:
 
 ***~480 seeds***
 
-![[0241i_Rutabaga-American-Purple-Top_tngiiy.webp]]
+![[0241i_Rutabaga-American-Purple-Top_tngiiy.webp|400]]
 
 ### Description
 

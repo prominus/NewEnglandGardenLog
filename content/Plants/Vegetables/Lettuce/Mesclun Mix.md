@@ -10,7 +10,7 @@ tags:
 
 Baby green link (image matches the one on the *Thank you Lettuce Mesclun*): https://www.botanicalinterests.com/products/gourmet-baby-greens-mesclun-lettuce-seeds?_pos=1&_sid=0c1236e25&_ss=r
 
-![[3125i_Lettuce-Mesclun-Gourmet-Baby-ORG_yu1pae_23e86097-7642-48bd-bf14-a3f984eaac01.webp]]
+![[3125i_Lettuce-Mesclun-Gourmet-Baby-ORG_yu1pae_23e86097-7642-48bd-bf14-a3f984eaac01.webp|400]]
 
 ### Display
 

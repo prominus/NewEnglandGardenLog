@@ -10,7 +10,7 @@ tags:
 
 ***~10 seeds***
 
-![[3182i_Squash-Winter-Honeynut-ORG_wkv6h5.webp]]
+![[3182i_Squash-Winter-Honeynut-ORG_wkv6h5.webp|400]]
 
 ### Description
 

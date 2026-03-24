@@ -11,7 +11,7 @@ Purchased at $7.95 from Botanical Interests: https://www.botanicalinterests.com/
 
 **_Cloves per bulb: 4-7_**
 
-![[4940_garlic_german-white_800.webp]]
+![[4940_garlic_german-white_800.webp|400]]
 ### Description
 
 This porcelain [[garlic]] is also known as 'German Extra-Hardy,' 'German White,' and 'Northern White.' Impressive bulbs are 2" or larger with white skins, containing 4-7 fat cloves with red-striped wrappers that are easy to peel. The strong, robust flavor has staying power but isn't overwhelming or hot. High sugar content makes these bulbs excellent when roasted. Originally from Germany, this long-time favorite was popularized by an organic farmer from New York. Especially cold-tolerant, this variety grows best in areas with cold winters and cool springs. Long roots help to anchor this cultivar deep in the ground, resisting heaving to the soil surface as the soil freezes and expands in the winter months. Good storage of 6 months.

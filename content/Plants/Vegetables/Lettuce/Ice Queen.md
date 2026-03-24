@@ -8,7 +8,7 @@ tags:
 ---
 **Website:** https://www.botanicalinterests.com/products/ice-queen-reine-des-glaces-crisphead-lettuce-seeds?_pos=1&_psq=ice+quee&_ss=e&_v=1.0&pb=0
 
-![[0305i_Lettuce-Batavia-Ice-Queen_f5b4ce29-0297-4caf-a9c1-81a0758b3255.webp]]
+![[0305i_Lettuce-Batavia-Ice-Queen_f5b4ce29-0297-4caf-a9c1-81a0758b3255.webp|400]]
 
 ### Description
 

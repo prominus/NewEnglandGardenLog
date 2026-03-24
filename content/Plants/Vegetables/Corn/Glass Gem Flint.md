@@ -10,7 +10,7 @@ tags:
 
 ***~38 seeds***
 
-![[3176i_Corn-Flint-Glass_Gem-ORG-BIO.webp]]
+![[3176i_Corn-Flint-Glass_Gem-ORG-BIO.webp|400]]
 
 ### Description
 

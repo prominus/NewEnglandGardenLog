@@ -10,7 +10,7 @@ tags:
 
 ***~25 seeds***
 
-![[3087i_Tomato-Pole-Roma-San-Marzano-ORG-new2025_tjsdjw.webp]]
+![[3087i_Tomato-Pole-Roma-San-Marzano-ORG-new2025_tjsdjw.webp|400]]
 
 ### Description
 

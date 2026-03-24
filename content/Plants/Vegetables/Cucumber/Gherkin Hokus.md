@@ -10,7 +10,7 @@ tags:
 
 ***~20 seeds***
 
-![[3127i_Cucumber-Gherkin-Hokus-ORG_yickfe_e4fe91db-d304-468f-bbb0-4b2b2169cc29.webp]]
+![[3127i_Cucumber-Gherkin-Hokus-ORG_yickfe_e4fe91db-d304-468f-bbb0-4b2b2169cc29.webp|400]]
 
 ### Description
 

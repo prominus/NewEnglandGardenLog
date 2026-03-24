@@ -10,7 +10,7 @@ tags:
 
 ***~10 seeds***
 
-![[12h_-_Black_Pearl_600x.webp]]
+![[12h_-_Black_Pearl_600x.webp|400]]
 
 ### Description
 

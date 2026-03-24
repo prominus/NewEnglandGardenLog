@@ -9,7 +9,7 @@ tags:
 
 ***~960 seeds***
 
-![[5037i_Oregano-True-Greek_c5nl6f_986b6b3c-8fc1-43dc-ade5-4ac3484b6d05.webp]]
+![[5037i_Oregano-True-Greek_c5nl6f_986b6b3c-8fc1-43dc-ade5-4ac3484b6d05.webp|400]]
 
 ### Description
 

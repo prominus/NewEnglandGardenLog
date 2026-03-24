@@ -50,6 +50,6 @@ The one blueberry bush that seemed mostly dead for this season was heavily prune
 ## Removal of the wooden trellises and cleanup of the patio
 
 The patio plants may be enjoy whatever microclimate is going on patio to keep them green, but the days continue to get short.  With the decent weather and daylight this Saturday, it was time to place trellis parts in the shed.  The neighbor's leaf blower was also used to blow out leaves and debris from the concrete.
-![[20251101_144854.webp]]
-![[20251101_144906.webp]]
-![[20251101_145721.webp]]
+![[20251101_144854.webp|400]]
+![[20251101_144906.webp|400]]
+![[20251101_145721.webp|400]]

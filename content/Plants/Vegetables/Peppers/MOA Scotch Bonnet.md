@@ -10,7 +10,7 @@ tags:
 
 ***~10 seeds***
 
-![[MoaScotchBonnet.webp]]
+![[MoaScotchBonnet.webp|400]]
 
 ### Description
 

@@ -10,7 +10,7 @@ tags:
 
 ***~2000 seeds***
 
-![[7620si_L-Microgreens-Umami-Asian-Blend-ORG_4dd6b0f5-07e9-476c-a0e5-0afdc0c64636.webp]]
+![[7620si_L-Microgreens-Umami-Asian-Blend-ORG_4dd6b0f5-07e9-476c-a0e5-0afdc0c64636.webp|400]]
 
 ### Description
 

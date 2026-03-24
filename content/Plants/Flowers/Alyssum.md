@@ -15,7 +15,7 @@ tags:
 
 ***~500 seeds***
 
-![[1072i_Alyssum-Sweet-Oriental-Nights_eb7183a9-9943-45e5-9e74-8567ff96ea94_fbiz5x.webp]]
+![[1072i_Alyssum-Sweet-Oriental-Nights_eb7183a9-9943-45e5-9e74-8567ff96ea94_fbiz5x.webp|400]]
 
 ### Description
 

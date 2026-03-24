@@ -10,7 +10,7 @@ tags:
 
 ***~16 seeds***
 
-![[0244i_Bean-Pole-Run-Scar-Emperor-2026packet.webp]]
+![[0244i_Bean-Pole-Run-Scar-Emperor-2026packet.webp|400]]
 
 ### Description
 

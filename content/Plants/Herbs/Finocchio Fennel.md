@@ -9,7 +9,7 @@ tags:
 
 ***~120 seeds***
 
-![[5032i_Fennel-Florence-Fino_4q0p28_c7197688-ec9b-4c8e-b8a4-d8352c603647.webp]]
+![[5032i_Fennel-Florence-Fino_4q0p28_c7197688-ec9b-4c8e-b8a4-d8352c603647.webp|400]]
 
 ### Description
 

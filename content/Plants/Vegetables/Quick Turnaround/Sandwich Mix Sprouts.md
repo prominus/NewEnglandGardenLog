@@ -9,7 +9,7 @@ tags:
 
 ***~9120 seeds***
 
-![[7803si_L-Sprouts-Sandwich-ORG_74c8bd64-ca8a-49ad-bd72-2a333dbb0aa0.webp]]
+![[7803si_L-Sprouts-Sandwich-ORG_74c8bd64-ca8a-49ad-bd72-2a333dbb0aa0.webp|400]]
 ### Description
 
 We put together this special mix of mild alfalfa and red clover, with just enough spicy radish to add lively flavor and texture to your sandwiches. But don't stop there! Try these sprouts in scrambled eggs, omelets, salads, and stir-fried with other vegetables—the culinary possibilities are limited only by your imagination!

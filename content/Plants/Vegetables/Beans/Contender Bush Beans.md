@@ -10,7 +10,7 @@ tags:
 
 ***~48 seeds***
 
-![[3034i_Bean-Bush-Contender-ORG-new2025_jp0m44_33f2ba1b-903f-4a4e-bafa-0295ba241b5a.webp]]
+![[3034i_Bean-Bush-Contender-ORG-new2025_jp0m44_33f2ba1b-903f-4a4e-bafa-0295ba241b5a.webp|400]]
 
 ### Description
 
