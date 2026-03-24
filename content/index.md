@@ -7,5 +7,5 @@ tags:
 ## Homepage
 
 
-Welcome to my second brain for my garden!
+Welcome to my second brain for my garden! This is a continuous work in progress.
 
