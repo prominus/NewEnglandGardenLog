@@ -1,4 +1,7 @@
 {
   "cssTheme": "Primary",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
 }
