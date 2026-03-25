@@ -1,7 +1,5 @@
 {
   "cssTheme": "Primary",
   "theme": "moonstone",
-  "enabledCssSnippets": [
-    "dashboard"
-  ]
+  "enabledCssSnippets": []
 }
