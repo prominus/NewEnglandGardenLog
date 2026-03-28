@@ -7,7 +7,7 @@ date: 2025-11-10
 ---
 # Finally moving the peppers
 
-I finally have some free time to move pepper plants out of old containers into new containers. After reading the label of [[Neem Max]] I decided I would do the following.  
+I finally have some free time to move pepper plants out of old containers into new containers. After reading the label of [[Captain Jack’s Neem Max Concentrate]] I decided I would do the following.  
 1. Pull out the root ball and brush out as much dirt and debris as possible
 2. Swirl the root ball in a bucket of water to dislodge stuck on dirt
 3. Dip the full plant in neem oil. Swirl root ball again in oil to make sure roots get fully coated.
@@ -16,7 +16,7 @@ I finally have some free time to move pepper plants out of old containers into n
 I was initially going to rinse of the oil in another bucket of water, but that seemed unnecessary on the instructions.  The plants were not watered into the new potting mix. I will spray the soil down to remove air pockets in a few days. Along with filling any gaps when the soil settles.
 ## Products
 The following products were used:
-- [[Neem Max]]
+- [[Captain Jack’s Neem Max Concentrate]]
 - [[Miracle-Gro Potting Mix]]
 - [[5 Inch Nursery Pot]]
 

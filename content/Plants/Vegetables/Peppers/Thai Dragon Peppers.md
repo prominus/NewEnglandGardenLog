@@ -6,7 +6,11 @@ tags:
   - vegetable
   - pepper
 ---
-**Website:** https://bohicapepperhut.com/products/thai-dragon-seeds?_pos=1&_psq=dragon+thai&_ss=e&_v=1.0
+### Websites:
+
+https://bohicapepperhut.com/products/thai-dragon-seeds?_pos=1&_psq=dragon+thai&_ss=e&_v=1.0
+
+https://www.botanicalinterests.com/products/thai-hot-chile-pepper-seeds?_pos=1&_psq=thai+hot&_ss=e&_v=1.0
 
 ***10 seeds***
 
@@ -22,15 +26,17 @@ The Thai Dragon Pepper (Capsicum annuum), also known as the Thai Culinary Pepper
 
 **Family:** Solanaceae
 
+**Type:** Over 50000 Scoville Units, Chile Pepper
+
 **Scientific name:** Capsicum annuum
 
 **Hardiness:** Frost-sensitive perennial grown as an annual
 
 **Exposure:** Full sun
 
-**Plant Dimensions** 24"–36" tall
+**Plant Dimensions:** 8"–10" tall and wide, mounding plant.
 
-**Variety Info:** About the size of a dime to nickel. Starts off purple and ripens to red. The website notes a faint citrus flavor, but the purple ones I tasted gave more of a floral note.
+**Variety Info:** Thin, elongated and pointed, about 1 ½"–3" long, thin-fleshed, bright green turning to red when mature. 'Thai Hot' is a very hot pepper at 50,000–100,000 Scoville heat units.
 
 **Attributes:** Frost Sensitive, Good for Containers
 
@@ -62,4 +68,6 @@ A couple did fall over and die on me.  If planting make sure to plant more than 
 
 These were an amazing add to Asian dishes!  They dehydrated very well too. 
 
-I am [[2025-11-10 Transplant pepper plants|overwintering 3]] of these plants for the 2026 season.
+I am [[2025-11-10 Transplant pepper plants|overwintering 3]] of these plants for the 2026 season. Neither survived 😥
+
+

@@ -1,3 +1,9 @@
+---
+title: Slug Plant Collar
+draft: false
+tags:
+  - product
+---
 **Website:** https://www.amazon.com/dp/B0DLKH45T3
 
 Purchased a 25 pack. 

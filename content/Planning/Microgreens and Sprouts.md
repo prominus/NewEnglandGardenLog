@@ -14,7 +14,7 @@ date: 2026-03-28
 | [[Bean Mix Sprouts]]                                 | sprouts            |
 | [[Alfalfa Sprouts\|Alfalfa]]                         | sprouts            |
 | [[Broccoli Sprouts Seeds\|Broccoli]]                 | sprouts            |
-| [[Ciao Bella Basil Blend Microgreens Seeds\|Basi]]l  | microgreens        |
+| [[Ciao Bella Basil Blend Microgreens Seeds\|Basil]]  | microgreens        |
 | [[Jazzy Mix Microgreens\|Jazzy Mix]]                 | microgreens        |
 | [[Mellow Blend Microgreens\|Mellow Blend]]           | microgreens        |
 | [[Sandwich Mix Sprouts\|Sandwich Mix]]               | microgreens        |

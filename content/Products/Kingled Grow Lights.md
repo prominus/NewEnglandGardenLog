@@ -1,3 +1,9 @@
+---
+title: Kingled Grow Lights
+draft: false
+tags:
+  - product
+---
 ### Websites:
 - For KP2000 - https://www.amazon.com/dp/B01MY27Q9H
 - For KP1000 - https://www.amazon.com/dp/B0185OLBPK

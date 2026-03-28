@@ -2,8 +2,6 @@
 title: New England Garden
 draft: false
 tags:
-cssclasses:
-  - dashboard
 ---
 # Homepage
 
