@@ -1,5 +1,5 @@
 ---
-title: A scotch bonnet has risen!
+title: A scotch bonnet has risen
 draft: false
 tags:
   - log
