@@ -8,6 +8,7 @@ date: 2026-03-28
 # One seedling has appeared
 
 Finally! One of the [[MOA Scotch Bonnet]] peppers planted way back on [[2026-02-22 Begin the seedlings!]] has finally emerged. So far, only one of the original has appeared.
+
 ![[20260328_120626.webp|400]]
 
 ### Bought some supplies at Garnder Supply
