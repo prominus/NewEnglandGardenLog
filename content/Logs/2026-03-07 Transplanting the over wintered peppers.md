@@ -2,6 +2,7 @@
 title: Transplanting the over wintered peppers
 draft: false
 tags:
+  - log
 date: 2026-03-07
 ---
 
