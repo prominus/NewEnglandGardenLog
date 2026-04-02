@@ -1,3 +1,11 @@
+---
+title: Garlic has sprouted
+draft: false
+tags:
+  - log
+date: 2026-04-01
+---
+
 ### Signs of garlic has survived the winter
 
 Both the hard and soft backs seem to have some shoots coming from the ground
