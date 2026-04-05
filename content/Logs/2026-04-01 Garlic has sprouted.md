@@ -14,10 +14,10 @@ Both the hard and soft backs seem to have some shoots coming from the ground
 
 ![[20260401_092051.webp|400]]
 
+
 ![[20260401_092056.webp|400]]
 
-![[20260401_092243.webp|400
-
+![[20260401_092243.webp|400]]
 
 ### All three Scotch Bonnets have appeared!
 
