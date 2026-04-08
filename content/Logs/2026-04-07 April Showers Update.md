@@ -27,3 +27,11 @@ Picked up the fourth [[Cattle Panel]] in order to set up the 4 trellises.
 Noticed more garlic shoots today in [[Company Community Garden]]
 
 ![[20260407_101735.webp|350]]
+
+### More seeds Transplanted
+
+Transplanted the following on 2026-04-07 into [[3.3 Inch Heavy Duty Pot]]
+
+- 5 [[Jewel Amethyst Eggplant]]
+- 4 [[Aji Charapita]]
+- 8 [[MOA Scotch Bonnet]]
