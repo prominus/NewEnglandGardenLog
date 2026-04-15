@@ -479,7 +479,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.395, 1.395;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide);marker-mid:url(#ColoredSquare);marker-end:url(#ArrowWide)"
+       style="fill:none;fill-rule:evenodd;stroke:#7b5e00;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.395, 1.395;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide);marker-mid:url(#ColoredSquare);marker-end:url(#ArrowWide)"
        d="m 18.934872,149.96651 76.289608,0.14286"
        id="path5"
        inkscape:connector-type="polyline"
@@ -498,34 +498,34 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff9e16;stroke:#000000;stroke-width:0.165;stroke-dasharray:none"
+       style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#7b5e00;stroke:#000000;stroke-width:0.165;stroke-dasharray:none;fill-opacity:1"
        x="52.938728"
        y="159.39526"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
-         style="fill:#170e00;fill-opacity:1;stroke:none;stroke-width:0.165;stroke-dasharray:none"
+         style="fill:#7b5e00;fill-opacity:1;stroke:none;stroke-width:0.165;stroke-dasharray:none"
          x="52.938728"
          y="159.39526">3'</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.4572;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.3716, 1.3716;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7);marker-mid:url(#ColoredSquare);marker-end:url(#ArrowWide)"
+       style="fill:none;fill-rule:evenodd;stroke:#7b5e00;stroke-width:0.4572;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.3716, 1.3716;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7);marker-mid:url(#ColoredSquare);marker-end:url(#ArrowWide)"
        d="M 102.95404,39.869737 V 141.49635"
        id="path6"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#170e00;fill-opacity:1;stroke:none;stroke-width:0.165;stroke-dasharray:none"
+       style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#7b5e00;fill-opacity:1;stroke:none;stroke-width:0.165;stroke-dasharray:none"
        x="108.61118"
        y="88.157478"
        id="text7"><tspan
          sodipodi:role="line"
          id="tspan7"
-         style="stroke-width:0.165"
+         style="stroke-width:0.165;fill:#7b5e00;fill-opacity:1"
          x="108.61118"
          y="88.157478">4'</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#454d42;stroke-width:0.603;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#7b5e00;stroke-width:0.603;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7"
        width="76.148369"
        height="101.96138"
@@ -535,10 +535,10 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-6.3500004,14.81667)"
        id="text8"
-       style="font-size:32px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.27906;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+       style="font-size:32px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#7b5e00;fill-opacity:1;stroke:none;stroke-width:2.27906;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="329.26758"
          y="449.44022"
-         id="tspan10">8&quot;</tspan></text>
+         id="tspan1">8&quot;</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.403;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.209, 1.209;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide-4-9);marker-mid:url(#ColoredSquare-8-4);marker-end:url(#ArrowWide-4-9)"
        d="m 77.691843,57.396302 0.0317,-16.953075"
@@ -555,10 +555,10 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-6.43839,-70.670532)"
        id="text8-4"
-       style="font-size:32px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.27906;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+       style="font-size:32px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8-1);display:inline;fill:#7b5e00;fill-opacity:1;stroke:none;stroke-width:2.27906;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="329.26758"
          y="449.44022"
-         id="tspan11">8&quot;</tspan></text>
+         id="tspan2">8&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.603001;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -811,9 +811,9 @@
        style="font-size:18.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15);display:inline;fill:#7b5e00;fill-opacity:1;stroke:none;stroke-width:2.27906;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="284.66211"
          y="67.904289"
-         id="tspan13"><tspan
+         id="tspan4"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan12">Montana Zemo</tspan></tspan></text>
+           id="tspan3">Montana Zemo</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,-2.4977836,203.92285)"
@@ -821,9 +821,9 @@
        style="font-size:18.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15-9);display:inline;fill:#7b5e00;fill-opacity:1;stroke:none;stroke-width:2.27906;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="284.66211"
          y="67.904289"
-         id="tspan15"><tspan
+         id="tspan8"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan14">Montana Zemo</tspan></tspan></text>
+           id="tspan6">Montana Zemo</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#7b5e00;fill-opacity:1;stroke:none;stroke-width:0.603001;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -907,7 +907,7 @@
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow-3)"
+       style="fill:none;fill-rule:evenodd;stroke:#7b5e00;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow-3)"
        d="m 114.80619,148.25864 -0.23007,-19.46412"
        id="path20"
        inkscape:connector-type="polyline"
@@ -915,13 +915,13 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#7b5e00;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="110.31976"
        y="158.54289"
        id="text20"><tspan
          sodipodi:role="line"
          id="tspan20"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';fill:#7b5e00;fill-opacity:1;stroke:none;stroke-width:1.065"
          x="110.31976"
          y="158.54289">N</tspan></text>
   </g>

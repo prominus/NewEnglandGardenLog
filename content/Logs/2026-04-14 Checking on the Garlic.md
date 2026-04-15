@@ -16,5 +16,4 @@ During a break I checked up on the garlic in the [[City Community Garden]]
 ![[20260414_103329.webp|400]]
 
 While I didn't take an extensive survey of how many cloves survived the winter, I can tell based on the images that the following green circles sprouted.
-
 ![[20260414 Co Garden Layout.svg|450]]
