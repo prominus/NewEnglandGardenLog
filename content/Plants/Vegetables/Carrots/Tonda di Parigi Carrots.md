@@ -1,3 +1,12 @@
+---
+title: Tonda di Parigi Carrots
+draft: false
+tags:
+  - plant
+  - vegetable
+  - carrot
+---
+
 **Website:** https://www.botanicalinterests.com/products/tonda-di-parigi-carrot-seeds?_pos=9&_sid=3daca4c96&_ss=r
 
 ***~400 seeds***

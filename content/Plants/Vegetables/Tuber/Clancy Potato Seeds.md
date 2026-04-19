@@ -4,6 +4,7 @@ draft: false
 tags:
   - plant
   - vegetable
+  - potato
 ---
 **Website:** https://www.botanicalinterests.com/products/clancy-potato-seeds?_pos=1&_sid=f9da126fc&_ss=r
 

@@ -9,17 +9,21 @@ Welcome to my second brain for my garden!
 
 ### Site Structure
 
-- Gardens
+- [Gardens](https://www.newenglandgarden.blog/Gardens/)
 	- Garden locations
-- Logs
+- [Logs](https://www.newenglandgarden.blog/Logs/)
 	- Gardening logs
-- Notes
+- [Mushrooms](https://www.newenglandgarden.blog/Mushrooms/)
+	- Information on mushrooms being grown
+- [Notes](https://www.newenglandgarden.blog/Notes/)
 	- Personal notes and references
-- Planning
+- [Planning](https://www.newenglandgarden.blog/Planning/)
 	- Seed starting and microgreen spreadsheets (TBD)
-- Plants
-	- Information of plants being grown
-- Products
+- [Plants](https://www.newenglandgarden.blog/Plants/)
+	- Information on plants being grown
+- [Products](https://www.newenglandgarden.blog/Products/)
 	- Gardening items purchased and used throughout the garden
-- Research
+- [Research](https://www.newenglandgarden.blog/Research/)
 	- Notes and references from others
+
+![[20260419_145302.webp|400]]
