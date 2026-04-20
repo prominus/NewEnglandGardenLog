@@ -18,7 +18,7 @@ Welcome to my second brain for my garden!
 - [Notes](https://www.newenglandgarden.blog/Notes/)
 	- Personal notes and references
 - [Planning](https://www.newenglandgarden.blog/Planning/)
-	- Seed starting and microgreen spreadsheets (TBD)
+	- Seed starting and microgreen spreadsheets
 - [Plants](https://www.newenglandgarden.blog/Plants/)
 	- Information on plants being grown
 - [Products](https://www.newenglandgarden.blog/Products/)
