@@ -8,6 +8,6 @@ tags:
   - carrot
 ---
 A blend of the following root vegetable seed packets:
-- [[Tonda di Parigi Carrots]]
+- [[Tonda di Parigi Carrot]]
 - [[Easter Egg Blend Radish]]
 - [[White Lady Turnip]]

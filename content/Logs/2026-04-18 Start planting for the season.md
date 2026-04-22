@@ -24,7 +24,7 @@ Seeded the following:
 - ~50 [[Oregon Sugar Pod II Snow Pea]]s (Finished the packet)
 - 3 [[American Purple Top Rutabaga]]
 - 4 [[Lacinato Dinosaur Kale]]
-- 2 rows mix of Carrots and radishes. Including [[Tonda di Parigi Carrots]] and [[Easter Egg Blend Radish]]
+- 2 rows mix of Carrots and radishes. Including [[Tonda di Parigi Carrot]] and [[Easter Egg Blend Radish]]
 - 2 rows of [[Ice Queen]]
 - 1 row of [[Five Color Silverbeet Swiss Chard]]
 
