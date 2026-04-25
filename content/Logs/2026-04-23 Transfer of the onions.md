@@ -1,4 +1,13 @@
+---
+title: Transfer of the onions
+draft: false
+tags:
+  - log
+date: 2026-04-23
+---
+
 # Loss of some brassicas
+
 
 The sun was too strong for the cauliflower and kohlrabi transplants and they died from being sun bleached. I replanted 4 [[Romanesco Cauliflower]], 5 [[Purple Vienna Kohlrabi]], and 1 [[American Purple Top Rutabaga]] on 2026-04-22. These should be quick to sprout up, and given they will sprout in the garden, I needn't worry about hardening off and sun shock. Duly noted next year to not bother starting brassicas indoor. If anything, start them milk jugs outside.  From the looks of it both lettuce and kale do quite well in the milk jugs.
 
