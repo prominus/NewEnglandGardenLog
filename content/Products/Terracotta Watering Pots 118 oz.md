@@ -8,4 +8,6 @@ tags:
 
 **Website:** https://www.amazon.com/dp/B0G6ZPBC59
 
-Purchased 4 of them to place in [[City Community Garden]]
+![[20260429_092242.webp|400]]
+
+Purchased 6 of them to place in [[City Community Garden]]

@@ -23,7 +23,7 @@ Along a portion of the southern border of the [[City Community Garden]], next to
 
 I have received one of two orders of sunchokes. This one being an order from [Gurney's Jerusalem Artichokes](https://www.gurneys.com/products/jerusalem_artichoke). The 2 pound bag ended up being 14 sunchokes. Those were spaced roughly 12 inches apart in the northern most row.
 
-I am expecting the other order of the [Hudson Valley Seed Co Sunchokes](https://hudsonvalleyseed.com/products/beaver-valley-sunchoke?_pos=3&_psq=sunchok&_ss=e&_v=1.0) to arrive come Monday (2026-04-27). This will only be 1/2 a pound so likely there will be 2 - 3 sunchokes. Given where I planted the sunchokes, and where I intend the corn, it looks like the [[Coral Fountain Love-Lies-Bleeding Amaranth]] will be more in the middle part of row 5 rather than the south side of row 5.
+I am expecting the other order of the [[Hudson Valley Seed Company]] to arrive come Monday (2026-04-27). This will only be 1/2 a pound so likely there will be 2 - 3 sunchokes. Given where I planted the sunchokes, and where I intend the corn, it looks like the [[Coral Fountain Love-Lies-Bleeding Amaranth]] will be more in the middle part of row 5 rather than the south side of row 5.
 ### Pics from the efforts
 
 ![[20260423_192343.webp|400]]

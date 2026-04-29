@@ -16,3 +16,9 @@ date: 2026-04-25
 # Fertilizing the company garden
 
 On 2026-04-24 I spread some [[Foxfarm Grow Big Fertilizer]] in the [[City Community Garden]] around the violas. 
+
+### Sewed some cover seed
+
+I scattered some quick growing or early producing plants over a portion of the [[Jerusalem Artichokes|Sunchokes]] and the brassicas:
+- [[Spinach]]
+- [[Easter Egg Blend Radish]]
