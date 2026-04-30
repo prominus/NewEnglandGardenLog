@@ -16,4 +16,4 @@ Insert the thermometer to a maximum depth of 2" or 3" in the soil. Check the rec
 - Easy to read dial in F° scaled from 30° to 90°
 - Stainless steel probe with glass lens
 - 6.5" temperature probe
-![[SoilTemperatureRanges.jpg|400]]
+![[SoilTemperatureRanges.webp|400]]

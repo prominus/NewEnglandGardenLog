@@ -9,6 +9,8 @@ date: 2026-04-29
 
 The sunchokes from [[Hudson Valley Seed Company]] ended up arriving on Friday, 20206-04-24.  I planted them on Saturday.
 
+![[20260424_123626.webp|400]]
+
 # Cover crops
 
 In the same plots that I planted sunchokes I also placed [[Spinach]] and [[Easter Egg Blend Radish]].  I also placed some of the [[Easter Egg Blend Radish]] around the brassicas.
