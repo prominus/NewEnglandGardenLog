@@ -1,5 +1,5 @@
 ---
-title: 2026-04-25 Starting the Squash
+title: Starting the Squash
 draft: false
 tags:
   - log
