@@ -9,4 +9,4 @@ tags:
 not done
 ```
 
-- [ ] #task Fold 16 paper pots
+- [x] #task Fold 16 paper pots ✅ 2026-04-30
