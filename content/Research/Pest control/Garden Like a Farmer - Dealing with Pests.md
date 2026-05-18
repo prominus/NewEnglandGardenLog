@@ -98,3 +98,38 @@ Be sure...
 - [[Squash bug]]
 - [[Squash vine borer]]
 - [[Hornworm]]
+#### Follow up email
+
+Carolina followed up the workshop with an email providing more links that she referenced:
+
+[Plant Partners: Science-Based Companion Planting Strategies for the Vegetable Garden](https://bookshop.org/p/books/plant-partners-science-based-companion-planting-strategies-for-the-vegetable-garden-jessica-walliser/0d50b17f20f7a96e?ean=9781635861334&next=t&gad_source=4&gad_campaignid=16235479093&gbraid=0AAAAACfld40_rqfKmCQ11flKBdEaVcWrt), by Jessica Walliser
+
+  
+
+[Northeast Vegetable Pest Identification Guide](https://www.umass.edu/agriculture-food-environment/vegetable/publications/northeast-vegetable-strawberry-pest-identification-guide?_gl=1%2A1waw5ui%2A_gcl_au%2ANzcyNjg2ODUxLjE3Nzg3MTU2NTY.%2A_ga%2ANjM5Mzg5NTU1LjE3Nzg3MTU2NTc.%2A_ga_21RLS0L7EB%2AczE3Nzg3MTU2NTYkbzEkZzEkdDE3Nzg3MTU2NzMkajQzJGwwJGgw)
+
+  
+
+UMass Extension - Scouting Guides for IPM Field Walks - [Alliums](https://www.umass.edu/agriculture-food-environment/sites/default/files/pdf-doc-ppt/allium_insect_disease_accessible.pdf) (other crops on website too!)
+
+  
+
+[UVM Master Gardener beneficial insects + pests](https://www.uvm.edu/d10-files/documents/2026-03/GardenInsects_0.pdf)
+
+  
+
+[Article on squash species](https://www.nofamass.org/articles/2021/05/pepo-maxima-and-moschata-know-your-cucurbits/#:~:text=The%20main%20species%20of%20cucurbits,moschata%3A%20butternut%2C%20most%20pumpkins), to remind everyone to learn as much as you can about varieties that are less susceptible to pest pressure.
+
+  
+
+Upcoming **Garden Like a Farmer** workshops will be announced soon. Here is a preview:
+
+June - Mulches
+
+July - Gardening with Future Farmers (aka KIDS!)
+
+August - Cover Cropping
+
+September - Perennials
+
+October - Garlic

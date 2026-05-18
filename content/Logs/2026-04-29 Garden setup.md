@@ -28,7 +28,7 @@ I decided to not wait for the potatoes to chit, and put potatoes in 6 [[20 Gallo
 ## Other plants
 
 I planted the following between 2026-04-27 and 2026-04-29:
-- 1 [[Black Velvet Nasturtiums]]
+- 1 [[Black Velvet Nasturtium]]
 - 1 [[Jewel Amethyst Eggplant]]
 - [[King Henry Viola]]
 - [[Cool Summer Breeze Viola]]

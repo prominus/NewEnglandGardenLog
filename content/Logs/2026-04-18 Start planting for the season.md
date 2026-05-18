@@ -34,7 +34,7 @@ Seeded the following:
 
 ## Started the Black Velvet
 
-Soaked three of the [[Black Velvet Nasturtiums]] on 2026-04-17. Placed them in paper pots.
+Soaked three of the [[Black Velvet Nasturtium]] on 2026-04-17. Placed them in paper pots.
 
 ## Seeds started on 2026-04-17
 

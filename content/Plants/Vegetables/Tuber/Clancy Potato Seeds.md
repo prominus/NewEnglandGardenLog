@@ -67,3 +67,5 @@ _Curing Storage Potatoes_: Unwashed potatoes should be cured in a dry, well-vent
 ### Notes
 
 Probably plant in 1-2 20 gallon grow bags on the [[Patio Garden]]
+
+My curse of pelletized seeds not working struck again. None of these seeds ended up germinating. I'll stick to buying seed potatoes instead of seeds. In a future I may try saving seeds directly to see what varieties I can produce.

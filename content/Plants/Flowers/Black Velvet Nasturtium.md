@@ -1,5 +1,5 @@
 ---
-title: Black Velvet Nasturtiums
+title: Black Velvet Nasturtium
 draft: false
 tags:
   - plant
