@@ -1,6 +1,6 @@
 ---
 title: Tropical Smoothie
-draft: false
+draft: true
 tags:
   - plant
 ---
