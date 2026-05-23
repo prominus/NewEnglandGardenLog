@@ -9,7 +9,7 @@ tags:
 
 ***~616 seeds***
 
-![[6028i_Cilantro-Coriander-Long-Standing-ORG_05e13127-80bc-475a-8b63-6bd516aed0c0.webp|400]]
+![[6028i_Cilantro-Coriander-Long-Standing-ORG_05e13127-80bc-475a-8b63-6bd516aed0c0.webp|600]]
 
 ### Description
 

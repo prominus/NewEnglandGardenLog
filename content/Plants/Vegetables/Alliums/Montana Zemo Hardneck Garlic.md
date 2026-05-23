@@ -12,7 +12,7 @@ Purchased at $8.95 from Botanical Interests: https://www.botanicalinterests.com/
 
 
 **_Cloves per bulb: 4-7_**
-![[4947_garlic_montana-zemo_800.webp|400]]
+![[4947_garlic_montana-zemo_800.webp|600]]
 ### Description
 
 This beautiful, vigorous porcelain type produces large, dense, white bulbs with huge, pink-wrapped cloves. When eaten raw, expect a robust, complex [[garlic]] flavor with little heat and virtually no aftertaste. Its flavor is buttery, nutty, rich, and even somewhat sweet when cooked. Developed at the base of the Mission Mountains in Northwestern Montana, it does extremely well in cold climates. Said to be developed from 'Zemo', a favorite of Cook's Illustrated in taste tests. 4–7 large cloves per bulb. Stores up to 6 months.

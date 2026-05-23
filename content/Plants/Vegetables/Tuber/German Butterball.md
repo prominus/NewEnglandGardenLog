@@ -8,7 +8,7 @@ tags:
 ---
 **Website:** https://www.gurneys.com/products/german_butterball_potato
 
-![[20260419_112328.webp|400]]
+![[20260419_112328.webp|600]]
 
 ### Description
 

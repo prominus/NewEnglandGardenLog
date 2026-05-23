@@ -11,7 +11,7 @@ tags:
 
 https://www.egyptianwalkingonion.com/egyptian-walking-onion-topsets-white.html
 
-![[egyptian-walking-onion-topsets-white-clusters.webp|400]]
+![[egyptian-walking-onion-topsets-white-clusters.webp|600]]
 
 ### Description
 

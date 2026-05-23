@@ -10,7 +10,7 @@ tags:
 
 ***~22 seeds***
 
-![[1328i_Nasturtium-Black-Velvet_9k6gfk_bc910d51-9a68-4e4d-9353-012927239a0b.webp|400]]
+![[1328i_Nasturtium-Black-Velvet_9k6gfk_bc910d51-9a68-4e4d-9353-012927239a0b.webp|600]]
 
 ### Description
 

@@ -10,7 +10,7 @@ tags:
 
 ***~25 seeds***
 
-![[0074i_Pepper-Chile-Biquinho-RY-Blend_zximsf.webp|400]]
+![[0074i_Pepper-Chile-Biquinho-RY-Blend_zximsf.webp|600]]
 ### Description
 
 These Brazilian [[peppers]] are tangy, sweet, and smokey with a touch of heat. Biquinho (bee-KEE-nyo) means "little beak" in Portuguese; it is also known as button, piquillo, or chupetinha [[peppers|pepper]]. Green [[peppers]] ripen to red (red -colored seeds) or yellow (natural-colored seeds) and are traditionally pickled and served as appetizers or a drink garnish. A unique [[peppers|pepper]] that all can enjoy. 1,000–2,000 Scoville heat units (mild).

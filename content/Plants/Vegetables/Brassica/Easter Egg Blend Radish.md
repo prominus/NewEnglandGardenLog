@@ -10,7 +10,7 @@ tags:
 
 ***~340 seeds***
 
-![[0195i_Radish-Easter-Egg-Blend_k4qdqh_193a336d-7f81-4094-96a9-5fd5d99218a3.webp|400]]
+![[0195i_Radish-Easter-Egg-Blend_k4qdqh_193a336d-7f81-4094-96a9-5fd5d99218a3.webp|600]]
 
 ### Description
 

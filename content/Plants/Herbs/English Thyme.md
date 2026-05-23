@@ -9,7 +9,7 @@ tags:
 
 ***~1400 seeds***
 
-![[5045i_Thyme-English_2183ge_c4ff1483-e760-45fc-8bf5-8b5fde6bfade.webp|400]]
+![[5045i_Thyme-English_2183ge_c4ff1483-e760-45fc-8bf5-8b5fde6bfade.webp|600]]
 
 ### Description
 

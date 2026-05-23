@@ -9,7 +9,7 @@ tags:
 
 ***~1200 seeds***
 
-![[1108i_Bluebells-California-new2025_ed70lp.webp|400]]
+![[1108i_Bluebells-California-new2025_ed70lp.webp|600]]
 
 ### Description
 

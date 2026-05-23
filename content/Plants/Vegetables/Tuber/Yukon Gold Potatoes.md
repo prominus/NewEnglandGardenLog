@@ -8,7 +8,7 @@ tags:
 ---
 **Website:** https://www.gurneys.com/products/yukon_gold_potatoes
 
-![[20260419_112335.webp|400]]
+![[20260419_112335.webp|600]]
 
 ### Description
 

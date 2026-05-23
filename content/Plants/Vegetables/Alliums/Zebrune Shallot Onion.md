@@ -10,7 +10,7 @@ tags:
 
 ***~55 seeds***
 
-![[0289i_Onion-Shallot-Zebrune_7mcgav.webp|400]]
+![[0289i_Onion-Shallot-Zebrune_7mcgav.webp|600]]
 
 ### Description
 

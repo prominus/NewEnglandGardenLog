@@ -8,7 +8,7 @@ tags:
 ---
 **Website:** https://www.highmowingseeds.com/organic-non-gmo-dark-green-zucchini.html
 
-![[darkGreenZucchini.webp|400]]
+![[darkGreenZucchini.webp|600]]
 
 #### Description
 

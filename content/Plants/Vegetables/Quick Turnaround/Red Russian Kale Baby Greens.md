@@ -12,7 +12,7 @@ tags:
 
 ***~1150 seeds***
 
-![[7626i_L-Baby-Greens-Red-Winter-Kale-ORG_8bmae4_adfdaa7e-f0e5-4c89-b5ae-f6c75d481156.webp|400]]
+![[7626i_L-Baby-Greens-Red-Winter-Kale-ORG_8bmae4_adfdaa7e-f0e5-4c89-b5ae-f6c75d481156.webp|600]]
 
 ### Description
 

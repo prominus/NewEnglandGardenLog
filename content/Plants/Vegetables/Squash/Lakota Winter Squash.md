@@ -10,7 +10,7 @@ tags:
 
 ***~8 seeds***
 
-![[3149i_Squash-Winter-Lakota-ORG_w0bguf.webp|400]]
+![[3149i_Squash-Winter-Lakota-ORG_w0bguf.webp|600]]
 
 ### Description
 

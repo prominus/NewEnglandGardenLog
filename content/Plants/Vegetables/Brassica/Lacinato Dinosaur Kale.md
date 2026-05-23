@@ -10,7 +10,7 @@ tags:
 
 ***~580 seeds***
 
-![[919_2188_large_2d3bee9d-aa6f-40f7-9efc-0b1a0206480b.webp|400]]
+![[919_2188_large_2d3bee9d-aa6f-40f7-9efc-0b1a0206480b.webp|600]]
 
 ### Description
 

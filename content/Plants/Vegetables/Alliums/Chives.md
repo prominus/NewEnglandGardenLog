@@ -15,7 +15,7 @@ https://www.botanicalinterests.com/products/common-chives-seeds
 
 ***~470 seeds***
 
-![[5031i_Chives-Common_623743d7-86a6-4ecb-b861-b96725d6cd34.webp|400]]
+![[5031i_Chives-Common_623743d7-86a6-4ecb-b861-b96725d6cd34.webp|600]]
 ### Description
 
 Chives are super easy to grow, require little maintenance, tolerate drought, and come back year after year. Edible flowers are loved by bees, make a tasty chive vinegar, look and taste great in salads, and dry well for arrangements; foliage and/or flowers add a subtle onion flavor to many dishes. Great for containers; grow indoors for year-round harvest.

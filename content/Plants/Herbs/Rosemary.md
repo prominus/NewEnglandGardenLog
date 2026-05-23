@@ -9,7 +9,7 @@ tags:
 
 ***~32 seeds***
 
-![[5039i_Rosemary-new2025_k2nnpe_14181cb1-7467-4f46-b126-b1c2bb5f2705.webp|400]]
+![[5039i_Rosemary-new2025_k2nnpe_14181cb1-7467-4f46-b126-b1c2bb5f2705.webp|600]]
 
 ### Description
 

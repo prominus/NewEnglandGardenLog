@@ -10,7 +10,7 @@ tags:
 
 ***~50 seeds***
 
-![[soybean.webp|400]]
+![[soybean.webp|600]]
 
 ### Description
 

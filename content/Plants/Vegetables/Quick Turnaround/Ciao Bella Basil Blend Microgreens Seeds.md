@@ -10,7 +10,7 @@ tags:
 
 ***~4800 seeds***
 
-![[7754si_L-Microgreens-Ciao-Bella-Basil-Blend-ORG_d83722df-0cbe-4f93-8092-582e91ca6cf6.webp|400]]
+![[7754si_L-Microgreens-Ciao-Bella-Basil-Blend-ORG_d83722df-0cbe-4f93-8092-582e91ca6cf6.webp|600]]
 
 ### Description
 

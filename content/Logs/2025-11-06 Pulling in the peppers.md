@@ -11,7 +11,7 @@ Tonight's low is supposed to be around 31 degrees Fahrenheit. I decided that thi
 
 The bootstrap farm's [[5 Inch Nursery Pot]] did not arrive until 6 PM so I decided tonight that I would focus on just the pruning of the plants and the washing of the containers. 
 
-![[Pasted image 20251106200229.png|400]]
+![[Pasted image 20251106200229.png|600]]
 
 I will get to transplanting on Sunday. Giving the current containers more time to dry out in the spare bedroom.  Current readings in there are around 63 degrees Fahrenheit at about 54% relative humidity. It's a little high in both, but I suspect that the temperature will drop as the days continue to be colder. The room thermostat is set to kick on around 58 degrees Fahrenheit.
 
@@ -21,7 +21,7 @@ I pruned the following:
 - 3 [[Thai Dragon Peppers]]
 - 4 [[Shishito Chile Peppers]]
 
-![[20251106_174702.webp|400]]
+![[20251106_174702.webp|600]]
 ![[20251106_174658.webp|359]]
 
 # Clearing out the patio

@@ -11,7 +11,7 @@ tags:
 
 ***~45 seeds***
 
-![[3180i_Corn-Sweet-Martian-Jewels-ORG.webp|400]]
+![[3180i_Corn-Sweet-Martian-Jewels-ORG.webp|600]]
 
 ### Description
 

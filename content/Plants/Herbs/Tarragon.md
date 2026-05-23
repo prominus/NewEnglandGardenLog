@@ -9,7 +9,7 @@ tags:
 
 ***~200 seeds***
 
-![[5063i_Tarragon-Mexican_bz8csr_e4855dbc-4731-4760-aa7d-f1fc68f5f82a.webp|400]]
+![[5063i_Tarragon-Mexican_bz8csr_e4855dbc-4731-4760-aa7d-f1fc68f5f82a.webp|600]]
 
 ### Description
 

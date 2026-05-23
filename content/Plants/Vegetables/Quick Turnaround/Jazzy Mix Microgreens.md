@@ -9,7 +9,7 @@ tags:
 
 ***~9220 seeds***
 
-![[7327si_L-Microgreens-Jazzy-Mix_d9f32903-f48f-4602-9f9e-f58145f085bb.webp|400]]
+![[7327si_L-Microgreens-Jazzy-Mix_d9f32903-f48f-4602-9f9e-f58145f085bb.webp|600]]
 
 ### Description
 

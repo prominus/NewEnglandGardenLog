@@ -10,7 +10,7 @@ tags:
 
 ***~10 seeds***
 
-![[1059-Wildcata_1200x.webp|400]]
+![[1059-Wildcata_1200x.webp|600]]
 
 ### Description
 

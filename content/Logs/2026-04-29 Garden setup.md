@@ -9,7 +9,7 @@ date: 2026-04-29
 
 The sunchokes from [[Hudson Valley Seed Company]] ended up arriving on Friday, 20206-04-24.  I planted them on Saturday.
 
-![[20260424_123626.webp|400]]
+![[20260424_123626.webp|600]]
 
 # Cover crops
 
@@ -42,9 +42,9 @@ I planted the following between 2026-04-27 and 2026-04-29:
 - [[Broadleaf Sage]]
 - 2 [[Seascape Everbearing Strawberry]]
 
-![[20260427_143629.webp|400]]
+![[20260427_143629.webp|600]]
 
-![[20260427_143623.webp|400]]
+![[20260427_143623.webp|600]]
 
 # Terracotta Pot Installation
 

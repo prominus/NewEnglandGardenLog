@@ -21,7 +21,7 @@ Several of the peppers and [[Sun Gold Pole Cherry Tomato]] plants had roots poki
 - [[Sun Gold Pole Cherry Tomato]]
 - [[San Marzano Roma Pole Tomato]]
 
-![[20260502_112420.webp|400]]
+![[20260502_112420.webp|600]]
 
 ![[20260503_204756.webp|350]]
 

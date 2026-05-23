@@ -11,7 +11,7 @@ tags:
 
 ***~180 seeds***
 
-![[3036i_Kohlrabi-Purple-Vienna-ORG-2026packet.webp|400]]
+![[3036i_Kohlrabi-Purple-Vienna-ORG-2026packet.webp|600]]
 
 ### Description
 

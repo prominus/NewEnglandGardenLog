@@ -29,7 +29,7 @@ I am considering not doing paper plants next year and stick with a 2" -> 3" -> 4
 
 Roots from the pepper plants of the [[Company Community Garden]] had amazing growth in all directions regardless of the paper pot. It was just a pain to pull out the remnants of the paper pieces from the large root ball.
 
-![[20251110_173308.webp|400]]
+![[20251110_173308.webp|600]]
 ![[20251110_180447.webp|350]]
 ![[20251110_193845.webp|350]]
 

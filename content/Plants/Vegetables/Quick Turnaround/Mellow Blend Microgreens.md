@@ -9,7 +9,7 @@ tags:
 
 ***~2400 seeds***
 
-![[7621si_L-Microgreens-Mellow-Blend-ORG_0d586d05-2db9-4297-8c84-f453b1c52eb0.webp|400]]
+![[7621si_L-Microgreens-Mellow-Blend-ORG_0d586d05-2db9-4297-8c84-f453b1c52eb0.webp|600]]
 ### Description
 
 Add a fresh accent of flavor and color to hors d'oeuvres, sandwiches, and salads! Mellow Blend microgreens can be grown indoors at any time of year and are a nutrient-packed way to get your "green fix" in the dead of winter. Move containers as needed for best light exposure and temperature. Harvest when first leaves appear and enjoy!

@@ -26,11 +26,11 @@ I have received one of two orders of sunchokes. This one being an order from [Gu
 I am expecting the other order of the [[Hudson Valley Seed Company]] to arrive come Monday (2026-04-27). This will only be 1/2 a pound so likely there will be 2 - 3 sunchokes. Given where I planted the sunchokes, and where I intend the corn, it looks like the [[Coral Fountain Love-Lies-Bleeding Amaranth]] will be more in the middle part of row 5 rather than the south side of row 5.
 ### Pics from the efforts
 
-![[20260423_192343.webp|400]]
+![[20260423_192343.webp|600]]
 
-![[20260423_192351.webp|400]]
+![[20260423_192351.webp|600]]
 
-![[20260423_192353.webp|400]]
+![[20260423_192353.webp|600]]
 
 # Getting seed potatoes ready to chit
 

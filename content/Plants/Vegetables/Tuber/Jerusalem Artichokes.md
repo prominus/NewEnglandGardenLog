@@ -13,7 +13,7 @@ https://hudsonvalleyseed.com/products/beaver-valley-sunchoke
 
 ***2 pound bag***
 
-![[sunchoke.webp|400]]
+![[sunchoke.webp|600]]
 
 ### Description
 

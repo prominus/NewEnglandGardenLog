@@ -9,7 +9,7 @@ tags:
 
 ***~220 seeds***
 
-![[5003i_Mint-Common_ubhlh5_8f5246da-2934-47fa-8812-4176df582bc9.webp|400]]
+![[5003i_Mint-Common_ubhlh5_8f5246da-2934-47fa-8812-4176df582bc9.webp|600]]
 
 ### Description
 

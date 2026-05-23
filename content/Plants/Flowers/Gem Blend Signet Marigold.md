@@ -10,7 +10,7 @@ tags:
 
 ***~100 seeds***
 
-![[2011i_Marigold-Signet-Gem-Blend_evppai_7cde4a55-452f-438b-bdde-766493643736.webp|400]]
+![[2011i_Marigold-Signet-Gem-Blend_evppai_7cde4a55-452f-438b-bdde-766493643736.webp|600]]
 
 ### Description
 

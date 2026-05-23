@@ -26,4 +26,4 @@ Welcome to my second brain for my garden!
 - [Research](https://www.newenglandgarden.blog/Research/)
 	- Notes and references from others
 
-![[20260419_145302.webp|400]]
+![[20260419_145302.webp|600]]

@@ -14,7 +14,7 @@ https://www.botanicalinterests.com/products/thai-hot-chile-pepper-seeds?_pos=1&_
 
 ***10 seeds***
 
-![[1012-ThaiDragona_600x.webp|400]]
+![[1012-ThaiDragona_600x.webp|600]]
 
 ### Description
 

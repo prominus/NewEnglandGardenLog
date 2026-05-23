@@ -10,7 +10,7 @@ tags:
 
 ***~140 seeds***
 
-![[1344i_Viola-Cool-Summer-Breeze-new2025_p7mfc8_9c55d6a7-5d00-4c28-95ec-2b6f45fbaf6d.webp|400]]
+![[1344i_Viola-Cool-Summer-Breeze-new2025_p7mfc8_9c55d6a7-5d00-4c28-95ec-2b6f45fbaf6d.webp|600]]
 
 ### Description
 

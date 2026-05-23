@@ -11,7 +11,7 @@ tags:
 
 ***~400 seeds***
 
-![[0011i_Carrot-Tonda-di-Parigi_itpqgt_3cf72073-7692-431e-90a2-65743276dcc7.webp|400]]
+![[0011i_Carrot-Tonda-di-Parigi_itpqgt_3cf72073-7692-431e-90a2-65743276dcc7.webp|600]]
 
 ### Description
 

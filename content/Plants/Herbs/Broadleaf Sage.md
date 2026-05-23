@@ -9,7 +9,7 @@ tags:
 
 ***~25 seeds***
 
-![[6092i_Sage-Garden-Broadleaf-ORG_piqwxc_ef2d4224-0ff9-47f5-93e6-ec1f1e4e948c.webp|400]]
+![[6092i_Sage-Garden-Broadleaf-ORG_piqwxc_ef2d4224-0ff9-47f5-93e6-ec1f1e4e948c.webp|600]]
 
 ### Description
 

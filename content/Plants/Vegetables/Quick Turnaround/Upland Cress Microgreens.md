@@ -9,7 +9,7 @@ tags:
 
 ***~4800 seeds***
 
-![[7315si_L-Microgreens-Upland-Cress_e8dafa9c-c249-448a-a0cf-596cfdc1555a.webp|400]]
+![[7315si_L-Microgreens-Upland-Cress_e8dafa9c-c249-448a-a0cf-596cfdc1555a.webp|600]]
 ### Description
 
 Cress lovers celebrate! Also known as creasy greens, cress is high in vitamins A and C, packing a dose of nutrition as well as being delicious. Add to your favorite sandwich or try pairing it with egg and mayonnaise, cream cheese, or avocado on bagels or crackers for the perfect balance of spicy flavor and delectable creaminess.

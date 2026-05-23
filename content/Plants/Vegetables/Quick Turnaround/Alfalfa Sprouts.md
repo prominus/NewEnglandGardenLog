@@ -9,7 +9,7 @@ tags:
 
 ***~12,670 seeds***
 
-![[7801si_L-Sprouts-Alfalfa-ORG_941654eb-be30-4b72-b84c-7573e981344b.webp|400]]
+![[7801si_L-Sprouts-Alfalfa-ORG_941654eb-be30-4b72-b84c-7573e981344b.webp|600]]
 ### Description
 
 Nutritious, delicious, and easy to grow! High in protein, essential amino acids, digestive enzymes, vitamins, minerals, and (when exposed to light) chlorophyll. Alfalfa sprouts add lively flavor and texture to salads and sandwiches. The culinary possibilities are limited only by your imagination!

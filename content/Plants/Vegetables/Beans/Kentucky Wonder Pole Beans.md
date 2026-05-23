@@ -10,7 +10,7 @@ tags:
 
 ***~40 seeds***
 
-![[0117i_Bean-Pole-Kentucky-Wonder_767fb472-ab20-4d13-8bf9-d1f886e5f779.webp|400]]
+![[0117i_Bean-Pole-Kentucky-Wonder_767fb472-ab20-4d13-8bf9-d1f886e5f779.webp|600]]
 
 ### Description
 

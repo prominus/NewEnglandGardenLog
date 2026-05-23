@@ -10,7 +10,7 @@ tags:
 
 ***~40 seeds***
 
-![[3123i_Cucumber-MarketMore-ORG_tcu70g_1ebeb970-5a34-4a56-9ddd-4aaf01f15c07.webp|400]]
+![[3123i_Cucumber-MarketMore-ORG_tcu70g_1ebeb970-5a34-4a56-9ddd-4aaf01f15c07.webp|600]]
 
 ### Description
 

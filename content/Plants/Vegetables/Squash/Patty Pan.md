@@ -10,7 +10,7 @@ tags:
 
 ***~20 seeds***
 
-![[0163i_Squash-Sum-Scallop-Patty_7c7n4k.webp|400]]
+![[0163i_Squash-Sum-Scallop-Patty_7c7n4k.webp|600]]
 
 ### Description
 

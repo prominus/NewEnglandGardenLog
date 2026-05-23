@@ -16,7 +16,7 @@ Started on 2026-04-06:
 ### Transplanted Peppers
 Most of the peppers needed to be moved to [[3.3 Inch Heavy Duty Pot]]s. This happened around 2026-04-04.
 
-![[20260404_211924.webp|400]]
+![[20260404_211924.webp|600]]
 
 ### Cattle Panel purchased
 

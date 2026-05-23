@@ -11,7 +11,7 @@ tags:
 
 ***~720 seeds***
 
-![[7812si_L-Sprouts-Bean-Mix-ORG_52004be2-9d0a-424d-ad9e-8831ccdd2f77.webp|400]]
+![[7812si_L-Sprouts-Bean-Mix-ORG_52004be2-9d0a-424d-ad9e-8831ccdd2f77.webp|600]]
 
 ### Description
 

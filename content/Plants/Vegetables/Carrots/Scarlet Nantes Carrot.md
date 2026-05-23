@@ -10,7 +10,7 @@ tags:
 
 ***~400 seeds***
 
-![[3017i_Carrot-Scarlet-Nantes-ORG_iy1l34_23aff08e-c02a-400f-b2fe-8cb175b5dcbf.webp|400]]
+![[3017i_Carrot-Scarlet-Nantes-ORG_iy1l34_23aff08e-c02a-400f-b2fe-8cb175b5dcbf.webp|600]]
 
 ### Description
 

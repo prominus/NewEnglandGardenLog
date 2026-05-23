@@ -11,7 +11,7 @@ Took some of the [[King Henry Viola]]s and [[Cool Summer Breeze Viola]]s plugs, 
 
 ![[20260418_113035.webp|350]]
 
-![[20260418_113041.webp|400]]
+![[20260418_113041.webp|600]]
 
 ## Started plants in Community Garden
 

@@ -10,7 +10,7 @@ tags:
 
 ***~4880 seeds***
 
-![[7802si_L-Sprouts-Broccoli-ORG_54544c38-504d-4f7a-afcd-de70b7e7971d.webp|400]]
+![[7802si_L-Sprouts-Broccoli-ORG_54544c38-504d-4f7a-afcd-de70b7e7971d.webp|600]]
 ### Description
 
 Broccoli sprouts contain higher levels of the cancer-fighting, phytochemical sulforaphane glucosinolate than mature heads of broccoli, while also contributing vitamins A, C, and E, calcium, and fiber to the diet. Extremely versatile in the kitchen, tangy broccoli sprouts will perk up almost any dish—fresh or cooked.

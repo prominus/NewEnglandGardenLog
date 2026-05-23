@@ -37,13 +37,13 @@ After the layer of compost has been placed, moved wood chip mulch back over, the
 
 # Planting
 
-![[20251018_130952.webp|400]]
+![[20251018_130952.webp|600]]
 - Working one bag of [[compost]] into the soil
-![[20251018_133530.webp|400]]
+![[20251018_133530.webp|600]]
 - Covering [[garlic]] cloves
-![[20251018_134050.webp|400]]
+![[20251018_134050.webp|600]]
 - Adding last bag of [[compost]] as a layer
-![[20251018_135408.webp|400]]
+![[20251018_135408.webp|600]]
 - Adding green manure. Clippings of plants
-![[20251018_140407.webp|400]]
+![[20251018_140407.webp|600]]
 - Covering the whole thing with a layer of carboard
