@@ -5,6 +5,15 @@ tags:
   - plant
   - flower
   - grain
+plantCategory: pepper
+sili-seedlingCount:
+quantity:
+sewLastFrostDateDiff: 5
+weeksBeforeFrostDate: 1
+plantSeason:
+  - spring
+directSeed: "false"
+growthDuration:
 ---
 **Website:** https://www.botanicalinterests.com/products/coral-fountain-amaranth-seeds?_pos=1&_psq=coral+am&_ss=e&_v=1.0
 

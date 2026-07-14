@@ -5,6 +5,15 @@ tags:
   - plant
   - flower
   - edible-flower
+plantCategory: flower
+sili-seedlingCount:
+quantity:
+sewLastFrostDateDiff: -2
+weeksBeforeFrostDate: 3
+plantSeason:
+  - spring
+directSeed: n/a
+growthDuration:
 ---
 **Website:** https://www.botanicalinterests.com/products/black-velvet-nasturtium-seeds?omnisendContactID=68346ffece4e6693fe878507
 

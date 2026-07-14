@@ -4,6 +4,15 @@ draft: false
 tags:
   - plant
   - flower
+plantCategory: flower
+sili-seedlingCount:
+quantity:
+sewLastFrostDateDiff: 2
+weeksBeforeFrostDate: 10
+plantSeason:
+  - spring
+directSeed: "false"
+growthDuration:
 ---
 ### Weblinks:
 

@@ -5,6 +5,16 @@ tags:
   - plant
   - flower
   - edible-flower
+plantCategory: flower
+sili-seedlingCount:
+quantity:
+sewLastFrostDateDiff: 4
+weeksBeforeFrostDate: 10
+plantSeason:
+  - spring
+  - fall
+directSeed: "false"
+growthDuration: 83
 ---
 **Website:** https://www.botanicalinterests.com/products/cool-summer-breeze-viola-seeds?omnisendContactID=68346ffece4e6693fe878507
 

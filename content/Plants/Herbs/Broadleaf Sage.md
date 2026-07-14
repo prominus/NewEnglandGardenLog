@@ -4,6 +4,15 @@ draft: false
 tags:
   - plant
   - herb
+plantCategory: herb
+sili-seedlingCount:
+quantity:
+sewLastFrostDateDiff: 7
+weeksBeforeFrostDate: -2
+plantSeason:
+  - spring
+directSeed: "true"
+growthDuration:
 ---
 **Website:** https://www.botanicalinterests.com/products/broadleaf-sage-seeds
 

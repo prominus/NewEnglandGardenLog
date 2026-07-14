@@ -5,6 +5,16 @@ tags:
   - plant
   - flower
   - edible-flower
+plantCategory: flower
+sili-seedlingCount:
+quantity:
+sewLastFrostDateDiff: -2
+weeksBeforeFrostDate: 5
+plantSeason:
+  - spring
+  - fall
+directSeed: "false"
+growthDuration: 83
 ---
 **Website:** https://www.botanicalinterests.com/products/signet-gem-blend-marigold-seeds?omnisendContactID=68346ffece4e6693fe878507
 

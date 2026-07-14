@@ -4,6 +4,15 @@ draft: false
 tags:
   - plant
   - flower
+plantCategory: flower
+sili-seedlingCount:
+quantity:
+sewLastFrostDateDiff: 7
+weeksBeforeFrostDate: 3
+plantSeason:
+  - spring
+directSeed: n/a
+growthDuration:
 ---
 **Website:** https://www.botanicalinterests.com/products/california-bluebells-bluebells-seeds?_pos=1&_psq=California+blue&_ss=e&_v=1.0
 

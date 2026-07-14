@@ -1,0 +1,37 @@
+formulas:
+  seedlingDate: |-
+    date("2026-05-03") - 
+    ((IF(sewLastFrostDateDiff>0, weeksBeforeFrostDate,sewLastFrostDateDiff)*7).toString()+" days")
+  Plant Date: date("2026-05-03")-((weeksBeforeFrostDate*7).toString()+" days")
+properties:
+  formula.seedlingDate:
+    displayName: seedling_date
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - "!plantCategory.isEmpty()"
+    order:
+      - file.name
+      - plantCategory
+      - sili-seedlingCount
+      - quantity
+      - sewLastFrostDateDiff
+      - weeksBeforeFrostDate
+      - formula.seedlingDate
+      - formula.Plant Date
+      - directSeed
+      - plantSeason
+      - growthDuration
+    sort:
+      - property: formula.seedlingDate
+        direction: DESC
+      - property: sewLastFrostDateDiff
+        direction: DESC
+      - property: formula.Untitled
+        direction: DESC
+      - property: weeksBeforeFrostDate
+        direction: ASC
+    columnSize:
+      note.growthDuration: 92

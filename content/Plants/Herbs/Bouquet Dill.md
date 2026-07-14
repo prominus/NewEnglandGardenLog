@@ -4,6 +4,16 @@ draft: false
 tags:
   - plant
   - herb
+plantCategory: herb
+sili-seedlingCount: 0.5
+quantity: 3
+sewLastFrostDateDiff: 2
+weeksBeforeFrostDate: 3
+plantSeason:
+  - spring
+  - fall
+directSeed: n/a
+growthDuration:
 ---
 **Website:** https://www.botanicalinterests.com/products/bouquet-dill-seeds
 

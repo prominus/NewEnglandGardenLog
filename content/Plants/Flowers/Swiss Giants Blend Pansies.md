@@ -4,6 +4,16 @@ draft: false
 tags:
   - plant
   - flower
+plantCategory: flower
+sili-seedlingCount:
+quantity:
+sewLastFrostDateDiff: 4
+weeksBeforeFrostDate: 10
+plantSeason:
+  - spring
+  - fall
+directSeed: "false"
+growthDuration: 83
 ---
 **Website:** https://www.botanicalinterests.com/products/swiss-giant-blend-pansy-seeds?_pos=2&_psq=swiss&_ss=e&_v=1.0
 

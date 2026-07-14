@@ -26,6 +26,12 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "title": "text",
-    "TQ_show_toolbar": "checkbox"
+    "TQ_show_toolbar": "checkbox",
+    "sili-seedlingCount": "number",
+    "quantity": "number",
+    "lastFrostDate": "number",
+    "weeksBeforeFrostDate": "number",
+    "plantSeason": "multitext",
+    "directSeed": "text"
   }
 }
