@@ -7,8 +7,8 @@ tags:
 plantCategory: herb
 sili-seedlingCount: 1
 quantity: 6
-whenToStartInside: 4
-whenToStartOutside: 2
+whenToStartInside: 7
+whenToStartOutside: 5
 plantSeason:
   - spring
   - summer
@@ -61,6 +61,7 @@ Grown as an annual, 'Moss Curled' parsley can grow through fall and into winter 
 **Row Spacing:** 16"
 
 **Thinning:** When 1" tall, thin to 1 every 8"
+
 ### Growing Info
 
 **Harvesting:** Pick as needed, removing entire stalks to the ground, but not removing more than 1/3 of the plant.
