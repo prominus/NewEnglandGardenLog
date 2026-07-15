@@ -8,12 +8,15 @@ plantCategory: herb
 sili-seedlingCount: 1
 quantity: 6
 sewLastFrostDateDiff: -2
-weeksBeforeFrostDate: 
+weeksBeforeFrostDate: 0
 plantSeason:
   - spring
   - fall
 directSeed: "false"
 growthDuration: 83
+weblinks:
+  - https://www.botanicalinterests.com/products/common-mint-seeds
+image: "[[5003i_Mint-Common_ubhlh5_8f5246da-2934-47fa-8812-4176df582bc9.webp]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/common-mint-seeds
 

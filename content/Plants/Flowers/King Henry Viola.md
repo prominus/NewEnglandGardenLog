@@ -15,6 +15,9 @@ plantSeason:
   - fall
 directSeed: "false"
 growthDuration: 83
+weblinks:
+  - https://www.botanicalinterests.com/products/king-henry-viola-seeds?_pos=2&_psq=king&_ss=e&_v=1.0
+collection: flower
 ---
 **Website:** https://www.botanicalinterests.com/products/king-henry-viola-seeds?_pos=2&_psq=king&_ss=e&_v=1.0
 

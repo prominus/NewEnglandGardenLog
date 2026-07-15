@@ -32,6 +32,7 @@
     "lastFrostDate": "number",
     "weeksBeforeFrostDate": "number",
     "plantSeason": "multitext",
-    "directSeed": "text"
+    "directSeed": "text",
+    "weblinks": "multitext"
   }
 }

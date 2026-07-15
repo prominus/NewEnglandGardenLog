@@ -4,6 +4,18 @@ draft: false
 tags:
   - plant
   - herb
+plantCategory: herb
+sili-seedlingCount: 1
+quantity: 6
+sewLastFrostDateDiff: -3
+weeksBeforeFrostDate: 6
+plantSeason:
+  - spring
+directSeed: "false"
+growthDuration:
+weblinks:
+  - [https://www.botanicalinterests.com/products/california-bluebells-bluebells-seeds?_pos=1&_psq=California+blue&_ss=e&_v=1.0](https://www.botanicalinterests.com/products/english-thyme-seeds)
+image: "[[5045i_Thyme-English_2183ge_c4ff1483-e760-45fc-8bf5-8b5fde6bfade.webp]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/english-thyme-seeds
 

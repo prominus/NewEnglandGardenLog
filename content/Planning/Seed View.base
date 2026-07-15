@@ -1,7 +1,10 @@
+filters:
+  and:
+    - file.ext == "md"
 formulas:
   seedlingDate: |-
-    date("2026-05-03") - 
-    ((IF(sewLastFrostDateDiff>0, weeksBeforeFrostDate,sewLastFrostDateDiff)*7).toString()+" days")
+    date("2026-05-03") -
+    ((IF(weeksBeforeFrostDate>0, weeksBeforeFrostDate,sewLastFrostDateDiff)*7).toString()+" days")
   Plant Date: date("2026-05-03")-((weeksBeforeFrostDate*7).toString()+" days")
 properties:
   formula.seedlingDate:
@@ -25,6 +28,8 @@ views:
       - plantSeason
       - growthDuration
     sort:
+      - property: file.name
+        direction: ASC
       - property: formula.seedlingDate
         direction: DESC
       - property: sewLastFrostDateDiff
@@ -35,3 +40,11 @@ views:
         direction: ASC
     columnSize:
       note.growthDuration: 92
+  - type: cards
+    name: Seed Cards
+    filters:
+      and:
+        - file.tags.contains("plant")
+    order:
+      - file.name
+    image: note.image

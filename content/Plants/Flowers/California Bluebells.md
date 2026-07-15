@@ -13,6 +13,9 @@ plantSeason:
   - spring
 directSeed: n/a
 growthDuration:
+weblinks:
+  - https://www.botanicalinterests.com/products/california-bluebells-bluebells-seeds?_pos=1&_psq=California+blue&_ss=e&_v=1.0
+image: "[[1108i_Bluebells-California-new2025_ed70lp.webp]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/california-bluebells-bluebells-seeds?_pos=1&_psq=California+blue&_ss=e&_v=1.0
 

@@ -13,6 +13,9 @@ plantSeason:
   - spring
 directSeed: "true"
 growthDuration:
+weblinks:
+  - https://www.botanicalinterests.com/products/broadleaf-sage-seeds
+image: "[[6092i_Sage-Garden-Broadleaf-ORG_piqwxc_ef2d4224-0ff9-47f5-93e6-ec1f1e4e948c.webp]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/broadleaf-sage-seeds
 

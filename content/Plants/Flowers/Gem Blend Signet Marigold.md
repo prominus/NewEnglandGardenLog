@@ -15,6 +15,9 @@ plantSeason:
   - fall
 directSeed: "false"
 growthDuration: 83
+weblinks:
+  - https://www.botanicalinterests.com/products/signet-gem-blend-marigold-seeds?omnisendContactID=68346ffece4e6693fe878507
+collection: flower
 ---
 **Website:** https://www.botanicalinterests.com/products/signet-gem-blend-marigold-seeds?omnisendContactID=68346ffece4e6693fe878507
 

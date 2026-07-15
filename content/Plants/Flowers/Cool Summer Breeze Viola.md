@@ -15,6 +15,9 @@ plantSeason:
   - fall
 directSeed: "false"
 growthDuration: 83
+weblinks:
+  - https://www.botanicalinterests.com/products/cool-summer-breeze-viola-seeds?omnisendContactID=68346ffece4e6693fe878507
+image: "[[1344i_Viola-Cool-Summer-Breeze-new2025_p7mfc8_9c55d6a7-5d00-4c28-95ec-2b6f45fbaf6d.webp]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/cool-summer-breeze-viola-seeds?omnisendContactID=68346ffece4e6693fe878507
 
