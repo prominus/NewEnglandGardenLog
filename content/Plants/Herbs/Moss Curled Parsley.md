@@ -4,6 +4,19 @@ draft: false
 tags:
   - plant
   - herb
+plantCategory: herb
+sili-seedlingCount: 1
+quantity: 6
+whenToStartInside: 4
+whenToStartOutside: 2
+plantSeason:
+  - spring
+  - summer
+directSeed: n/a
+growthDuration: 
+weblinks:
+  - https://www.botanicalinterests.com/products/long-standing-santo-cilantro-corianderseeds
+image: "[[6028i_Cilantro-Coriander-Long-Standing-ORG_05e13127-80bc-475a-8b63-6bd516aed0c0.webp]]"
 ---
  **Website:** https://www.botanicalinterests.com/products/moss-curled-organic-parsley-seeds
 

@@ -7,11 +7,11 @@ tags:
 plantCategory: fruit
 sili-seedlingCount:
 quantity:
-sewLastFrostDateDiff: 0
-weeksBeforeFrostDate: 0
+whenToStartInside: 0
+whenToStartOutside: 0
 plantSeason:
   - spring
-directSeed: "false"
+directSeed: no
 growthDuration:
 weblinks:
   - https://www.burpee.com/strawberry-seascape-prod000534.html

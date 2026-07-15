@@ -8,12 +8,12 @@ tags:
 plantCategory: flower
 sili-seedlingCount:
 quantity:
-sewLastFrostDateDiff: 4
-weeksBeforeFrostDate: 10
+whenToStartInside: 4
+whenToStartOutside: 10
 plantSeason:
   - spring
   - fall
-directSeed: "false"
+directSeed: no
 growthDuration: 83
 weblinks:
   - https://www.botanicalinterests.com/products/cool-summer-breeze-viola-seeds?omnisendContactID=68346ffece4e6693fe878507

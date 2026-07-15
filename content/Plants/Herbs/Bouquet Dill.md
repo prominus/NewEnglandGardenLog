@@ -7,8 +7,8 @@ tags:
 plantCategory: herb
 sili-seedlingCount: 0.5
 quantity: 3
-sewLastFrostDateDiff: 2
-weeksBeforeFrostDate: 3
+whenToStartInside: 2
+whenToStartOutside: 3
 plantSeason:
   - spring
   - fall

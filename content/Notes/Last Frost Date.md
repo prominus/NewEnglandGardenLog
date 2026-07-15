@@ -1,17 +1,17 @@
 ---
 date: 2026-05-03
-sewLastFrostDateDiff:
+whenToStartInside:
 ---
 ### Seedling Start Date
 
 ```javascript
 date("2026-05-03") - 
-((IF(sewLastFrostDateDiff>0,sewLastFrostDateDiff,weeksBeforeFrostDate)*7).toString()+" days")
+((IF(whenToStartInside>0,whenToStartInside,whenToStartOutside)*7).toString()+" days")
 ```
 
 ### Plant Date
 
 ```javascript
-date("2026-05-03")-((weeksBeforeFrostDate*7).toString()+" days")
+date("2026-05-03")-((whenToStartOutside*7).toString()+" days")
 ```
 

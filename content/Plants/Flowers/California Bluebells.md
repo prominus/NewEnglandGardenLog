@@ -7,8 +7,8 @@ tags:
 plantCategory: flower
 sili-seedlingCount:
 quantity:
-sewLastFrostDateDiff: 7
-weeksBeforeFrostDate: 3
+whenToStartInside: 7
+whenToStartOutside: 3
 plantSeason:
   - spring
 directSeed: n/a

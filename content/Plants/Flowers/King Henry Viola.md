@@ -8,12 +8,12 @@ tags:
 plantCategory: flower
 sili-seedlingCount:
 quantity:
-sewLastFrostDateDiff: 4
-weeksBeforeFrostDate: 10
+whenToStartInside: 4
+whenToStartOutside: 10
 plantSeason:
   - spring
   - fall
-directSeed: "false"
+directSeed: no
 growthDuration: 83
 weblinks:
   - https://www.botanicalinterests.com/products/king-henry-viola-seeds?_pos=2&_psq=king&_ss=e&_v=1.0

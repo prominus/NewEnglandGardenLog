@@ -7,11 +7,11 @@ tags:
 plantCategory: flower
 sili-seedlingCount:
 quantity:
-sewLastFrostDateDiff: 2
-weeksBeforeFrostDate: 10
+whenToStartInside: 2
+whenToStartOutside: 10
 plantSeason:
   - spring
-directSeed: "false"
+directSeed: no
 growthDuration:
 weblinks:
   - https://www.botanicalinterests.com/collections/early-sow-flowers-bundle/products/oriental-nights-sweet-alyssum-seeds

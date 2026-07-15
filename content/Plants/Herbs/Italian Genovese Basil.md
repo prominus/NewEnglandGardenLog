@@ -4,6 +4,18 @@ draft: false
 tags:
   - plant
   - herb
+plantCategory: herb
+sili-seedlingCount: 1
+quantity: 6
+whenToStartInside: -2
+whenToStartOutside: 6
+plantSeason:
+  - spring
+directSeed: no
+growthDuration: 
+weblinks:
+  - https://www.botanicalinterests.com/products/italian-genovese-basil-seeds
+image: "[[6027i_Basil-Italian-Genovese-ORG_ou13d0_62e22e5d-d8f7-4c7c-8879-fcafb34e68e8.webp]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/italian-genovese-basil-seeds
 

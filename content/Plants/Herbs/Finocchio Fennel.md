@@ -7,12 +7,12 @@ tags:
 plantCategory: herb
 sili-seedlingCount: 1
 quantity: 6
-sewLastFrostDateDiff: -2
-weeksBeforeFrostDate: 5
+whenToStartInside: -2
+whenToStartOutside: 5
 plantSeason:
   - spring
   - fall
-directSeed: "false"
+directSeed: n/a
 growthDuration: 90
 weblinks:
   - https://www.botanicalinterests.com/products/finocchio-fennel-seeds

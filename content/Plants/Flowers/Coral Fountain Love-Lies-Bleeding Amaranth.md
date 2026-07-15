@@ -8,11 +8,11 @@ tags:
 plantCategory: pepper
 sili-seedlingCount:
 quantity:
-sewLastFrostDateDiff: 5
-weeksBeforeFrostDate: 1
+whenToStartInside: 5
+whenToStartOutside: 1
 plantSeason:
   - spring
-directSeed: "false"
+directSeed: n/a
 growthDuration:
 weblinks:
   - https://www.botanicalinterests.com/products/coral-fountain-amaranth-seeds?_pos=1&_psq=coral+am&_ss=e&_v=1.0
@@ -58,3 +58,7 @@ The pendulous tassels of 'Coral Fountain' will win you over to the world of unus
 **Seed Spacing:** A pinch (approx. 8 seeds) every 12" – 15"
 
 **Thinning:** When 1" – 2" tall, thin to 1 every 12" – 15"
+
+### Notes
+
+None of the direct sowed seeds came up. Next time try to sew in a [[5x5 Inch Grow Trays]]
