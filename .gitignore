@@ -1,17 +1,3 @@
-# Obsidian workspace file that stores last location
-.obsidian/workspace.json
-
-# Large image files
-*.jpg
-
-# Krita workspace files
-*.webp~
-
-# Compressed files
-*.zip
-*.7z
-
-# Quartz stuff
 .DS_Store
 .gitignore
 node_modules
@@ -23,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+.quartz/
+quartz/cli/tui/dist/
+
+*.webp~
