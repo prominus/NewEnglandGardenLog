@@ -5,9 +5,21 @@ tags:
   - plant
   - vegetable
   - lettuce
+plantCategory: lettuce
+sili-seedlingCount:
+quantity:
+whenToStartInside: 5
+whenToStartOutside: 4
+plantSeason:
+  - spring
+directSeed: n/a
+growthDuration: 68
+weblinks:
+  - https://www.botanicalinterests.com/products/little-gem-mini-romaine-lettuce-seeds?_pos=2&_sid=5ab18b698&_ss=r&variant=43922602426621
+image: "[[3102i_Lettuce-Rom-Little-Gem-ORG_9ms19z_0040a628-759f-4334-b1cb-4f3d42fd31d6.webp]]"
+seedQuantity: 340
+soilTemp:
 ---
-**Website:** https://www.botanicalinterests.com/products/little-gem-mini-romaine-lettuce-seeds?_pos=1&_sid=d037bba73&_ss=r
-
 ![[3102i_Lettuce-Rom-Little-Gem-ORG_9ms19z_0040a628-759f-4334-b1cb-4f3d42fd31d6.webp|600]]
 
 ### Description
@@ -29,7 +41,7 @@ Also called 'Sucrine' or 'Sugar Cos', 'Little Gem' is an English heirloom that i
 
 **Exposure:** Full sun to part shade
 
-**Plant Dimensions:** 6" tall, 4" wide
+**Plant Dimensions:** Short (Under 12")
 
 **Variety Info:** Glossy, tightly-wrapped, upright, green leaves with a pale, creamy-yellow heart. Crisp texture with sweet, nutty flavor.
 

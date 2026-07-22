@@ -18,5 +18,5 @@ Transplanted the following seeds to [[3.3 Inch Heavy Duty Pot]]s
 # Started another round of seeds
 Started the following:
 - 6 [[Moss Curled Parsley]] in a [[6-Cell Silicone Seed Tray]]
-- 3 [[Patty Pan]] in [[3 Inch Paper Pot]]
+- 3 [[Scallop Blend Patty Pan]] in [[3 Inch Paper Pot]]
 - 3 [[Long Standing Santo Cilantro]] in [[3 Inch Paper Pot]]

@@ -6,7 +6,7 @@ date: 2026-07-21
 ---
 ## Spread out the zucchini
 
-The [[Triumph Zucchini]] was hit hard by [[squash bug]] nymphs. They seem to be localized to the three squash planted close together. Yet the [[Dark Green Zucchini]], [[Honeynut Winter Squash]], [[Lakota Winter Squash]], cucumbers and [[Patty Pan]] are currently unaffected. I am not surprised the [[Honeynut Winter Squash]] is fine given it's a hybrid [[Cucurbita moschata]]. I am surprised of the other two. The only observation I can see is that they are at different parts of the plot.  So next year I'd like to separate the squash out a little more.  Also, cover them until female flowers form.
+The [[Triumph Zucchini]] was hit hard by [[squash bug]] nymphs. They seem to be localized to the three squash planted close together. Yet the [[Dark Green Zucchini]], [[Honeynut Winter Squash]], [[Lakota Winter Squash]], cucumbers and [[Scallop Blend Patty Pan]] are currently unaffected. I am not surprised the [[Honeynut Winter Squash]] is fine given it's a hybrid [[Cucurbita moschata]]. I am surprised of the other two. The only observation I can see is that they are at different parts of the plot.  So next year I'd like to separate the squash out a little more.  Also, cover them until female flowers form.
 
 ![[20260711_101543.webp|600]]
  > The squash bug nymphs found on [[Triumph Zucchini]]

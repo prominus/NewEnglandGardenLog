@@ -28,4 +28,4 @@ A few of the pepper plants have fairly weak stems. Specifically the [[Thai Drago
 ![[20260523_165645.webp|600]]
 ## Day 3
 
-I went to the [[City Community Garden]] briefly to plant [[Patty Pan]] squash and clip off the flowers on the violas.
+I went to the [[City Community Garden]] briefly to plant [[Scallop Blend Patty Pan]] squash and clip off the flowers on the violas.
