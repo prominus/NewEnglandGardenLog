@@ -7,8 +7,8 @@ tags:
 plantCategory: flower
 sili-seedlingCount:
 quantity:
-whenToStartInside: 2
-whenToStartOutside: 10
+whenToStartInside: 8
+whenToStartOutside: 2
 plantSeason:
   - spring
 directSeed: no
@@ -18,6 +18,8 @@ weblinks:
   - https://www.botanicalinterests.com/products/tiny-tim-sweet-alyssum-seeds?pr_prod_strat=jac&pr_rec_id=8fea90e2a&pr_rec_pid=8083605127421&pr_ref_pid=8083602768125&pr_seq=uniform
   - https://www.botanicalinterests.com/products/rosie-o-day-sweet-alyssum-seeds?pr_prod_strat=e5_desc&pr_rec_id=8fea90e2a&pr_rec_pid=8083603915005&pr_ref_pid=8083602768125&pr_seq=uniform
 image: "[[1072i_Alyssum-Sweet-Oriental-Nights_eb7183a9-9943-45e5-9e74-8567ff96ea94_fbiz5x.webp]]"
+seedQuantity: 500
+soilTemp: "60"
 ---
 ### Weblinks:
 
