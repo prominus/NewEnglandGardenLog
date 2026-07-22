@@ -48,3 +48,18 @@ views:
     order:
       - file.name
     image: note.image
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.ctime >= "2026-07-01"
+        - file.ext == "md"
+    order:
+      - file.name
+      - date
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: ASC
+      - property: file.name
+        direction: ASC

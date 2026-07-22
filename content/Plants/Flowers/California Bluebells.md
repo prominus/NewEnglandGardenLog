@@ -61,3 +61,4 @@ Luminous, upward-facing chalices glow in the spring garden. Tough and easy, Cali
 
 ### Notes
 
+- [ ] Update the plant starting to be 2 weeks earlier than last season

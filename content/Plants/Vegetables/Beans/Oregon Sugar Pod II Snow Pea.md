@@ -35,3 +35,7 @@ Homegrown peas taste so much better than store bought! 'Oregon Sugar Pod II' pro
 **Variety Info:** 4" long, stringless, crunchy pods; 2 per cluster. 'Oregon Sugar Pod II' is ery disease resistant, including mildew, pea enation virus, and leaf roll.
 
 **Attributes:** Powdery Mildew Resistant, Downy Mildew Resistant, Fusarium Wilt Resistant, Pea Enation Mosaic Virus Resistant, Leaf Roll Resistant, Frost Tolerant
+
+### Notes
+
+Plant in early March next year
