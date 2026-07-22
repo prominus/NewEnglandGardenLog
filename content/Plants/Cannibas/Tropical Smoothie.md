@@ -26,9 +26,9 @@ Tropical Smoothie leads with bright mango and pineapple on the nose, backed by l
 
 ### Timelapse
 
-![[20260707_141221.webp|600]]
-
 ![[20260630_112636.webp|600]]
+
+![[20260707_141221.webp|600]]
 
 ![[20260705_134817.webp|600]]
 
