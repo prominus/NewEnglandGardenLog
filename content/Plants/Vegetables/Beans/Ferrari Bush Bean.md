@@ -8,7 +8,7 @@ tags:
 plantCategory: bush-bean
 sili-seedlingCount:
 quantity:
-whenToStartInside:
+whenToStartInside: 0
 whenToStartOutside: -6
 plantSeason:
   - spring

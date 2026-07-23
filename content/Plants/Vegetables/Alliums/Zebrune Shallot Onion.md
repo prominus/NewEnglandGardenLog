@@ -5,11 +5,21 @@ tags:
   - plant
   - vegetable
   - allium
+plantCategory:
+sili-seedlingCount:
+quantity:
+whenToStartInside: 12
+whenToStartOutside: 6
+plantSeason:
+  - spring
+directSeed: no
+growthDuration: 100
+weblinks:
+  - https://www.botanicalinterests.com/products/zebrune-shallot-onion-seeds?_pos=1&_sid=a1195eb90&_ss=r
+image: "[[0289i_Onion-Shallot-Zebrune_7mcgav.webp]]"
+seedQuantity: 55
+soilTemp:
 ---
-**Website:** https://www.botanicalinterests.com/products/zebrune-shallot-onion-seeds?_pos=1&_sid=a1195eb90&_ss=r
-
-***~55 seeds***
-
 ![[0289i_Onion-Shallot-Zebrune_7mcgav.webp|600]]
 
 ### Description

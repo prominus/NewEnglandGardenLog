@@ -4,6 +4,7 @@ draft: false
 tags:
   - plant
   - vegetable
+  - beet
 ---
 **Website:** https://www.botanicalinterests.com/products/five-color-silverbeet-swiss-chard-seeds?_pos=1&_sid=1006da0ff&_ss=r
 

@@ -1,6 +1,6 @@
 ---
 title:
-  "{{title}}"
+  "Tasty Green Cucumber"
 draft: false
 tags:
   - plant
@@ -18,7 +18,7 @@ image:
 seedQuantity:
 soilTemp:
 ---
-\<Insert Image\>
+![[]]
 
 ### Description
 
