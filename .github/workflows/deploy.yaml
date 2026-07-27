@@ -7,11 +7,8 @@ on:
  
 permissions:
   contents: read
-  packages: read
   pages: write
   id-token: write
-env:
-  NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
  
 concurrency:
   group: "pages"
@@ -26,7 +23,7 @@ jobs:
           fetch-depth: 0 # Fetch all history for git info
       - uses: actions/setup-node@v6
         with:
-          node-version: 24
+          node-version: 22
       - name: Cache dependencies
         uses: actions/cache@v5
         with:
@@ -43,11 +40,6 @@ jobs:
             ${{ runner.os }}-plugins-
       - name: Install Dependencies
         run: npm ci
-      - name: Configure NPX
-        run:  |
-          mkdir ~/.npm-global
-          npm config set prefix '~/.npm-global'
-          echo 'export PATH=~/.npm-global/bin:$PATH' >> $GITHUB_PATH
       - name: Install Quartz plugins
         run: npx quartz plugin install
       - name: Build Quartz
