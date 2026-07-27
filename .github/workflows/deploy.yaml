@@ -10,6 +10,8 @@ permissions:
   packages: read
   pages: write
   id-token: write
+env:
+  NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
  
 concurrency:
   group: "pages"
@@ -43,6 +45,11 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install
+      - name: Configure NPX
+        run:  |
+          mkdir ~/.npm-global
+          npm config set prefix '~/.npm-global'
+          echo 'export PATH=~/.npm-global/bin:$PATH' >> $GITHUB_PATH
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
