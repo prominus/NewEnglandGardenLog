@@ -63,3 +63,13 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
+  - type: list
+    name: Recent Logs
+    filters:
+      and:
+        - file.tags.contains("log")
+        - date > (today() - "60d")
+    sort:
+      - property: file.name
+        direction: DESC
+    indentProperties: false

@@ -7,6 +7,10 @@ tags:
 
 Welcome to my second brain for my garden!
 
+### Recent Logs
+
+![[Seed View.base#Recent Logs]]
+
 ### Site Structure
 
 - [Gardens](https://www.newenglandgarden.blog/Gardens/)

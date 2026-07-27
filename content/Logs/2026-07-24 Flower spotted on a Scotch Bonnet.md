@@ -1,5 +1,5 @@
 ---
-title: 2026-07-24 Flower spotted on a Scotch Bonnet
+title: Flower spotted on a Scotch Bonnet
 draft: false
 tags:
   - log
