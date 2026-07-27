@@ -45,12 +45,6 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install
-      - name: Display working directory
-        run: pwd
-      - name: List all files
-        run: ls -al
-      - name: Fetch Quartz Theme
-        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
       - name: Debug Quartz
         run: |
           which node
@@ -58,6 +52,8 @@ jobs:
           npm -v
           ls -l node_modules/.bin
           ls -l node_modules/.bin/quartz
+      - name: Fetch Quartz Theme
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
