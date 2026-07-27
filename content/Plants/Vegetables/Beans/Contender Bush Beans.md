@@ -16,7 +16,7 @@ directSeed: yes
 growthDuration:
 weblinks:
   - https://www.botanicalinterests.com/products/contender-bush-bean-seeds?_pos=1&_sid=740df5725&_ss=r
-image: "[[3034i_Bean-Bush-Contender-ORG-new2025_jp0m44_33f2ba1b-903f-4a4e-bafa-0295ba241b5a.webp]]"
+image: "[[3034i_Bean-Bush-Contender-ORG-new2025_jp0m44_33f2ba1b-903f-4a4e-bafa-0295ba241b5a.webp|600]]"
 seedQuantity: 48
 soilTemp: "65"
 ---

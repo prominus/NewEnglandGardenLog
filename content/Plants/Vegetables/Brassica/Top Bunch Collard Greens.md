@@ -14,12 +14,12 @@ directSeed: yes
 growthDuration: 70
 weblinks:
   - https://www.botanicalinterests.com/products/top-bunch-collards-seeds?_pos=3&_sid=2bd105801&_ss=r&variant=43922604458237
-image: "[[0642i_Collards-Top-Bunch-2026.webp]]"
+image: "[[0642i_Collards-Top-Bunch-2026.webp|600]]"
 seedQuantity: 79
 soilTemp: "55"
 secondaryOutside: "16"
 ---
-![[0642i_Collards-Top-Bunch-2026.webp]]
+![[0642i_Collards-Top-Bunch-2026.webp|600]]
 
 ### Description
 

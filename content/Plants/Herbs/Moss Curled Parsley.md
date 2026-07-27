@@ -16,7 +16,7 @@ directSeed: n/a
 growthDuration: 
 weblinks:
   - https://www.botanicalinterests.com/products/long-standing-santo-cilantro-corianderseeds
-image: "[[6011i_Parsley-Moss-Curled-ORG_ac838e52-f695-4490-8425-b67acea02927.webp]]"
+image: "[[6011i_Parsley-Moss-Curled-ORG_ac838e52-f695-4490-8425-b67acea02927.webp|600]]"
 ---
  **Website:** https://www.botanicalinterests.com/products/moss-curled-organic-parsley-seeds
 

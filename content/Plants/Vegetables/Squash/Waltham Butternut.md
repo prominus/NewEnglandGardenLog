@@ -16,11 +16,11 @@ directSeed: n/a
 growthDuration: 100
 weblinks:
   - https://www.botanicalinterests.com/products/winter-waltham-butternut-winter-squash-seeds?_pos=2&_sid=562418149&_ss=r&variant=43922584535293
-image: "[[0047i_Squash-Winter-Waltham_myl9wg_8e84f86b-142e-4d44-afe7-66afdd200bc7.webp]]"
+image: "[[0047i_Squash-Winter-Waltham_myl9wg_8e84f86b-142e-4d44-afe7-66afdd200bc7.webp|600]]"
 seedQuantity: 18
 soilTemp: "65"
 ---
-![[0047i_Squash-Winter-Waltham_myl9wg_8e84f86b-142e-4d44-afe7-66afdd200bc7.webp]]
+![[0047i_Squash-Winter-Waltham_myl9wg_8e84f86b-142e-4d44-afe7-66afdd200bc7.webp|600]]
 
 ### Description
 

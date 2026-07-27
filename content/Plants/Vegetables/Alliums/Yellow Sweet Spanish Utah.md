@@ -5,11 +5,19 @@ tags:
   - plant
   - vegetable
   - allium
+plantCategory: allium
+whenToStartInside: 12
+whenToStartOutside: 6
+soilTemp: "45"
+plantSeason:
+  - spring
+directSeed: no
+growthDuration: 130
+weblinks:
+  - https://www.botanicalinterests.com/products/yellow-sweet-spanish-utah-bulb-onion-seeds?_pos=1&_psq=yellow+s&_ss=e&_v=1.0
+image: "[[0291i_Onion-Yellow-Sweet-Span-Utah.webp]]"
+seedQuantity: 180
 ---
-**Website:** https://www.botanicalinterests.com/products/yellow-sweet-spanish-utah-bulb-onion-seeds?_pos=1&_psq=yellow+s&_ss=e&_v=1.0
-
-***~180***
-
 ![[0291i_Onion-Yellow-Sweet-Span-Utah.webp|600]]
 
 ### Description
@@ -62,3 +70,4 @@ The 'Sweet Spanish' onion was grown in the U.S. at least as far back as 1916. 'Y
 
 When starting these seeds, omit using cells. and just scatter plant in a tray. The roots are relatively easy to split up, and the plant is very forgiving when transplanting.
 
+Start in a [[1020 Mesh Tray]]

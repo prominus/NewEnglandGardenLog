@@ -6,7 +6,7 @@ tags:
 ---
 **Website:** https://www.sili-seedlings.com/shop/101grn
 
-![[6-cell-green-front.webp]]
+![[6-cell-green-front.webp|600]]
 ### Description
 
 Our original 6-cell tray is our most compact and economical tray, featuring large 2” cells, drain holes, and thick silicone walls. This tray can grow almost anything -- a loyal asset to any gardener!

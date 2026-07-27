@@ -16,7 +16,7 @@ directSeed: n/a
 growthDuration: 
 weblinks:
   - https://www.botanicalinterests.com/products/long-standing-santo-cilantro-corianderseeds
-image: "[[6028i_Cilantro-Coriander-Long-Standing-ORG_05e13127-80bc-475a-8b63-6bd516aed0c0.webp]]"
+image: "[[6028i_Cilantro-Coriander-Long-Standing-ORG_05e13127-80bc-475a-8b63-6bd516aed0c0.webp|600]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/long-standing-santo-cilantro-corianderseeds
 

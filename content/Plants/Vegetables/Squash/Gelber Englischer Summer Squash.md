@@ -16,12 +16,12 @@ directSeed: n/a
 growthDuration: 61
 weblinks:
   - https://www.botanicalinterests.com/products/gelber-englischer-summer-squash-seeds?_pos=3&_sid=8233e34c9&_ss=r&variant=43922600558845
-image: "[[0526i_Squash-Sum-Gelber-Englischer_2026.webp]]"
+image: "[[0526i_Squash-Sum-Gelber-Englischer_2026.webp|600]]"
 seedQuantity: 20
 soilTemp: "75"
 aliases:
 ---
-![[0526i_Squash-Sum-Gelber-Englischer_2026.webp]]
+![[0526i_Squash-Sum-Gelber-Englischer_2026.webp|600]]
 
 ### Description
 

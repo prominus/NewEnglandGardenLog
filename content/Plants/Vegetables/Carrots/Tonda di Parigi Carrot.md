@@ -5,12 +5,21 @@ tags:
   - plant
   - vegetable
   - carrot
+plantCategory: carrot
+sili-seedlingCount:
+quantity:
+plantSeason:
+  - spring
+  - summer
+  - fall
+directSeed: yes
+growthDuration: 65
+weblinks:
+  - https://www.botanicalinterests.com/products/tonda-di-parigi-carrot-seeds?_pos=9&_sid=3daca4c96&_ss=r
+image: "[[0011i_Carrot-Tonda-di-Parigi_itpqgt_3cf72073-7692-431e-90a2-65743276dcc7.webp]]"
+seedQuantity: 400
+soilTemp: "45"
 ---
-
-**Website:** https://www.botanicalinterests.com/products/tonda-di-parigi-carrot-seeds?_pos=9&_sid=3daca4c96&_ss=r
-
-***~400 seeds***
-
 ![[0011i_Carrot-Tonda-di-Parigi_itpqgt_3cf72073-7692-431e-90a2-65743276dcc7.webp|600]]
 
 ### Description

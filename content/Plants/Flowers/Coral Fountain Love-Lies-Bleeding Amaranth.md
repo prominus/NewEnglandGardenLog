@@ -16,7 +16,7 @@ directSeed: n/a
 growthDuration:
 weblinks:
   - https://www.botanicalinterests.com/products/coral-fountain-amaranth-seeds?_pos=1&_psq=coral+am&_ss=e&_v=1.0
-image: "[[1339i_Amaranth-Coral-Fountain_jffyjg.webp]]"
+image: "[[1339i_Amaranth-Coral-Fountain_jffyjg.webp|600]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/coral-fountain-amaranth-seeds?_pos=1&_psq=coral+am&_ss=e&_v=1.0
 

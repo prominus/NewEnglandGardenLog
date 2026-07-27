@@ -16,11 +16,11 @@ directSeed: n/a
 growthDuration: 57
 weblinks:
   - https://www.botanicalinterests.com/products/fordhook-giant-swiss-chard-seeds?_pos=1&_sid=c1cbac37d&_ss=r&variant=43922603376893
-image: "[[fordhook-giant-swiss-chard-seeds.webp]]"
+image: "[[fordhook-giant-swiss-chard-seeds.webp|600]]"
 seedQuantity: 138
 soilTemp: "40"
 ---
-![[fordhook-giant-swiss-chard-seeds.webp]]
+![[fordhook-giant-swiss-chard-seeds.webp|600]]
 
 ### Description
 

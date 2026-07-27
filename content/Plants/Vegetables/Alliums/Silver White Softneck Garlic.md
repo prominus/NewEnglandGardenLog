@@ -50,3 +50,7 @@ This softneck silverskin [[garlic]] was developed in California for its consiste
 **Harvesting:** Garlic bulbs are ready to harvest when the tops are approximately 40% yellow or brown or when the tops start to fall over. This is typically in June and July. Do not leave bulbs in the ground too long, or the skins will decay, reducing storage life. To harvest, lift the bulbs gently with a digging fork (flat tines) or a shovel, digging widely to avoid cutting into them. Gently brush off any loose soil and remove any damaged cloves, but leave the roots and shoots attached. Lay or hang the whole plant in a warm, airy location out of direct sun and protected from rain before curing.
 
 **Special Care:** After planting, apply 2"–4" of mulch (e.g., straw, untreated grass clippings, shredded leaves) to maintain moisture, insulate the cloves through the winter, and help prevent frost from pushing cloves to the surface. Loosen mulch in spring to allow shoots to push through thick or compacted mulch. In very cold climates, remove mulch after the last hard freeze to allow soil to warm more quickly. Reapply mulch after shoots emerge to maintain consistent moisture and reduce weeds. Remove weeds regularly to reduce competition for water and nutrients.
+
+### Notes
+
+Stalks tends to rip off when pulling. Loosen dirt with hand trowel or garden fork

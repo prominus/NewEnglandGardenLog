@@ -15,7 +15,7 @@ directSeed: n/a
 growthDuration:
 weblinks:
   - https://www.botanicalinterests.com/products/california-bluebells-bluebells-seeds?_pos=1&_psq=California+blue&_ss=e&_v=1.0
-image: "[[1108i_Bluebells-California-new2025_ed70lp.webp]]"
+image: "[[1108i_Bluebells-California-new2025_ed70lp.webp|600]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/california-bluebells-bluebells-seeds?_pos=1&_psq=California+blue&_ss=e&_v=1.0
 

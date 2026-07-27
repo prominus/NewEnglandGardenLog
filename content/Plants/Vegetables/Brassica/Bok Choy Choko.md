@@ -20,7 +20,7 @@ image:
 seedQuantity: 105
 soilTemp: "60"
 ---
-![[0136i_Bok-Choy-Choko-2026packet_t59ulf.webp]]
+![[0136i_Bok-Choy-Choko-2026packet_t59ulf.webp|600]]
 ### Description
 
 This baby bok choy or pak choi tolerates heat, so you can grow it all summer. Harvest at 4" tall for delicate, crisp, and pleasantly mild-flavored leaves. An indispensible stir-fry ingredient, also try it fresh or marinated for salads, or make baby bok choy kimchi. The uniform, green leaves look beautiful when grown alongside flowers. Great for containers, too!

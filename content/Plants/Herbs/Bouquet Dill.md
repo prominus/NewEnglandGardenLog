@@ -16,7 +16,7 @@ directSeed: n/a
 growthDuration:
 weblinks:
   - https://www.botanicalinterests.com/products/bouquet-dill-seeds
-image: "[[6030i_Dill-Bouquet-ORG_vmfjpf_cb9c74c5-5504-4525-b292-357231d5d20d.webp]]"
+image: "[[6030i_Dill-Bouquet-ORG_vmfjpf_cb9c74c5-5504-4525-b292-357231d5d20d.webp|600]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/bouquet-dill-seeds
 

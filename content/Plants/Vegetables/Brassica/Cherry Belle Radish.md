@@ -17,11 +17,11 @@ directSeed: yes
 growthDuration: 22
 weblinks:
   - https://www.botanicalinterests.com/products/cherry-belle-radish-seeds?_pos=1&_sid=a3b24da42&_ss=r&variant=43922604032253
-image: "[[932_2727_large_7ac76c14-9a2e-4992-9845-a20e31b7827a.webp]]"
+image: "[[932_2727_large_7ac76c14-9a2e-4992-9845-a20e31b7827a.webp|600]]"
 seedQuantity: 460
 ---
 
-![[932_2727_large_7ac76c14-9a2e-4992-9845-a20e31b7827a.webp]]
+![[932_2727_large_7ac76c14-9a2e-4992-9845-a20e31b7827a.webp|600]]
 
 ### Description
 

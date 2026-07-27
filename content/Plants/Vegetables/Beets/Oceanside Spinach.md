@@ -16,11 +16,11 @@ directSeed: yes
 growthDuration: 60
 weblinks:
   - https://www.botanicalinterests.com/products/oceanside-spinach-seeds?_pos=1&_sid=280fc4677&_ss=r&variant=43922604032253
-image: "[[0001i_Spinach-Anna_032dbe04-7fbe-4a7c-83f7-63cddeb4267c.webp]]"
+image: "[[0001i_Spinach-Anna_032dbe04-7fbe-4a7c-83f7-63cddeb4267c.webp|600]]"
 seedQuantity: 115
 soilTemp: "50"
 ---
-![[0001i_Spinach-Anna_032dbe04-7fbe-4a7c-83f7-63cddeb4267c.webp]]
+![[0001i_Spinach-Anna_032dbe04-7fbe-4a7c-83f7-63cddeb4267c.webp|600]]
 
 ### Description
 

@@ -16,11 +16,11 @@ directSeed: n/a
 growthDuration: 43
 weblinks:
   - https://www.botanicalinterests.com/products/chiffon-summer-squash-seeds?_pos=1&_sid=11edfcb50&_ss=r&variant=43922610290941
-image: "[[0900i_Squash-Summer-Chiffon-2026.webp]]"
+image: "[[0900i_Squash-Summer-Chiffon-2026.webp|600]]"
 seedQuantity: 11
 soilTemp: "65"
 ---
-![[0900i_Squash-Summer-Chiffon-2026.webp]]
+![[0900i_Squash-Summer-Chiffon-2026.webp|600]]
 
 ### Description
 

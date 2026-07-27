@@ -15,11 +15,11 @@ plantSeason:
 directSeed: yes
 growthDuration: 62
 weblinks:
-image: "[[0300w_Bean-Bush-Ferrari_3mhmjv.webp]]"
+image: "[[0300w_Bean-Bush-Ferrari_3mhmjv.webp|600]]"
 seedQuantity: 2
 soilTemp: "65"
 ---
-![[0300w_Bean-Bush-Ferrari_3mhmjv.webp]]
+![[0300w_Bean-Bush-Ferrari_3mhmjv.webp|600]]
 
 ### Description
 

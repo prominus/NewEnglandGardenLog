@@ -15,7 +15,7 @@ directSeed: no
 growthDuration: 
 weblinks:
   - https://www.botanicalinterests.com/products/italian-genovese-basil-seeds
-image: "[[6027i_Basil-Italian-Genovese-ORG_ou13d0_62e22e5d-d8f7-4c7c-8879-fcafb34e68e8.webp]]"
+image: "[[6027i_Basil-Italian-Genovese-ORG_ou13d0_62e22e5d-d8f7-4c7c-8879-fcafb34e68e8.webp|600]]"
 ---
 **Website:** https://www.botanicalinterests.com/products/italian-genovese-basil-seeds
 

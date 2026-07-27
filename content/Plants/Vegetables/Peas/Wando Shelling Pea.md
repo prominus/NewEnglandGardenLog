@@ -18,12 +18,12 @@ growthDuration: 68
 weblinks:
   - https://www.botanicalinterests.com/products/wando-shelling-pea-seeds?_pos=1&_sid=5ca94fb8f&_ss=r&variant=43922600558845
   - https://www.botanicalinterests.com/products/chiffon-summer-squash-seeds?_pos=1&_sid=11edfcb50&_ss=r&variant=43922610290941
-image: "[[0192i_Pea-Shelling-Wando-new2025_r1wk4v_d3c75e4a-b787-40dd-a0a8-d5e78b7459d4.webp]]"
+image: "[[0192i_Pea-Shelling-Wando-new2025_r1wk4v_d3c75e4a-b787-40dd-a0a8-d5e78b7459d4.webp|600]]"
 seedQuantity: 80
 soilTemp: "60"
 secondaryOutside: "10"
 ---
-![[0192i_Pea-Shelling-Wando-new2025_r1wk4v_d3c75e4a-b787-40dd-a0a8-d5e78b7459d4.webp]]
+![[0192i_Pea-Shelling-Wando-new2025_r1wk4v_d3c75e4a-b787-40dd-a0a8-d5e78b7459d4.webp|600]]
 
 ### Description
 

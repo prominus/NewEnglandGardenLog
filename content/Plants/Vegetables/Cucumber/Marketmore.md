@@ -5,11 +5,20 @@ tags:
   - plant
   - vegetable
   - cucumber
+plantCategory: cucumber
+whenToStartInside: 4
+whenToStartOutside: -1
+soilTemp: "70"
+plantSeason:
+  - spring
+directSeed: n/a
+growthDuration: 60
+weblinks:
+  - https://www.botanicalinterests.com/products/marketmore-cucumber-seeds?_pos=1&_psq=marketmore&_ss=e&_v=1.0
+image: "[[public/images/3123i_cucumber-marketmore-org_tcu70g_1ebeb970-5a34-4a56-9ddd-4aaf01f15c07.webp]]"
+seedQuantity: 40
+paperPotQty: "3"
 ---
-**Website:** https://www.botanicalinterests.com/products/marketmore-cucumber-seeds?_pos=1&_psq=marketmore&_ss=e&_v=1.0
-
-***~40 seeds***
-
 ![[3123i_Cucumber-MarketMore-ORG_tcu70g_1ebeb970-5a34-4a56-9ddd-4aaf01f15c07.webp|600]]
 
 ### Description
@@ -58,5 +67,4 @@ Introduced in 1968 by Cornell University, 'Marketmore' is a beautiful, dark gree
 
 ### Notes
 
-
-
+Plant 2 to 3 in [[3 Inch Paper Pot]]. The rest can be direct sewed

@@ -16,11 +16,11 @@ directSeed: no
 growthDuration: 68
 weblinks:
   - https://www.botanicalinterests.com/products/tokyo-long-white-bunching-scallion-onion-seeds?_pos=1&_sid=5e57c042b&_ss=r&variant=43922582634749
-image: "[[0218i_Onion-Bunching-Tokyo-White_534ec904-5e2d-4d0b-9c95-94442609a91d.webp]]"
+image: "[[0218i_Onion-Bunching-Tokyo-White_534ec904-5e2d-4d0b-9c95-94442609a91d.webp|600]]"
 seedQuantity: 480
 soilTemp: "45"
 ---
-![[0218i_Onion-Bunching-Tokyo-White_534ec904-5e2d-4d0b-9c95-94442609a91d.webp]]
+![[0218i_Onion-Bunching-Tokyo-White_534ec904-5e2d-4d0b-9c95-94442609a91d.webp|600]]
 
 ### Description
 

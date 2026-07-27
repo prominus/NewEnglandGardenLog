@@ -16,7 +16,7 @@ directSeed: n/a
 growthDuration: 68
 weblinks:
   - https://www.botanicalinterests.com/products/little-gem-mini-romaine-lettuce-seeds?_pos=2&_sid=5ab18b698&_ss=r&variant=43922602426621
-image: "[[3102i_Lettuce-Rom-Little-Gem-ORG_9ms19z_0040a628-759f-4334-b1cb-4f3d42fd31d6.webp]]"
+image: "[[3102i_Lettuce-Rom-Little-Gem-ORG_9ms19z_0040a628-759f-4334-b1cb-4f3d42fd31d6.webp|600]]"
 seedQuantity: 340
 soilTemp:
 ---

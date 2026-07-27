@@ -16,7 +16,7 @@ directSeed: no
 growthDuration: 100
 weblinks:
   - https://www.botanicalinterests.com/products/zebrune-shallot-onion-seeds?_pos=1&_sid=a1195eb90&_ss=r
-image: "[[0289i_Onion-Shallot-Zebrune_7mcgav.webp]]"
+image: "[[0289i_Onion-Shallot-Zebrune_7mcgav.webp|600]]"
 seedQuantity: 55
 soilTemp:
 ---

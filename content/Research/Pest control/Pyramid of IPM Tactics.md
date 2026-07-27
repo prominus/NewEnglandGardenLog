@@ -1,4 +1,4 @@
-![[Pyramid IPM of tactics.webp]]
+![[Pyramid IPM of tactics.webp|600]]
 
 In a nutshell. Start from the bottom and escalate up depending on how bad the problem is.
 

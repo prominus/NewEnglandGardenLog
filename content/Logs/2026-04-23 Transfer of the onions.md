@@ -36,4 +36,4 @@ I am expecting the other order of the [[Hudson Valley Seed Company]] to arrive c
 
 After inspecting the [[German Butterball]] and [[Yukon Gold Potatoes]], I decided a couple of them were large enough to cut in half. After cutting I now have 6 [[German Butterball]] and 5 [[Yukon Gold Potatoes]] to plant. That is once the cuts have scabbed over and the current eyes fully chit. In the meantime, I am storing them in the cupboard next to the flour sugar and grocery store onions.
 
-![[20260423_211727.webp]]
+![[20260423_211727.webp|600]]

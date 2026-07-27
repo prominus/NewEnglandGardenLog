@@ -15,11 +15,11 @@ growthDuration: 123
 weblinks:
   - https://www.botanicalinterests.com/products/all-american-parsnip-seeds?_pos=1&_sid=ddfbdacde&_ss=r&variant=43922604032253
   - https://www.botanicalinterests.com/products/cherry-belle-radish-seeds?_pos=1&_sid=a3b24da42&_ss=r&variant=43922604032253
-image: "[[0201i_Parsnip-All-American_404916fa-3380-4b09-bf79-9c6ff93301ff.webp]]"
+image: "[[0201i_Parsnip-All-American_404916fa-3380-4b09-bf79-9c6ff93301ff.webp|600]]"
 seedQuantity: 340
 soilTemp:
 ---
-![[0201i_Parsnip-All-American_404916fa-3380-4b09-bf79-9c6ff93301ff.webp]]
+![[0201i_Parsnip-All-American_404916fa-3380-4b09-bf79-9c6ff93301ff.webp|600]]
 
 ### Description
 
