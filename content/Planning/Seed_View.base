@@ -41,7 +41,7 @@ views:
     columnSize:
       note.growthDuration: 92
   - type: cards
-    name: Seed Cards
+    name: Seed_Cards
     filters:
       and:
         - file.tags.contains("plant")
@@ -64,7 +64,7 @@ views:
       - property: file.name
         direction: ASC
   - type: list
-    name: Recent Logs
+    name: Recent_Logs
     filters:
       and:
         - file.tags.contains("log")

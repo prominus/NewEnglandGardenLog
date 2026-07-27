@@ -9,7 +9,7 @@ Welcome to my second brain for my garden!
 
 ### Recent Logs
 
-![[Seed View.base#Recent Logs]]
+![[Seed_View.base#Recent_Logs]]
 
 ### Site Structure
 
