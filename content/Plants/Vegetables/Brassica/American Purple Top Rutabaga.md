@@ -5,11 +5,21 @@ tags:
   - plant
   - vegetable
   - brassica
+plantCategory: brassica
+sili-seedlingCount: 1
+quantity: 6
+whenToStartInside: 8
+whenToStartOutside: 4
+plantSeason:
+  - spring
+directSeed: n/a
+growthDuration: 118
+weblinks:
+  - https://www.botanicalinterests.com/products/american-purple-top-rutabaga-seeds?_pos=1&_sid=41cdfcee3&_ss=r
+image: "[[0241i_Rutabaga-American-Purple-Top_tngiiy.webp]]"
+seedQuantity: 480
+soilTemp: "60"
 ---
-  **Website:** https://www.botanicalinterests.com/products/american-purple-top-rutabaga-seeds?_pos=1&_sid=41cdfcee3&_ss=r
-
-***~480 seeds***
-
 ![[0241i_Rutabaga-American-Purple-Top_tngiiy.webp|600]]
 
 ### Description

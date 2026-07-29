@@ -6,15 +6,20 @@ tags:
   - vegetable
   - allium
   - herb
+plantCategory: herb
+whenToStartInside: 10
+whenToStartOutside: 6
+plantSeason:
+  - spring
+directSeed: no
+growthDuration:
+weblinks:
+  - https://www.highmowingseeds.com/organic-non-gmo-chives.html
+  - https://www.botanicalinterests.com/products/common-chives-seeds
+image: "[[5031i_Chives-Common_623743d7-86a6-4ecb-b861-b96725d6cd34.webp]]"
+seedQuantity: 470
+soilTemp: "45"
 ---
-### Websites:
-
- https://www.highmowingseeds.com/organic-non-gmo-chives.html
-
-https://www.botanicalinterests.com/products/common-chives-seeds
-
-***~470 seeds***
-
 ![[5031i_Chives-Common_623743d7-86a6-4ecb-b861-b96725d6cd34.webp|600]]
 ### Description
 

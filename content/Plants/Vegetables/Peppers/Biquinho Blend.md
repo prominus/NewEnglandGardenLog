@@ -5,10 +5,21 @@ tags:
   - plant
   - vegetable
   - pepper
+plantCategory: pepper
+sili-seedlingCount: 1
+quantity: 6
+whenToStartInside: 12
+whenToStartOutside: -4
+plantSeason:
+  - spring
+directSeed: no
+growthDuration: 74
+weblinks:
+  - https://www.botanicalinterests.com/products/red-and-yellow-blend-biquinho-chile-pepper-seeds?_pos=1&_psq=biquin&_ss=e&_v=1.0
+image: "[[0074i_Pepper-Chile-Biquinho-RY-Blend_zximsf.webp]]"
+seedQuantity: 25
+soilTemp: "75"
 ---
-**Website:** https://www.botanicalinterests.com/products/red-and-yellow-blend-biquinho-chile-pepper-seeds?_pos=1&_psq=biquin&_ss=e&_v=1.0
-
-***~25 seeds***
 
 ![[0074i_Pepper-Chile-Biquinho-RY-Blend_zximsf.webp|600]]
 ### Description

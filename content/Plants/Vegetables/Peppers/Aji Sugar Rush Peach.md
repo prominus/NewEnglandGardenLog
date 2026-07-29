@@ -5,12 +5,21 @@ tags:
   - plant
   - vegetable
   - pepper
+plantCategory: pepper
+whenToStartInside: 14
+whenToStartOutside: -4
+plantSeason:
+  - spring
+directSeed: no
+growthDuration: 85
+weblinks:
+  - https://bohicapepperhut.com/products/aji-sugar-rush-peach-seeds?_pos=1&_sid=93cec1738&_ss=r
+image: "[[Pasted image 20251115160859.png]]"
+seedQuantity: 10
+soilTemp: "75"
 ---
-**Website:** https://bohicapepperhut.com/products/aji-sugar-rush-peach-seeds?_pos=1&_sid=93cec1738&_ss=r
 
-***~10 seeds***
-
-![[Pasted image 20251115160859.png]]
+![[Pasted image 20251115160859.png|600]]
 
 ### Description
 

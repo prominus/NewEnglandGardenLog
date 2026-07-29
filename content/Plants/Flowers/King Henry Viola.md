@@ -17,7 +17,9 @@ directSeed: no
 growthDuration: 83
 weblinks:
   - https://www.botanicalinterests.com/products/king-henry-viola-seeds?_pos=2&_psq=king&_ss=e&_v=1.0
-collection: flower
+image: "[[1109i_Viola-King-Henry_5z47fk.webp]]"
+seedQuantity: 190
+soilTemp:
 ---
 **Website:** https://www.botanicalinterests.com/products/king-henry-viola-seeds?_pos=2&_psq=king&_ss=e&_v=1.0
 
@@ -45,7 +47,11 @@ With its royal color, 'King Henry', (formerly called 'Prince Henry') delivers li
 
 **Variety Info:** ¾" deep violet-blue with a small bright yellow center
 
-**Attributes:** Deer Resistant, Edible Flower, Good for Containers, Frost Tolerant
+**Attributes:** 
+- Deer Resistant
+- Edible Flower
+- Good for Containers
+- Frost Tolerant
 
 ### Sowing Info
 

@@ -5,14 +5,22 @@ tags:
   - plant
   - vegetable
   - pepper
+plantCategory: pepper
+sili-seedlingCount: 0.5
+quantity: 3
+whenToStartInside: 10
+whenToStartOutside: -6
+plantSeason:
+  - spring
+directSeed: no
+growthDuration: 60
+weblinks:
+  - https://www.botanicalinterests.com/products/early-jalapeno-chile-pepper-seeds?_pos=2&_sid=83dee809b&_ss=r
+image: "[[jalapeno 20251114181227.png]]"
+seedQuantity: 30
+soilTemp: "75"
 ---
-
-**Website:** https://www.botanicalinterests.com/products/early-jalapeno-chile-pepper-seeds?_pos=2&_sid=83dee809b&_ss=r
-
-***~30 Seeds***
-
-
-![[jalapeno 20251114181227.png]]
+![[jalapeno 20251114181227.png|600]]
 
 ### Description
 

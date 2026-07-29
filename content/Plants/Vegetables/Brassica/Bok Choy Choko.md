@@ -5,7 +5,7 @@ tags:
   - plant
   - vegetable
   - brassica
-plantCategory:
+plantCategory: brassica
 sili-seedlingCount:
 quantity:
 whenToStartInside:
@@ -16,9 +16,10 @@ directSeed: yes
 growthDuration: 55
 weblinks:
   - https://www.botanicalinterests.com/products/bok-choy-choko-seeds?_pos=1&_sid=df4473490&_ss=r&variant=43922603376893
-image:
+image: "[[0136i_Bok-Choy-Choko-2026packet_t59ulf.webp]]"
 seedQuantity: 105
 soilTemp: "60"
+secondaryOutside: "6"
 ---
 ![[0136i_Bok-Choy-Choko-2026packet_t59ulf.webp|600]]
 ### Description
@@ -27,7 +28,7 @@ This baby bok choy or pak choi tolerates heat, so you can grow it all summer. Ha
 
 ### Variety Info
 
-**Days to Maturity:** 
+**Days to Maturity:** 55
 
 **Family:** Brassicaceae
 

@@ -5,6 +5,18 @@ tags:
   - plant
   - vegetable
   - squash
+plantCategory: summer-squash
+sili-seedlingCount:
+quantity:
+whenToStartInside:
+whenToStartOutside:
+plantSeason:
+  - summer
+directSeed: n/a
+growthDuration:
+weblinks:
+  - https://www.highmowingseeds.com/organic-non-gmo-dark-green-zucchini.html
+image: "[[darkGreenZucchini.webp]]"
 ---
 **Website:** https://www.highmowingseeds.com/organic-non-gmo-dark-green-zucchini.html
 

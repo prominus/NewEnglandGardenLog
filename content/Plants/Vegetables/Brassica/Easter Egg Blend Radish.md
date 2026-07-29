@@ -5,10 +5,21 @@ tags:
   - plant
   - vegetable
   - brassica
+plantCategory: radish
+whenToStartInside:
+whenToStartOutside: 6
+plantSeason:
+  - spring
+  - fall
+directSeed: n/a
+growthDuration:
+weblinks:
+  - https://www.botanicalinterests.com/products/easter-egg-blend-radish-seeds?omnisendContactID=68346ffece4e6693fe878507
+image: "[[0195i_Radish-Easter-Egg-Blend_k4qdqh_193a336d-7f81-4094-96a9-5fd5d99218a3.webp]]"
+seedQuantity: 170
+soilTemp: "40"
+secondaryOutside: "4"
 ---
-**Website:** https://www.botanicalinterests.com/products/easter-egg-blend-radish-seeds?omnisendContactID=68346ffece4e6693fe878507
-
-***~340 seeds***
 
 ![[0195i_Radish-Easter-Egg-Blend_k4qdqh_193a336d-7f81-4094-96a9-5fd5d99218a3.webp|600]]
 

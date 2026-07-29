@@ -5,6 +5,22 @@ tags:
   - plant
   - vegetable
   - pepper
+plantCategory: pepper
+whenToStartInside: 14
+whenToStartOutside: -4
+plantSeason:
+  - spring
+directSeed: no
+growthDuration: 85
+weblinks:
+  - https://bohicapepperhut.com/products/aji-charapita-seeds?_pos=1&_psq=aji+chara&_ss=e&_v=1.0
+  - https://scorchsquad.com/blogs/articles/aji-charapita-cultivating-the-worlds-smallest-hot-pepper
+  - https://peppergeek.com/aji-charapita-peppers/
+image: "[[82a_-_Aji_Charapita_600x.webp]]"
+seedQuantity: 10
+soilTemp: "75"
+sili-seedlingCount: 1
+quantity: 6
 ---
 ### Website Links
 
@@ -12,7 +28,6 @@ tags:
 - Link to useful blog: https://scorchsquad.com/blogs/articles/aji-charapita-cultivating-the-worlds-smallest-hot-pepper
 - https://peppergeek.com/aji-charapita-peppers/
 
-***~10 seeds***
 
 ![[82a_-_Aji_Charapita_600x.webp|600]]
 

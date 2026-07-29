@@ -2,6 +2,6 @@
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Logs",
-  "attachmentFolderPath": "Images"
+  "newFileFolderPath": "content/Logs",
+  "attachmentFolderPath": "content/Images"
 }

@@ -11,7 +11,7 @@ properties:
     displayName: seedling_date
 views:
   - type: table
-    name: Table
+    name: seed_table
     filters:
       and:
         - "!plantCategory.isEmpty()"
@@ -41,13 +41,15 @@ views:
     columnSize:
       note.growthDuration: 92
   - type: cards
-    name: Seed_Cards
+    name: seed_cards
     filters:
       and:
         - file.tags.contains("plant")
     order:
       - file.name
     image: note.image
+    cardSize: 150
+    imageAspectRatio: 0.7
   - type: table
     name: View
     filters:
@@ -64,7 +66,7 @@ views:
       - property: file.name
         direction: ASC
   - type: list
-    name: Recent_Logs
+    name: recent_logs
     filters:
       and:
         - file.tags.contains("log")
