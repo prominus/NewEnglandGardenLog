@@ -5,11 +5,21 @@ tags:
   - plant
   - vegetable
   - brassica
+plantCategory: radish
+whenToStartInside:
+whenToStartOutside: 6
+plantSeason:
+  - spring
+  - fall
+directSeed: yes
+growthDuration: 28
+weblinks:
+  - https://www.botanicalinterests.com/products/french-breakfast-radish-seeds?_pos=1&_sid=01c4a1dfb&_ss=r
+image: "[[3008i_Radish-French-Breakfast-ORG_qe6jxf_069b10ef-037e-4d36-9965-9771d1161a34.webp]]"
+seedQuantity: 210
+soilTemp: "40"
+secondaryOutside: "4"
 ---
-**Website:** https://www.botanicalinterests.com/products/french-breakfast-radish-seeds?_pos=1&_sid=01c4a1dfb&_ss=r
-
-***~210 seeds***
-
 ![[3008i_Radish-French-Breakfast-ORG_qe6jxf_069b10ef-037e-4d36-9965-9771d1161a34.webp|600]]
 
 ### Description

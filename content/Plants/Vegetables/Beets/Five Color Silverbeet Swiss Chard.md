@@ -5,11 +5,24 @@ tags:
   - plant
   - vegetable
   - beet
+plantCategory: chard
+sili-seedlingCount:
+quantity:
+whenToStartInside: 6
+whenToStartOutside: 4
+plantSeason:
+  - spring
+  - fall
+directSeed: n/a
+growthDuration: 60
+weblinks:
+  - https://www.botanicalinterests.com/products/five-color-silverbeet-swiss-chard-seeds?_pos=1&_sid=1006da0ff&_ss=r
+image: "[[3114i_Swiss-Chard-5-Color-Silverbeet-ORG_5f287v_74c5a5cd-0825-458c-9887-c0d87ef6580e.webp]]"
+seedQuantity: 80
+soilTemp: "40"
+secondaryInside: "4"
+secondaryOutside: "8"
 ---
-**Website:** https://www.botanicalinterests.com/products/five-color-silverbeet-swiss-chard-seeds?_pos=1&_sid=1006da0ff&_ss=r
-
-***~80 seeds***
-
 ![[3114i_Swiss-Chard-5-Color-Silverbeet-ORG_5f287v_74c5a5cd-0825-458c-9887-c0d87ef6580e.webp|600]]
 
 ### Description

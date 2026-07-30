@@ -6,9 +6,13 @@ tags:
   - brassica
   - vegetable
   - sprouts
+plantCategory: sprouts
+growthDuration: 6
+weblinks:
+  - https://www.botanicalinterests.com/products/radish-china-rose-sprouts-seeds?_pos=1&_psq=China+rose&_ss=e&_v=1.0
+image: "[[7804si_L-Sprouts-China-Rose-Radish-ORG_1354f9a5-3cfe-4c7a-bcd5-058167cefc4a.webp]]"
+seedQuantity: 1920
 ---
-**Website:** https://www.botanicalinterests.com/products/radish-china-rose-sprouts-seeds?_pos=1&_psq=China+rose&_ss=e&_v=1.0
-
 ![[7804si_L-Sprouts-China-Rose-Radish-ORG_1354f9a5-3cfe-4c7a-bcd5-058167cefc4a.webp|600]]
 
 ### Description

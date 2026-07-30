@@ -6,11 +6,19 @@ tags:
   - vegetable
   - allium
   - herb
+plantCategory: herb
+whenToStartInside: 8
+whenToStartOutside: 6
+plantSeason:
+  - spring
+directSeed: no
+growthDuration:
+weblinks:
+  - https://www.botanicalinterests.com/products/garlic-chives-heirloom-seeds?_pos=1&_psq=chives+garlic&_ss=e&_v=1.0
+image: "[[5030i_Chives-Chinese-Garlic.webp]]"
+seedQuantity: 120
+soilTemp: "45"
 ---
-**Website:** https://www.botanicalinterests.com/products/garlic-chives-heirloom-seeds?_pos=1&_psq=chives+garlic&_ss=e&_v=1.0
-
-***~120 seeds***
-
 ![[5030i_Chives-Chinese-Garlic.webp|600]]
 
 ### Description

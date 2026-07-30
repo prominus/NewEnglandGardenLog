@@ -5,9 +5,17 @@ tags:
   - plant
   - vegetable
   - potato
+plantCategory: potato
+whenToStartOutside: 4
+plantSeason:
+  - spring
+directSeed: yes
+growthDuration:
+weblinks:
+  - https://www.gurneys.com/products/german_butterball_potato
+image: "[[20260419_112328.webp]]"
+soilTemp: "60"
 ---
-**Website:** https://www.gurneys.com/products/german_butterball_potato
-
 ![[20260419_112328.webp|600]]
 
 ### Description

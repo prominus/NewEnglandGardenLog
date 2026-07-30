@@ -5,11 +5,19 @@ tags:
   - plant
   - vegetable
   - corn
+archived: true
+plantCategory: corn
+whenToStartInside:
+whenToStartOutside:
+plantSeason:
+  - spring
+directSeed: n/a
+growthDuration:
+weblinks:
+  - https://www.botanicalinterests.com/products/glass-gem-flint-corn-seeds?_pos=1&_sid=514727168&_ss=r
+image: "[[3176i_Corn-Flint-Glass_Gem-ORG-BIO.webp]]"
+seedQuantity: 38
 ---
-**Website:** https://www.botanicalinterests.com/products/glass-gem-flint-corn-seeds?_pos=1&_sid=514727168&_ss=r
-
-***~38 seeds***
-
 ![[3176i_Corn-Flint-Glass_Gem-ORG-BIO.webp|600]]
 
 ### Description

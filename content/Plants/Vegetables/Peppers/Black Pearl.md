@@ -5,6 +5,11 @@ tags:
   - plant
   - vegetable
   - pepper
+weblinks:
+  - https://bohicapepperhut.com/products/black-pearl-seeds?_pos=1&_psq=black+pear&_ss=e&_v=1.0
+plantCategory: pepper
+image: "[[12h_-_Black_Pearl_600x.webp]]"
+archived: true
 ---
 **Website:** https://bohicapepperhut.com/products/black-pearl-seeds?_pos=1&_psq=black+pear&_ss=e&_v=1.0
 

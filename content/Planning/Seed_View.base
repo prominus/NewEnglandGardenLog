@@ -27,7 +27,10 @@ views:
       - directSeed
       - plantSeason
       - growthDuration
+      - soilTemp
     sort:
+      - property: soilTemp
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: formula.seedlingDate

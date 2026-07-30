@@ -6,11 +6,13 @@ tags:
   - plant
   - beans
   - sprouts
+plantCategory: sprouts
+growthDuration: 6
+weblinks:
+  - https://www.botanicalinterests.com/products/bean-mix-sprouts-seeds?_pos=1&_psq=bean+mi&_ss=e&_v=1.0
+image: "[[7812si_L-Sprouts-Bean-Mix-ORG_52004be2-9d0a-424d-ad9e-8831ccdd2f77.webp]]"
+seedQuantity: 720
 ---
-**Website:** https://www.botanicalinterests.com/products/bean-mix-sprouts-seeds?_pos=1&_psq=bean+mi&_ss=e&_v=1.0
-
-***~720 seeds***
-
 ![[7812si_L-Sprouts-Bean-Mix-ORG_52004be2-9d0a-424d-ad9e-8831ccdd2f77.webp|600]]
 
 ### Description

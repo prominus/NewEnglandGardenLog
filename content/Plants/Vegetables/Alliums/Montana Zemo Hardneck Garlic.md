@@ -5,6 +5,15 @@ tags:
   - plant
   - vegetable
   - garlic
+plantCategory: garlic
+plantSeason:
+  - fall
+whenToStartOutside: 6
+directSeed: yes
+growthDuration: 270
+weblinks:
+  - https://www.botanicalinterests.com/products/montana-zemo-hardneck-garlic?_pos=1&_psq=montana+zemo+hardneck+garlic&_ss=e&_v=1.0
+image: "[[4947_garlic_montana-zemo_800.webp]]"
 ---
 
 Purchased at $8.95 from Botanical Interests: https://www.botanicalinterests.com/products/montana-zemo-hardneck-garlic?_pos=1&_psq=montana+zemo+hardneck+garlic&_ss=e&_v=1.0

@@ -18,7 +18,7 @@ weblinks:
   - https://peppergeek.com/aji-charapita-peppers/
 image: "[[82a_-_Aji_Charapita_600x.webp]]"
 seedQuantity: 10
-soilTemp: "75"
+soilTemp: "70"
 sili-seedlingCount: 1
 quantity: 6
 ---

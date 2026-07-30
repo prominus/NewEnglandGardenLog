@@ -1,6 +1,5 @@
 ---
-title:
-  "{{title}}"
+title: "{{title}}"
 draft: false
 tags:
   - plant
@@ -17,6 +16,7 @@ weblinks:
 image:
 seedQuantity:
 soilTemp:
+archived: false
 ---
 \<Insert Image\>
 

@@ -4,6 +4,15 @@ draft: false
 tags:
   - plant
   - vegetable
+  - allium
+plantCategory: allium
+whenToStartOutside:
+plantSeason:
+  - fall
+directSeed: yes
+weblinks:
+  - https://www.egyptianwalkingonion.com/egyptian-walking-onion-topsets-white.html
+image: "[[egyptian-walking-onion-topsets-white-clusters.webp]]"
 ---
 - [ ] #action Look into walking onions more to order for September
 

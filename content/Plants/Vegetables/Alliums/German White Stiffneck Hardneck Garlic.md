@@ -5,9 +5,19 @@ tags:
   - plant
   - vegetable
   - garlic
+plantCategory: garlic
+whenToStartOutside: 6
+plantSeason:
+  - fall
+directSeed: yes
+growthDuration: 270
+weblinks:
+  - https://www.botanicalinterests.com/products/german-white-hardneck-garlic?_pos=1&_psq=german+white+hardn&_ss=e&_v=1.0
+image: "[[4940_garlic_german-white_800.webp]]"
+soilTemp:
 ---
 
-Purchased at $7.95 from Botanical Interests: https://www.botanicalinterests.com/products/german-white-hardneck-garlic?_pos=1&_psq=german+white+hardn&_ss=e&_v=1.0
+Purchased at $7.95 from Botanical Interests
 
 **_Cloves per bulb: 4-7_**
 

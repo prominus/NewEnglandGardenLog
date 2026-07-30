@@ -17,12 +17,10 @@ directSeed: n/a
 growthDuration: 83
 weblinks:
   - https://www.botanicalinterests.com/products/signet-gem-blend-marigold-seeds?omnisendContactID=68346ffece4e6693fe878507
-collection: flower
+image: "[[2011i_Marigold-Signet-Gem-Blend_evppai_7cde4a55-452f-438b-bdde-766493643736.webp]]"
+seedQuantity: 100
+soilTemp: "70"
 ---
-**Website:** https://www.botanicalinterests.com/products/signet-gem-blend-marigold-seeds?omnisendContactID=68346ffece4e6693fe878507
-
-***~100 seeds***
-
 ![[2011i_Marigold-Signet-Gem-Blend_evppai_7cde4a55-452f-438b-bdde-766493643736.webp|600]]
 
 ### Description

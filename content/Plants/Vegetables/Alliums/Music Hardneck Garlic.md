@@ -5,6 +5,15 @@ tags:
   - plant
   - vegetable
   - garlic
+plantCategory: garlic
+whenToStartOutside: 6
+plantSeason:
+  - fall
+directSeed: yes
+growthDuration: 270
+weblinks:
+  - https://www.botanicalinterests.com/products/music-hardneck-garlic?_pos=1&_psq=music+hardneck+gar&_ss=e&_v=1.0
+image: "[[4946_garlic_music_800.webp]]"
 ---
 
 Purchased at $7.95 at Botanical Interests: https://www.botanicalinterests.com/products/music-hardneck-garlic?_pos=1&_psq=music+hardneck+gar&_ss=e&_v=1.0

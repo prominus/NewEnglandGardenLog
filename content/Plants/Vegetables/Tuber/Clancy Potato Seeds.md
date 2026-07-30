@@ -5,11 +5,12 @@ tags:
   - plant
   - vegetable
   - potato
+weblinks:
+  - https://www.botanicalinterests.com/products/clancy-potato-seeds?_pos=1&_sid=f9da126fc&_ss=r
+image: "[[0002i_Potato-Clancy_nxhlke.webp]]"
+seedQuantity: 12
+archived: true
 ---
-**Website:** https://www.botanicalinterests.com/products/clancy-potato-seeds?_pos=1&_sid=f9da126fc&_ss=r
-
-***~12 seeds***
-
 ![[0002i_Potato-Clancy_nxhlke.webp|600]]
 
 ### Description

@@ -34,6 +34,7 @@
     "plantSeason": "multitext",
     "directSeed": "text",
     "weblinks": "multitext",
-    "seedQuantity": "number"
+    "seedQuantity": "number",
+    "archived": "checkbox"
   }
 }

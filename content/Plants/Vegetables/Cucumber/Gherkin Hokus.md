@@ -5,11 +5,21 @@ tags:
   - plant
   - vegetable
   - cucumber
+archived: true
+plantCategory: cucumber
+quantity: 3
+whenToStartInside: 4
+whenToStartOutside: -2
+plantSeason:
+  - spring
+directSeed: n/a
+growthDuration: 60
+weblinks:
+  - https://www.botanicalinterests.com/products/hokus-gherkin-cucumber-seeds?_pos=1&_sid=5ffc5b678&_ss=r
+image: "[[3127i_Cucumber-Gherkin-Hokus-ORG_yickfe_e4fe91db-d304-468f-bbb0-4b2b2169cc29.webp]]"
+seedQuantity: 20
+soilTemp: "60"
 ---
-**Website:** https://www.botanicalinterests.com/products/hokus-gherkin-cucumber-seeds?_pos=1&_sid=5ffc5b678&_ss=r
-
-***~20 seeds***
-
 ![[3127i_Cucumber-Gherkin-Hokus-ORG_yickfe_e4fe91db-d304-468f-bbb0-4b2b2169cc29.webp|600]]
 
 ### Description

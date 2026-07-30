@@ -5,11 +5,14 @@ tags:
   - plant
   - sprouts
   - brassica
+  - vegetable
+plantCategory: sprouts
+growthDuration: 9
+weblinks:
+  - https://www.botanicalinterests.com/products/broccoli-sprouts-seeds
+image: "[[7802si_L-Sprouts-Broccoli-ORG_54544c38-504d-4f7a-afcd-de70b7e7971d.webp]]"
+seedQuantity: 4880
 ---
-**Website:** https://www.botanicalinterests.com/products/broccoli-sprouts-seeds
-
-***~4880 seeds***
-
 ![[7802si_L-Sprouts-Broccoli-ORG_54544c38-504d-4f7a-afcd-de70b7e7971d.webp|600]]
 ### Description
 

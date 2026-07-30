@@ -5,11 +5,13 @@ tags:
   - plant
   - herb
   - microgreens
+plantCategory: microgreens
+growthDuration: 25
+weblinks:
+  - https://www.botanicalinterests.com/products/ciao-bella-basil-blend-microgreens-seeds
+seedQuantity: 4800
+image: "[[7754si_L-Microgreens-Ciao-Bella-Basil-Blend-ORG_d83722df-0cbe-4f93-8092-582e91ca6cf6.webp]]"
 ---
-**Website:** https://www.botanicalinterests.com/products/ciao-bella-basil-blend-microgreens-seeds
-
-***~4800 seeds***
-
 ![[7754si_L-Microgreens-Ciao-Bella-Basil-Blend-ORG_d83722df-0cbe-4f93-8092-582e91ca6cf6.webp|600]]
 
 ### Description

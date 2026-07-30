@@ -18,7 +18,7 @@ weblinks:
   - https://www.botanicalinterests.com/products/red-and-yellow-blend-biquinho-chile-pepper-seeds?_pos=1&_psq=biquin&_ss=e&_v=1.0
 image: "[[0074i_Pepper-Chile-Biquinho-RY-Blend_zximsf.webp]]"
 seedQuantity: 25
-soilTemp: "75"
+soilTemp: "70"
 ---
 
 ![[0074i_Pepper-Chile-Biquinho-RY-Blend_zximsf.webp|600]]

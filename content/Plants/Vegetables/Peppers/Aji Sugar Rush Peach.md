@@ -16,7 +16,7 @@ weblinks:
   - https://bohicapepperhut.com/products/aji-sugar-rush-peach-seeds?_pos=1&_sid=93cec1738&_ss=r
 image: "[[Pasted image 20251115160859.png]]"
 seedQuantity: 10
-soilTemp: "75"
+soilTemp: "70"
 ---
 
 ![[Pasted image 20251115160859.png|600]]

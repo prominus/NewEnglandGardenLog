@@ -5,11 +5,19 @@ tags:
   - plant
   - vegetable
   - beans
+plantCategory: bean
+whenToStartInside:
+whenToStartOutside:
+plantSeason:
+  - spring
+directSeed: yes
+growthDuration: 104
+weblinks:
+  - https://shop.seedsavers.org/fiskeby-soybean
+image: "[[soybean.webp]]"
+seedQuantity: 50
+soilTemp:
 ---
-**Website:** https://shop.seedsavers.org/fiskeby-soybean
-
-***~50 seeds***
-
 ![[soybean.webp|600]]
 
 ### Description
@@ -29,8 +37,6 @@ Bred by the late Dr. Sven Holmberg in Fiskeby, Norrköpping, Sweden. Use fresh o
 **Scientific name:**  Glycine max
 
 **Family:** Fabaceae
-
-**Type:** Carrot
 
 **Native:** 
 
