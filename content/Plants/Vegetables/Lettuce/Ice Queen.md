@@ -5,9 +5,22 @@ tags:
   - plant
   - vegetable
   - lettuce
+plantCategory: lettuce
+whenToStartInside: 6
+whenToStartOutside: 4
+plantSeason:
+  - spring
+  - fall
+directSeed: n/a
+growthDuration: 61
+weblinks:
+  - https://www.botanicalinterests.com/products/ice-queen-reine-des-glaces-crisphead-lettuce-seeds?_pos=1&_psq=ice+quee&_ss=e&_v=1.0&pb=0
+image: "[[0305i_Lettuce-Batavia-Ice-Queen_f5b4ce29-0297-4caf-a9c1-81a0758b3255.webp]]"
+seedQuantity: 680
+soilTemp:
+secondaryInside: "8"
+secondaryOutside: "6"
 ---
-**Website:** https://www.botanicalinterests.com/products/ice-queen-reine-des-glaces-crisphead-lettuce-seeds?_pos=1&_psq=ice+quee&_ss=e&_v=1.0&pb=0
-
 ![[0305i_Lettuce-Batavia-Ice-Queen_f5b4ce29-0297-4caf-a9c1-81a0758b3255.webp|600]]
 
 ### Description

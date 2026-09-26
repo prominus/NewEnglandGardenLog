@@ -12,6 +12,8 @@
   },
   "vaultPath": "/",
   "contentFolder": "content",
+  "useFullResolutionImages": false,
+  "applyEmbeds": true,
   "publishFrontmatterKey": "publish",
   "allNotesPublishableByDefault": false,
   "showCreatedTimestamp": true,
@@ -19,7 +21,7 @@
   "showPublishedTimestamp": false,
   "usePermalink": false,
   "includeAllFrontmatter": false,
-  "frontmatterFormat": "yaml",
+  "pathRewriteRules": "",
   "createdTimestampKey": "created, created_at, date",
   "updatedTimestampKey": "modified, lastmod, updated, last-modified",
   "publishedTimestampKey": "published, publishDate, date",
@@ -34,21 +36,14 @@
   "useDatacore": false,
   "useExcalidraw": false,
   "useFantasyStatblocks": false,
-  "useBases": false,
-  "useCanvas": false,
-  "manageSyncerStyles": true,
+  "useThemes": false,
   "lastUsedSettingsTab": "git",
   "noteSettingsIsInitialized": true,
-  "pluginVersion": "1.15.0",
-  "lastUpstreamCommitSha": "",
-  "upgradeCheckStrategy": "version",
+  "pluginVersion": "1.9.0",
   "diffViewStyle": "auto",
   "ENABLE_DEVELOPER_TOOLS": false,
   "logLevel": {
     "value": 99,
     "name": "OFF"
-  },
-  "useFullResolutionImages": false,
-  "applyEmbeds": true,
-  "pathRewriteRules": ""
+  }
 }

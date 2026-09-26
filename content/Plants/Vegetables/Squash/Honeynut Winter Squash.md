@@ -5,11 +5,19 @@ tags:
   - vegetable
   - plant
   - squash
+plantCategory: winter-squash
+whenToStartInside: -6
+whenToStartOutside: -2
+plantSeason:
+  - summer
+directSeed: n/a
+growthDuration: 106
+weblinks:
+  - https://www.botanicalinterests.com/products/winter-honeynut-winter-squash-seeds?_pos=6&_sid=3aabfc08b&_ss=r
+image: "[[3182i_Squash-Winter-Honeynut-ORG_wkv6h5.webp]]"
+seedQuantity: 10
+soilTemp: "70"
 ---
-**Website:** https://www.botanicalinterests.com/products/winter-honeynut-winter-squash-seeds?_pos=6&_sid=3aabfc08b&_ss=r
-
-***~10 seeds***
-
 ![[3182i_Squash-Winter-Honeynut-ORG_wkv6h5.webp|600]]
 
 ### Description
@@ -60,7 +68,5 @@ A renowned farm-to-table chef and a Cornell breeder worked for 6 years, crossing
 
 ### Notes
 
-Start in 5" cell
-
-> [!Action] 
-> - [x] #task Purchase seeds for 2026 ✅ 2025-12-21
+- Buy two packets
+- Start 6 in 5" cell

@@ -4,11 +4,13 @@ draft: false
 tags:
   - plant
   - microgreens
+plantCategory: microgreens
+growthDuration: 24
+weblinks:
+  - https://www.botanicalinterests.com/products/jazzy-mix-microgreens-seeds
+seedQuantity: 9220
+image: "[[7327si_L-Microgreens-Jazzy-Mix_d9f32903-f48f-4602-9f9e-f58145f085bb.webp]]"
 ---
-**Website:** https://www.botanicalinterests.com/products/jazzy-mix-microgreens-seeds
-
-***~9220 seeds***
-
 ![[7327si_L-Microgreens-Jazzy-Mix_d9f32903-f48f-4602-9f9e-f58145f085bb.webp|600]]
 
 ### Description

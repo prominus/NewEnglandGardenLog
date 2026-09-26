@@ -4,13 +4,22 @@ draft: false
 tags:
   - plant
   - vegetable
+  - tuber
 aliases:
   - Sunchokes
+plantCategory: tuber
+whenToStartOutside: 4
+plantSeason:
+  - spring
+directSeed: yes
+growthDuration: 120
+weblinks:
+  - https://www.gurneys.com/products/jerusalem_artichoke
+  - https://www.gurneys.com/products/jerusalem_artichoke
+image: "[[sunchoke.webp]]"
+seedQuantity: 8
+soilTemp: "55"
 ---
-###Websites:
-https://www.gurneys.com/products/jerusalem_artichoke
-https://hudsonvalleyseed.com/products/beaver-valley-sunchoke
-
 ***2 pound bag***
 
 ![[sunchoke.webp|600]]

@@ -21,3 +21,9 @@ For my sanity I'm going to number the rows in the [[City Community Garden]] the 
 |    3    |
 |    2    |
 |    1    |
+
+## Plans for 2027
+
+![[2027 Garden Wish List]]
+
+![[2027 Community Garden.svg|500]]
